@@ -4,6 +4,8 @@ Translations of the Writings of the Fathers Down to A.D. 325.
 
 This 24 volume set was published from 1867 to 1885. The editors were Alexander Roberts and James Donaldson. All of the material here was reissued in the [ANF](anf.html) collection but the translations in that collection were sometimes updated from the originals in the ANCL.
 
+Some of the volumes have been converted to text/HTML and are available at [Wikisource](https://en.wikisource.org/wiki/Ante-Nicene_Christian_Library).
+
 Volumes:
 1. The Apostolic Fathers
   * [facsimile copy](https://archive.org/details/AnteNiceneChristianLibraryVol011867)
@@ -21,7 +23,7 @@ Volumes:
   * [facsimile copy](https://archive.org/details/AnteNiceneChristianLibraryVol071868)
 8. The Writings of Cyprian
   * [facsimile copy](https://archive.org/details/AnteNiceneChristianLibraryVol081868)
-9. Irenaeus,Vol. II,---Hippolytus: Vol. II---Fragments of Third Century
+9. Irenaeus,Vol. II---Hippolytus: Vol. II---Fragments of Third Century
   * [facsimile copy](https://archive.org/details/AnteNiceneChristianLibraryVol091869)
 10. The Writings of Origen
   * [facsimile copy](https://archive.org/details/AnteNiceneChristianLibraryVol101869)
