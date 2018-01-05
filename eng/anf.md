@@ -1,6 +1,6 @@
 # Ante_Nicene Fathers (ANF)
 
-This 10 volume set was published between 1885 and 1897. A. Cleveland Coxe was the editor and most of the material was taken from the previously published Ante-Nicene Christain Library.
+This 10 volume set was published between 1885 and 1897. A. Cleveland Coxe was the editor and most of the material was taken from the previously published [Ante-Nicene Christain Library](ancl.html).
 
 To read them online go to the [CCEL website](http://www.ccel.org/fathers.html).
 
