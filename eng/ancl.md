@@ -21,15 +21,15 @@ Volumes:
   * [facsimile copy](https://archive.org/details/AnteNiceneChristianLibraryVol071868)
 8. The Writings of Cyprian
   * [facsimile copy](https://archive.org/details/AnteNiceneChristianLibraryVol081868)
-9. Irenaeus,Vol. II,--Hippolytus: Vol.II.--Fragments of Third Century
+9. Irenaeus,Vol. II,---Hippolytus: Vol. II---Fragments of Third Century
   * [facsimile copy](https://archive.org/details/AnteNiceneChristianLibraryVol091869)
 10. The Writings of Origen
   * [facsimile copy](https://archive.org/details/AnteNiceneChristianLibraryVol101869)
-11. The Writings of Tertullian
+11. The Writings of Tertullian: Vol. I
   * [facsimile copy](https://archive.org/details/AnteNiceneChristianLibraryVol111869)
-12. Clement of Alexandria: Vol.II
+12. Clement of Alexandria: Vol. II
   * [facsimile copy](https://archive.org/details/AnteNiceneChristianLibraryVol121869)
-13. The Writings of Cyprian, Etc: Vol.II
+13. The Writings of Cyprian, Etc: Vol. II
   * [facsimile copy](https://archive.org/details/AnteNiceneChristianLibraryVol131869)
 14. The Writings of Methodius Etc
   * [facsimile copy](https://archive.org/details/AnteNiceneChristianLibraryVol141869)
@@ -37,13 +37,13 @@ Volumes:
   * [facsimile copy](https://archive.org/details/AnteNiceneChristianLibraryVol151870)
 16. Apocryphal Gospels, Acts, and Revelations
   * [facsimile copy](https://archive.org/details/AnteNiceneChristianLibraryVol161870)
-17. The Clementine Homilies. The Apostolic Constitutions
+17. The Clementine Homilies, The Apostolical Constitutions
   * [facsimile copy](https://archive.org/details/AnteNiceneChristianLibraryVol171870)
 18. The Writings of Tertullian: Vol.III with the Extant Works of Victorinus and Commodianus
   * [facsimile copy](https://archive.org/details/AnteNiceneChristianLibraryVol181870)
 19. The Seven Books of Arnobius Adversus Gentes
   * [facsimile copy](https://archive.org/details/AnteNiceneChristianLibraryVol191871)
-20. The Writings of Gregory Thaumaturgus, Dionysus of Alexandria, and Archelaus
+20. The Writings of Gregory Thaumaturgus, Dionysius of Alexandria, and Archelaus
   * [facsimile copy](https://archive.org/details/AnteNiceneChristianLibraryVol201871)
 21. The Works of Lactantius: Vol.I
   * [facsimile copy](https://archive.org/details/AnteNiceneChristianLibraryVol211871)
