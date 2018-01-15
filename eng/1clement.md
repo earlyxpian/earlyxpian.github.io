@@ -22,6 +22,8 @@ English translations:
   * [ANF](anf.html) volume 9: [read online](http://www.ccel.org/ccel/schaff/anf09.xii.i.html)
 * Kirsopp Lake (translated ~1912)
   * ["The Apostolic Fathers, Volume I"](https://archive.org/details/apostolicfathers01lake) (published 1912) --- facsimile
+* W.K. Lowther Clarke (translated ~1937)
+  * The First Epistle of Clement to the Corinthians, Society for the Promotion of Christian Knowledge. (published 1937)
 * James A. Kleist (translated ~1946)
   * ["The Epistles of St. Clement of Rome and St. Ignatius of Antioch." Volume 1 of "Ancient Christian Writers"](https://archive.org/details/in.ernet.dli.2015.58587) (published 1946) --- facsimile
 * Francis X. Glimm (translated ~1947)
