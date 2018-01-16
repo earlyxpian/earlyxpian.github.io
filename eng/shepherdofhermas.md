@@ -18,7 +18,7 @@ English translations:
 * Kirsopp Lake (translated ~1917)
   * ["The Apostolic Fathers, Volume II"](https://archive.org/details/apostolicfathers02lakeuoft) (published 1917) -- facsimile
 * Francis X. Glimm (translated ~1947)
-  * "The Fathers of the Church; The Apostolic Fathers", The Catholic University of America Press (published 1947)
+  * "The Fathers of the Church: The Apostolic Fathers", The Catholic University of America Press (published 1947)
 * Edgar J. Goodspeed (translated ~1950)
   * "The Apostolic Fathers: An American Translation", Harper & Brothers (published 1950)
 * Graydon F. Snyder (translated ~1968)
