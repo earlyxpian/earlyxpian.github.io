@@ -1,6 +1,6 @@
 # An Anonymous Early Christian Sermon (also known as "2 Clement")
 
-The complete Greek text of 2 Clement was not rediscovered until 1873. Therefore, any translations before that date contain only part of the letter.
+The complete Greek text of 2 Clement was not rediscovered until 1873. Therefore, any translations before that date contain only part of the sermon.
 
 * William Wake (translated ~1719)
   * ["The Genuine Epistles of the Apostolical Fathers..."](https://archive.org/details/genuineepistleso1719wake) (published 1719) --- facsimile

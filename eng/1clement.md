@@ -35,6 +35,8 @@ English translations:
     * ["read online"](http://www.ccel.org/ccel/richardson/fathers.vi.i.html) 
 * Robert M. Grant/Holt H. Graham (translated ~1965)
   * "First and Second Clement." Volume 2 in "The Apostolic Fathers: A New Translation and Commentary", Thomas Nelson (published 1965)
+* Maxwell Staniforth/A. Louth (translated 1968/revised 1987)
+  * "Early Christian Writings: The Apostolic Fathers", Penguin (published 1987)
 * Michael W. Holmes (translated 1989-2007)
   * "The Apostolic Fathers in English", Baker Academic (various editions, published 1989-2006)
   * "The Apostolic Fathers: Greek Texts and English Translations of Their Writings", Baker Academic (various editions, published 1992-2007)

@@ -1,3 +1,7 @@
+---
+title: Shepherd of Hermas
+---
+
 # Shepherd of Hermas (also called Pastor of Hermas)
 
 English translations:
