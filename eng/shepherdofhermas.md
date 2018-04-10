@@ -13,6 +13,8 @@ English translations:
   * [ANF](anf.html) volume 2: [read online](http://www.ccel.org/ccel/schaff/anf02.ii.i.html)
 * Charles H. Hoole (translated ~1870)
   * ["The Shepherd of Hermas"](https://archive.org/details/shepherdhermast00hermgoog) (published 1870) --- facsimile
+* George A. Jackson (translated ~1879)
+  * ["The Apostolic Fathers and The Apologists of the Second Century"](https://archive.org/details/theapostolicfath00jackuoft) (published 1879, this is a partial translation only) --- facsimile
 * J.B. Lightfoot/J.R. Harmer (translated ~1891)
   * ["The Apostolic Fathers"](https://archive.org/details/a590752000clemuoft) (published 1912) --- facsimile
   * ["The Apostolic Fathers"](http://www.katapi.org.uk/ApostolicFathers/ApFathers-Contents.html) (published 1891) --- text/HTML
