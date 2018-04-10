@@ -19,6 +19,8 @@ The complete Greek text of 2 Clement was not rediscovered until 1873. Therefore,
   * [ANF](anf.html) volume 9: [read online](http://www.ccel.org/ccel/schaff/anf09.xii.v.html)
 * Kirsopp Lake (translated ~1912)
   * ["The Apostolic Fathers, Volume I"](https://archive.org/details/apostolicfathers01lake) (published 1912) --- facsimile
+* Anonymous (Editorial Secretary of the Society for Promoting Christian Knowledge) (translated ~1922)
+  * ["An English Translation of the So-Called Second Epistle of Clement to the Corinthians"](https://archive.org/details/2clement-spck) (published 1922) --- facsimile
 * James A. Kleist (translated ~1946)
   * ["The Epistles of St. Clement of Rome and St. Ignatius of Antioch." Volume 1 of "Ancient Christian Writers"](https://archive.org/details/in.ernet.dli.2015.58587) (published 1946) --- facsimile
 * Francis X. Glimm (translated ~1947)
