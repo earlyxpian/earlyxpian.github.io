@@ -24,3 +24,7 @@ English translations:
 * Michael W. Holmes (translated 1989-2007)
   * "The Apostolic Fathers in English", Baker Academic (various editions, published 1989-2006)
   * "The Apostolic Fathers: Greek Texts and English Translations of Their Writings", Baker Academic (various editions, published 1992-2007)
+* Bart D. Ehrman (translated ~2003)
+  * "The Apostolic Fathers, Volume II", Harvard University Press (published 2003)
+* Anonymous
+  * ["Letter of Bar-Naba (Barnabas)"](http://www.biblicalaudio.com/text/barnabas.pdf) (published 2018) --- text/PDF
