@@ -15,6 +15,8 @@ English translations:
   * ["S. Clement of Rome. The Two Epistles to the Corinthians."](https://archive.org/details/twoepistlestocor00clem) (published 1869) --- facsimile
     * This translation, although incomplete, has extensive notes.
   * ["S. Clement of Rome. An Appendix Containing The Newly Recovered Portions."](https://archive.org/details/SClementOfRomeV2) (published 1877) --- facsimile
+* Charles H. Hoole (translated ~1872)
+  * ["The Apostolic Fathers"](https://archive.org/details/apostolicfather00hoolgoog) (published 1872) --- facsimile
 * J.B. Lightfoot/J.R. Harmer (translated ~1891)
   * ["The Apostolic Fathers"](https://archive.org/details/a590752000clemuoft) (published 1912) --- facsimile
   * ["The Apostolic Fathers"](http://www.katapi.org.uk/ApostolicFathers/ApFathers-Contents.html) (published 1891) --- text/HTML
