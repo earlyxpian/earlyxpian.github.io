@@ -22,10 +22,11 @@ The collection does not contain some very early and important early Christians w
 
 This collection has numerous notes and detailed introductions to each writing. 
 
-To download this collection as:
-* HTML click here
-* EPUB click here (this is the best format for e-readers, cell phones and tablets)
-* PDF click here
+Download this collection as:
+* [HTML](earlychristianfathers.html)
+* [EPUB](earlychristianfathers.epub) (this is the best format for e-readers, cell phones and tablets)
+* [PDF](earlychristianfathers.pdf)
 
-To read and search this collection online, visit the Chrstian Classics Ethereal Library here.
+To read and search this collection online, visit the [Christian Classics Ethereal Library](http://www.ccel.org/ccel/richardson/fathers.i.html).
+To download a fascimile scan of this collection, visit [Archive.org](https://archive.org/details/LCC1_ECF).
 
