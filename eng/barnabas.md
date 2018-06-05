@@ -18,7 +18,8 @@ English translations:
   * ["The Apostolic Fathers"](https://archive.org/details/a590752000clemuoft) (published 1912) --- facsimile
   * ["The Apostolic Fathers"](http://www.katapi.org.uk/ApostolicFathers/ApFathers-Contents.html) (published 1891) --- text/HTML
 * Alexander Roberts/James Donaldson (translated ~1866)
-  * [ANF](anf.html) volume 1: [read online](http://www.ccel.org/ccel/schaff/anf01.vi.i.html)
+  * ["Ante-Nicene Fathers"](anf.html) volume 1 (published 1866)
+    * [read online](http://www.ccel.org/ccel/schaff/anf01.vi.i.html)
 * Kirsopp Lake (translated ~1912)
   * ["The Apostolic Fathers, Volume I"](https://archive.org/details/apostolicfathers01lake) (published 1912) --- facsimile
 * Francis X. Glimm (translated ~1947)
