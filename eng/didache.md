@@ -17,6 +17,9 @@ English translations:
   * ["The Teaching of the Twelve Apostles"](https://archive.org/details/teachingoftwe00brye) (published 1885) --- facsimile
 * Charles Taylor (translated ~1886)
   * ["The Teaching of the Twelve Apostles"](https://archive.org/details/teachingoftwelve00tayl) (published 1886) --- facsimile
+* Matthew Brown Riddle (translated ~1886) 
+  * ["Ante-Nicene Fathers"](anf.html) volume 7 (published 1886)
+    * [read online](http://www.ccel.org/ccel/schaff/anf07.viii.html)
 * J. Rendel Harris (translated ~1887)
   * ["The Teaching of the Apostles"](https://archive.org/details/Didache_201706) (published 1887) --- facsimile
 * J.B. Lightfoot (translated ~1891)
@@ -35,7 +38,7 @@ English translations:
 * Edgar J. Goodspeed (translated ~1950)
   * "The Apostolic Fathers: An American Translation", Harper & Brothers. (published 1950)
 * Cyril C. Richardson (translated ~1953)
-  * ["Early Christian Fathers"](https://archive.org/details/LCC1_ECF) (published 1953) --- facsimile
+  * ["Early Christian Fathers"](ecf.html) (published 1953)
     * ["read online"](http://www.ccel.org/ccel/richardson/fathers.vi.i.html) 
 * Robert A. Kraft (translated ~1965)
   * "Barnabas and the Didache." Volume 3 of "The Apostolic Fathers: A New Translation and Commentary", Thomas Nelson & Sons (published 1965)

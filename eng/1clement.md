@@ -21,7 +21,8 @@ English translations:
   * ["The Apostolic Fathers"](https://archive.org/details/a590752000clemuoft) (published 1912) --- facsimile
   * ["The Apostolic Fathers"](http://www.katapi.org.uk/ApostolicFathers/ApFathers-Contents.html) (published 1891) --- text/HTML
 * John Keith (translated ~1897)
-  * [ANF](anf.html) volume 9: [read online](http://www.ccel.org/ccel/schaff/anf09.xii.i.html)
+  * ["Ante-Nicene Fathers"](anf.html) volume 9 (published 1897)
+    * [read online](http://www.ccel.org/ccel/schaff/anf09.xii.i.html)
 * Kirsopp Lake (translated ~1912)
   * ["The Apostolic Fathers, Volume I"](https://archive.org/details/apostolicfathers01lake) (published 1912) --- facsimile
 * W.K. Lowther Clarke (translated ~1937)
@@ -33,7 +34,7 @@ English translations:
 * Edgar J. Goodspeed (translated ~1950)
   * "The Apostolic Fathers: An American Translation", Harper & Brothers. (published 1950)
 * Cyril C. Richardson (translated ~1953)
-  * ["Early Christian Fathers"](https://archive.org/details/LCC1_ECF) (published 1953) --- facsimile
+  * ["Early Christian Fathers"](ecf.html) (published 1953)
     * ["read online"](http://www.ccel.org/ccel/richardson/fathers.vi.i.html) 
 * Robert M. Grant/Holt H. Graham (translated ~1965)
   * "First and Second Clement." Volume 2 in "The Apostolic Fathers: A New Translation and Commentary", Thomas Nelson (published 1965)
