@@ -10,7 +10,7 @@ Volumes:
 1. The Apostolic Fathers
   * [facsimile copy](https://archive.org/details/AnteNiceneChristianLibraryVol011867)
 2. Justin Martyr and Athenagoras
-  * [fascimile copy](https://archive.org/details/AnteNiceneChristianLibraryVol021867)
+  * [facsimile copy](https://archive.org/details/AnteNiceneChristianLibraryVol021867)
 3. Tatian, Theophilus, and the Clementine Recognitions
   * [facsimile copy](https://archive.org/details/AnteNiceneChristianLibraryVol031867)
 4. Clement of Alexandria: Vol.I
