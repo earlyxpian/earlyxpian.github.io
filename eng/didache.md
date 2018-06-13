@@ -42,6 +42,7 @@ English translations:
     * ["read online"](http://www.ccel.org/ccel/richardson/fathers.vi.i.html) 
 * Robert A. Kraft (translated ~1965)
   * "Barnabas and the Didache." Volume 3 of "The Apostolic Fathers: A New Translation and Commentary", Thomas Nelson & Sons (published 1965)
+    * [read online](http://ccat.sas.upenn.edu/rak/publics/barn/barndidintro.htm) 
 * Maxwell Staniforth/A. Louth (translated 1968/revised 1987)
   * "Early Christian Writings: The Apostolic Fathers", Penguin (published 1987)
 * Michael W. Holmes (translated 1989-2007)

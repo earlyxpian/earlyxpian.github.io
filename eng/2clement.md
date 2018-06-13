@@ -38,4 +38,5 @@ The complete Greek text of 2 Clement was not rediscovered until 1873. Therefore,
   * "The Apostolic Fathers: Greek Texts and English Translations of Their Writings", Baker Academic (various editions, published 1992-2007)
 * Bart D. Ehrman (translated ~2003)
   * "The Apostolic Fathers, Volume I", Harvard University Press (published 2003)
-
+* Christopher Tuckett (translated ~2012)
+  * "2 Clement: Introduction, Text and Commentary", Oxford University Press (published 2012)
