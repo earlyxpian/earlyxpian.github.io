@@ -27,7 +27,7 @@ English translations:
 * Francis X. Glimm (translated ~1947)
   * ["The Apostolic Fathers", Volume 1 of "The Fathers of the Church: A New Translation"](https://archive.org/details/in.ernet.dli.2015.58476), The Catholic University of America Press (published 1947)
 * Edgar J. Goodspeed (translated ~1950)
-  * "The Apostolic Fathers: An American Translation", Harper & Brothers (published 1950)
+  * ["The Apostolic Fathers: An American Translation"](goodspeedapostolicfathers.html), Harper & Brothers. (published 1950)
 * Graydon F. Snyder (translated ~1968)
   * "The Shepherd of Hermas." Volume 6 of "The Apostolic Fathers: A New Translation and Commentary", Thomas Nelson & Sons (published 1968)
 * Michael W. Holmes (translated 1989-2007)

@@ -25,7 +25,7 @@ English translations:
 * Francis X. Glimm (translated ~1947)
   * ["The Apostolic Fathers", Volume 1 of "The Fathers of the Church: A New Translation"](https://archive.org/details/in.ernet.dli.2015.58476), The Catholic University of America Press (published 1947)
 * Edgar J. Goodspeed (translated ~1950)
-  * "The Apostolic Fathers: An American Translation", Harper & Brothers (published 1950)
+  * ["The Apostolic Fathers: An American Translation"](goodspeedapostolicfathers.html), Harper & Brothers. (published 1950)
 * Robert A. Kraft (translated ~1965)
   * "Barnabas and the Didache." Volume 3 of "The Apostolic Fathers: A New Translation and Commentary", Thomas Nelson & Sons (published 1965)
     * [read online](http://ccat.sas.upenn.edu/rak/publics/barn/barndidintro.htm) 
