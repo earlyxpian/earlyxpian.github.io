@@ -1,10 +1,10 @@
-# 1 Clement (also known as "Clement to the Corinthians")
+# 1 Clement (also known as “Clement to the Corinthians”)
 
 The complete Greek text of 1 Clement was not rediscovered until 1873. Therefore, any translations before that date contain only part of the letter.
 
 English translations:
 * William Burton (translated ~ 1647)
-  * ["Clement, The blessed Paul's Fellow-labourer In The Gospel, His first Epistle to the Corinthians"](https://archive.org/details/ClementTheBlessedPaulsFellow-labourerInTheGospelHisFirstEpistleTo) (published 1647) --- facsimile
+  * ["Clement, The blessed Paul’s Fellow-labourer In The Gospel, His first Epistle to the Corinthians"](https://archive.org/details/ClementTheBlessedPaulsFellow-labourerInTheGospelHisFirstEpistleTo) (published 1647) --- facsimile
 * William Wake (translated ~1719)
   * ["The Genuine Epistles of the Apostolical Fathers..."](https://archive.org/details/genuineepistleso1719wake) (published 1719) --- facsimile
   * ["The Genuine Epistles of the Apostolical Fathers..."](https://archive.org/details/genuineepistleso01wake) (published 1810) --- facsimile
@@ -35,7 +35,7 @@ English translations:
   * ["The Apostolic Fathers: An American Translation"](goodspeedapostolicfathers.html), Harper & Brothers. (published 1950)
 * Cyril C. Richardson (translated ~1953)
   * ["Early Christian Fathers"](ecf.html) (published 1953)
-    * ["read online"](http://www.ccel.org/ccel/richardson/fathers.vi.i.html) 
+    * [read online](http://www.ccel.org/ccel/richardson/fathers.vi.i.html) 
 * Robert M. Grant/Holt H. Graham (translated ~1965)
   * "First and Second Clement." Volume 2 in "The Apostolic Fathers: A New Translation and Commentary", Thomas Nelson (published 1965)
 * Maxwell Staniforth/A. Louth (translated 1968/revised 1987)
