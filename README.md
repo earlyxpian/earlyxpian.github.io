@@ -11,4 +11,4 @@ This website is created to contain references and links (when available on the I
 
 ### Audio Recordings of Early Christian Writings:
 
-* [English translations](eng/earlychrsitianaudio.html)
+* [English translations](eng/earlychristianaudio.html)
