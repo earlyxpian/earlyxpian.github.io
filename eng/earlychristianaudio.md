@@ -87,7 +87,7 @@ title: Audio Recordings of Early Christian Writings
  * [http://www.biblicalaudio.com/papias.htm](http://www.biblicalaudio.com/papias.htm)
  * [https://archive.org/details/FragmentsOfPapiasReadByPeterJohnParisis](https://archive.org/details/FragmentsOfPapiasReadByPeterJohnParisis)
 
-### Justin Martyr‘s First Apology
+### Justin Martyr’s First Apology
 
  * [https://archive.org/details/JustinApologia1](https://archive.org/details/JustinApologia1)
  * [http://librivox.org/the-first-apology-by-martyr/](http://librivox.org/the-first-apology-by-martyr/)
