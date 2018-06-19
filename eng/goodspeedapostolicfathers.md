@@ -1,8 +1,8 @@
 ---
-title: The Apostolic Fathers: An American Translation
+title: The Apostolic Fathers--An American Translation
 ---
 
-# The Apostolic Fathers: An American Translation
+# The Apostolic Fathers--An American Translation
 
 This book is a collection of some of the earliest Christian writings outside the New Testament. It was translated by Edgar J. Goodspeed and published in 1950. Edgar Goodspeed was a Greek scholar who for many years was Chairman of the Department of New Testament and Early Christian Literature at the University of Chicago. His area of expertise was Greek papyri. He is also known for a translation of the New Testament, one of the first into contemporary English, and a translation of the so-called Old Testament Apocrypha (the portions of the Greek Old Testament not found in the Hebrew Bible).
 
