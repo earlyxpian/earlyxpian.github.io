@@ -4,3 +4,4 @@
 * [Shepherd of Hermas (also called "Pastor of Hermas")](shepherdofhermas.html)
 * [An Anonymous Early Christian Sermon (also called "2 Clement")](2clement.html)
 * [Epistle of Barnabas](barnabas.html)
+* [Apology of Aristides](apologyofaristides.html)
