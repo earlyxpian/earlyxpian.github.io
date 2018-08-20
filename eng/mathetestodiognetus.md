@@ -8,3 +8,5 @@ title: Mathetes to Diognetus
   * "The Epistle to Diognetus: The Greek Text with Introduction, Translation, and Notes", Manchester University Press (published 1949)
 * Clayton N. Jefford (translated ~2013)
   * "The Epistle to Diognetus (with the Fragment of Quadratus)", Oxford University Press (published 2013)
+* Rick Brannan (translated ~2017)
+  * “The Apostolic Fathers: A New Translation”, Lexham Press (published 2017)

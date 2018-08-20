@@ -36,5 +36,7 @@ English translations:
   * "The Apostolic Fathers: Greek Texts and English Translations of Their Writings", Baker Academic (various editions, published 1992-2007)
 * Bart D. Ehrman (translated ~2003)
   * "The Apostolic Fathers, Volume II", Harvard University Press (published 2003)
+* Rick Brannan (translated ~2017)
+  * “The Apostolic Fathers: A New Translation”, Lexham Press (published 2017)
 * Anonymous
   * ["Letter of Bar-Naba (Barnabas)"](http://www.biblicalaudio.com/text/barnabas.pdf) (published 2018) --- text/PDF

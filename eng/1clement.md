@@ -11,13 +11,15 @@ English translations:
   * ["The Suppressed Gospels and Epistles of the Original New Testament of Jesus the Christ, volume. 6"](http://www.gutenberg.org/ebooks/6512) --- text/HTML
 * Temple Chevallier (translated ~1833)
   * ["A translation of the epistles of Clement of Rome, Polycarp, and Ignatius : and of the apologies of Justin Martyr and Tertullian"](https://archive.org/details/ATranslationOfTheEpistlesOfClement) (published 1833) --- facsimile
-* J.B. Lightfoot (translated ~1869/appendix translated ~1877)
+* Joseph Barber Lightfoot (translated ~1869/appendix translated ~1877, 2nd edition ~1890)
   * ["S. Clement of Rome. The Two Epistles to the Corinthians."](https://archive.org/details/twoepistlestocor00clem) (published 1869) --- facsimile
     * This translation, although incomplete, has extensive notes.
   * ["S. Clement of Rome. An Appendix Containing The Newly Recovered Portions."](https://archive.org/details/SClementOfRomeV2) (published 1877) --- facsimile
+  * [“The Apostolic Fathers. Part I. Vol I. S. Clement of Rome”](https://archive.org/details/apostolicfathers0101clem) (2nd edition, published 1890)
+  * [“The Apostolic Fathers. Part I. Vol II. S. Clement of Rome”](https://archive.org/details/p1apostolicfathe02clemuoft) (2nd edition, published 1890)
 * Charles H. Hoole (translated ~1872)
   * ["The Apostolic Fathers"](https://archive.org/details/apostolicfather00hoolgoog) (published 1872) --- facsimile
-* J.B. Lightfoot/J.R. Harmer (translated ~1891)
+* Joseph Barber Lightfoot/J.R. Harmer (translated ~1891)
   * ["The Apostolic Fathers"](https://archive.org/details/a590752000clemuoft) (published 1912) --- facsimile
   * ["The Apostolic Fathers"](http://www.katapi.org.uk/ApostolicFathers/ApFathers-Contents.html) (published 1891) --- text/HTML
 * John Keith (translated ~1897)
@@ -45,6 +47,7 @@ English translations:
   * "The Apostolic Fathers: Greek Texts and English Translations of Their Writings", Baker Academic (various editions, published 1992-2007)
 * Bart D. Ehrman (translated ~2003)
   * "The Apostolic Fathers, Volume I", Harvard University Press (published 2003)
+* Rick Brannan (translated ~2017)
+  * “The Apostolic Fathers: A New Translation”, Lexham Press (published 2017)
 * Anonymous
   * ["Letter of Clemens to the Korinthians"](http://www.biblicalaudio.com/text/clement.pdf) (published 2018) --- text/PDF
-

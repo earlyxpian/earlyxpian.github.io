@@ -5,3 +5,5 @@
 * [An Anonymous Early Christian Sermon (also called "2 Clement")](2clement.html)
 * [Epistle of Barnabas](barnabas.html)
 * [Apology of Aristides](apologyofaristides.html)
+* [Polycarp to the Philippians](polycarptothephilippians.html)
+* [Didache (also called “Teaching of the Twelve Apostles”)](didache.html)
