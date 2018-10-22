@@ -38,7 +38,7 @@ title: Polycarp to the Philippians
   * [“Early Christian Fathers”](ecf.html) (published 1953)
     * [read online](http://www.ccel.org/ccel/richardson/fathers.vi.iii.html)
 * William R. Schoedel (translated ~1967)
-  * "Polycarp, Maryrdom of Polycarp, Fragmants Papias" Volume 3 of "The Apostolic Fathers: A New Translation and Commentary", Thomas Nelson & Sons (published 1967)
+  * “Polycarp, Martyrdom of Polycarp, Fragmants of Papias” Volume 5 of “The Apostolic Fathers: A New Translation and Commentary”, Thomas Nelson & Sons (published 1967)
 * Maxwell Staniforth/A. Louth (translated 1968/revised 1987)
   * “Early Christian Writings: The Apostolic Fathers”, Penguin (published 1987)
 * Michael W. Holmes (translated 1989-2007)

@@ -6,6 +6,8 @@ title: Letters of Ignatius of Antioch
 
 https://archive.org/details/apostolicfathers0202clem
 
+* Robert McQueen Grant (translated ~1966)
+  * “Ingatius of Antioch” Volume 4 of “The Apostolic Fathers: A New Translation and Commentary”, Thomas Nelson & Sons (published 1966)
 * Maxwell Staniforth/A. Louth (translated 1968/revised 1987)
   * “Early Christian Writings: The Apostolic Fathers”, Penguin (published 1987)
 * Michael W. Holmes (translated 1989-2007)
