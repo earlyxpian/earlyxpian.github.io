@@ -36,7 +36,7 @@ title: Polycarp to the Philippians
   * [“The Apostolic Fathers: An American Translation”](goodspeedapostolicfathers.html), Harper & Brothers. (published 1950)
 * Cyril C. Richardson (translated ~1953)
   * [“Early Christian Fathers”](ecf.html) (published 1953)
-    * [read online](http://www.ccel.org/ccel/richardson/fathers.vi.i.html)
+    * [read online](http://www.ccel.org/ccel/richardson/fathers.vi.iii.html)
 * William R. Schoedel (translated ~1967)
   * "Polycarp, Maryrdom of Polycarp, Fragmants Papias" Volume 3 of "The Apostolic Fathers: A New Translation and Commentary", Thomas Nelson & Sons (published 1967)
 * Maxwell Staniforth/A. Louth (translated 1968/revised 1987)
