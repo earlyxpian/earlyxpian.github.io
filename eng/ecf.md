@@ -4,7 +4,7 @@ title: Early Christian Fathers collection
 
 # Early Christian Fathers (ECF) collection
 
-This translation of some of the earliest of the early Christian writings which are not in the New Testament was published in 1953. It was simultaneously published in Great Britain and the USA without copyright notice and therefore immediately passed into the public domain, at least in the USA. It may or may not be still under copyright in other countries.
+This translation of some of the earliest of the early Christian writings which are not in the New Testament was published in 1953. It was simultaneously published in Great Britain and the USA without copyright notice and therefore immediately passed into the public domain, at least in the USA. It may or may not be still under copyright in other countries, however the current publisher has stated that they are not claiming copyright on this work.
 
 This collection contains the following:
 * The Letter of the Church of Rome to the Church of Corinth, commonly called Clement's First Letter
