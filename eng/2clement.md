@@ -33,7 +33,7 @@ The complete Greek text of 2 Clement was not rediscovered until 1873. Therefore,
   * ["The Apostolic Fathers: An American Translation"](goodspeedapostolicfathers.html), Harper & Brothers. (published 1950)
 * Cyril C. Richardson (translated ~1953)
   * ["Early Christian Fathers"](ecf.html) (published 1953)
-    * ["read online"](http://www.ccel.org/ccel/richardson/fathers.ix.html)
+    * [read online](http://www.ccel.org/ccel/richardson/fathers.ix.html)
 * Robert M. Grant/Holt H. Graham (translated ~1965)
   * "First and Second Clement." Volume 2 in "The Apostolic Fathers: A New Translation and Commentary", Thomas Nelson (published 1965)
 * Michael W. Holmes (translated 1989-2007)
