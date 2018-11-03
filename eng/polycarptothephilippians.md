@@ -7,19 +7,19 @@ title: Polycarp to the Philippians
 * William Wake (translated ~1719)
   * [“The Genuine Epistles of the Apostolical Fathers...”](https://archive.org/details/genuineepistleso1719wake) (published 1719) --- facsimile
   * [“The Genuine Epistles of the Apostolical Fathers...”](https://archive.org/details/genuineepistleso01wake) (published 1810) --- facsimile
-  * [“The Suppressed Gospels and Epistles of the Original New Testament of Jesus the Christ, volume. 6”](http://www.gutenberg.org/ebooks/6512) --- text/HTML
 * W.K. Clementson (translated ~1827)
   * [“The Epistles of Ignatius and Polycarp”](https://archive.org/details/TheEpistlesOfIgnatiusAndPolycarp) (published 1827) --- facsimile
 * Temple Chevallier (translated ~1833)
   * [“A translation of the epistles of Clement of Rome, Polycarp, and Ignatius : and of the apologies of Justin Martyr and Tertullian”](https://archive.org/details/ATranslationOfTheEpistlesOfClement) (published 1833) --- facsimile
 * Anonymous
-  * [“The martyrdom of Ignatius, bishop of Antioch, in the year 109; and of Polycarp, bishop of Smyrna, in the middle of the second century...”](https://archive.org/details/TheMartyrdomOfIgnatius) (published 1835) --- facsimile
+  * [“The Epistles of Ignatius and Polycarp, with an Account of Their Martyrdom”](https://archive.org/details/TheMartyrdomOfIgnatius) (published 1835) --- facsimile
 * Alexander Roberts/James Donaldson (translated ~1867)
   * [“Ante-Nicene Fathers”](anf.html) volume 1 (published 1885)
     * [read online](http://www.ccel.org/ccel/schaff/anf01.iv.html)
 * Charles H. Hoole (translated ~1872)
   * [“The Apostolic Fathers”](https://archive.org/details/apostolicfather00hoolgoog) (published 1872) --- facsimile
 * Joseph Barber Lightfoot (translated ~1885)
+  * [“The Apostolic Fathers: Part II. Vol. I S. Ignatius. S. Polycarp.”](https://archive.org/details/apostolicfathers0201clem) (published 1885/1889) --- facsimile
   * [“The Apostolic Fathers: Part II. Vol. III S. Ignatius. S. Polycarp.”](https://archive.org/details/apostolicfathers0203clem) (published 1885/1889) --- facsimile
 * Joseph Barber Lightfoot/J.R. Harmer (translated ~1891)
   * [“The Apostolic Fathers”](https://archive.org/details/a590752000clemuoft) (published 1912) --- facsimile
