@@ -4,6 +4,8 @@ title: Letters of Ignatius of Antioch
 
 # Letters of Ignatius of Antioch
 
+* William Whiston (translated ~1711)
+  * [“Primitive Christianity Revived” Vol I.: Epistles of Ignatius](https://archive.org/details/primitivechristi01whis) (published 1711) --- facsimile
 * William Wake (translated ~1719)
   * [“The Genuine Epistles of the Apostolical Fathers...”](https://archive.org/details/genuineepistleso1719wake) (published 1719) --- facsimile
   * [“The Genuine Epistles of the Apostolical Fathers...”](https://archive.org/details/genuineepistleso01wake) (published 1810) --- facsimile
@@ -14,6 +16,8 @@ title: Letters of Ignatius of Antioch
   * [“A translation of the epistles of Clement of Rome, Polycarp, and Ignatius : and of the apologies of Justin Martyr and Tertullian”](https://archive.org/details/ATranslationOfTheEpistlesOfClement) (published 1833) --- facsimile
 * Anonymous
   * [“The Epistles of Ignatius and Polycarp, with an Account of Their Martyrdom”](https://archive.org/details/TheMartyrdomOfIgnatius) (published 1835) --- facsimile
+* William Cureton (translated ~1849)
+  * [“Corpus Ignatianum: a complete collection of the Ignatian epistles, genuine, interpolated, and spurious](https://archive.org/details/corpusignatianum00igna_0) (published 1849) --- facsimile
 * Alexander Roberts/James Donaldson (translated ~1867)
   * [“Ante-Nicene Fathers”](anf.html) volume 1 (published 1885)
     * [read online](http://www.ccel.org/ccel/schaff/anf01.v.html)
@@ -26,6 +30,9 @@ title: Letters of Ignatius of Antioch
 * Joseph Barber Lightfoot/J.R. Harmer (translated ~1891)
   * [“The Apostolic Fathers”](https://archive.org/details/a590752000clemuoft) (published 1912) --- facsimile
   * [“The Apostolic Fathers”](http://www.katapi.org.uk/ApostolicFathers/ApFathers-Contents.html) (published 1891) --- text/HTML
+* James Herbert Srawley (translated ~1900)
+  * [“The Epistles of St. Ignatius Bishop of Antioch”](https://archive.org/details/epistlesstignat00ignagoog) (published 1900/1919) --- facsimile
+    * [alternative copy](https://archive.org/details/epistles00igna) --- facsimile
 * Kirsopp Lake (translated ~1912)
   * [“The Apostolic Fathers, Volume I”](https://archive.org/details/apostolicfathers01lake) (published 1912) --- facsimile
 * Francis X. Glimm (translated ~1947)
