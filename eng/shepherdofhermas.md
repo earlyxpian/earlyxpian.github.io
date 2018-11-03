@@ -24,7 +24,7 @@ English translations:
   * ["The Shepherd of Hermas, Vol. II"](https://archive.org/details/shepherdhermas02taylgoog) (published 1906) --- facsimile
 * Kirsopp Lake (translated ~1917)
   * ["The Apostolic Fathers, Volume II"](https://archive.org/details/apostolicfathers02lakeuoft) (published 1917) -- facsimile
-* Francis X. Glimm (translated ~1947)
+* Joseph M.-F. Marique (translated ~1947)
   * ["The Apostolic Fathers", Volume 1 of "The Fathers of the Church: A New Translation"](https://archive.org/details/in.ernet.dli.2015.58476), The Catholic University of America Press (published 1947)
 * Edgar J. Goodspeed (translated ~1950)
   * ["The Apostolic Fathers: An American Translation"](goodspeedapostolicfathers.html), Harper & Brothers. (published 1950)
