@@ -1,8 +1,8 @@
 ---
-title: Epistle of Barnabas
+title: Letter of Barnabas
 ---
 
-# Epistle of Barnabas
+# Letter of Barnabas
 
 English translations:
 
