@@ -8,6 +8,7 @@ The complete Greek text of 2 Clement was not rediscovered until 1873. Therefore,
   * ["The Suppressed Gospels and Epistles of the Original New Testament of Jesus the Christ, volume. 6"](http://www.gutenberg.org/ebooks/6512) --- text/HTML
 * Temple Chevallier (translated ~1833)
   * ["A translation of the epistles of Clement of Rome, Polycarp, and Ignatius : and of the apologies of Justin Martyr and Tertullian"](https://archive.org/details/ATranslationOfTheEpistlesOfClement) (published 1833) --- facsimile
+    * [second edition](https://archive.org/details/translationofepi00chev) (published 1851) --- facsimile
 * Joseph Barber Lightfoot (translated ~1869/appendix translated ~1877, 2nd edition ~1890)
   * [“S. Clement of Rome. The Two Epistles to the Corinthians.”](https://archive.org/details/twoepistlestocor00clem) (published 1869) --- facsimile
     * This translation, although incomplete, has extensive notes.

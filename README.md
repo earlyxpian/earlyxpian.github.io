@@ -2,7 +2,7 @@ This website is created to contain references and links (when available on the I
 
 [Introduction to the Early Christian Writings](intro.html)
 
-### Early Christian Writings in Print:
+### Early Christian Writings in Print & Online:
 
 * [English translations](eng/earlychristianwritings.html)
 * [Original languages and other ancient language translations](originallanguages.html)

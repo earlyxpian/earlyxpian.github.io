@@ -23,9 +23,10 @@ This book contains the following:
 
 Edgar J. Goodspeed died in 1962 so his writings are in the public domain in Canada and Australia and any countries with a copyright term of 50 years after the death of an author. The copyright status of the book in the U.S. is unknown as repeated attempts to locate an heir or current copyright holder have failed. Therefore this book is an orphaned work in the U.S. and can probably be used for non-commercial purposes without problem.
 
-This book is available as:
+Download this collection as:
+* [HTML](http://canadafiles.xpian.info/goodspeedapostolicfathersebook.html)
+* [EPUB](http://canadafiles.xpian.info/goodspeedapostolicfathers.epub)
+* [PDF](http://canadafiles.xpian.info/goodspeedapostolicfathers.pdf)
+The following are scans of the original book:
 * [DJVU](http://canadafiles.xpian.info/goodspeedapostolicfathersbw.djvu)
 * [PDF](http://canadafiles.xpian.info/goodspeedapostolicfathersbw.pdf)
-
-This book will shortly be available as HTML, EPUB and PDF.
-

@@ -14,6 +14,7 @@ title: Letters of Ignatius of Antioch
   * [“The Epistles of Ignatius and Polycarp”](https://archive.org/details/TheEpistlesOfIgnatiusAndPolycarp) (published 1827) --- facsimile
 * Temple Chevallier (translated ~1833)
   * [“A translation of the epistles of Clement of Rome, Polycarp, and Ignatius : and of the apologies of Justin Martyr and Tertullian”](https://archive.org/details/ATranslationOfTheEpistlesOfClement) (published 1833) --- facsimile
+    * [second edition](https://archive.org/details/translationofepi00chev) (published 1851) --- facsimile
 * Anonymous
   * [“The Epistles of Ignatius and Polycarp, with an Account of Their Martyrdom”](https://archive.org/details/TheMartyrdomOfIgnatius) (published 1835) --- facsimile
 * William Cureton (translated ~1849)

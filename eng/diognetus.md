@@ -17,7 +17,7 @@ title: Mathetes to Diognetus
 * Lewis Bostock Radford (translated ~1908)
   * [“The Epistle to Diognetus”](https://archive.org/details/epistletodiognet00just), Society for Promoting Christian Knowledge (published 1908) --- facsimile
 * Kirsopp Lake (translated ~1917)
-  * ["The Apostolic Fathers, Volume II"](https://archive.org/details/apostolicfathers02lakeuoft) (published 1917) -- facsimile
+  * ["The Apostolic Fathers, Volume II"](https://archive.org/details/apostolicfathers02lakeuoft) (published 1917) --- facsimile
 * Gerald G. Walsh (translated ~1947)
   * [“The Apostolic Fathers”, Volume 1 of “The Fathers of the Church: A New Translation”](https://archive.org/details/in.ernet.dli.2015.58476), The Catholic University of America Press (published 1947) --- facsimile
 * James A. Kleist (translated ~1948)
@@ -35,7 +35,7 @@ title: Mathetes to Diognetus
   * “The Apostolic Fathers in English”, Baker Academic (various editions, published 1989-2006)
   * “The Apostolic Fathers: Greek Texts and English Translations of Their Writings”, Baker Academic (various editions, published 1992-2007)
 * Bart D. Ehrman (translated ~2003)
-  * “The Apostolic Fathers, Volume I”, Harvard University Press (published 2003)
+  * “The Apostolic Fathers, Volume II”, Harvard University Press (published 2003)
 * Clayton N. Jefford (translated ~2013)
   * “The Epistle to Diognetus (with the Fragment of Quadratus): Introduction, Text, and Commentary”, Oxford University Press (published 2013)
 * Rick Brannan (translated ~2017)
