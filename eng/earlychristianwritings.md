@@ -1,3 +1,7 @@
+---
+title: Early Christian Sources: English translations
+---
+
 # Translations of early Christian writings into English
 
 * [Shepherd of Hermas (also called "Pastor of Hermas")](shepherdofhermas.html)
@@ -8,4 +12,5 @@
 * [Didache (also called “Teaching of the Twelve Apostles”)](didache.html)
 * [Apology of Aristides](apologyofaristides.html)
 * [An Anonymous Early Christian Sermon (also called "2 Clement")](2clement.html)
+* [Mathetes to Diognetus](diognetus.html)
 

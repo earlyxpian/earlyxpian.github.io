@@ -23,6 +23,8 @@ title: Letters of Ignatius of Antioch
     * [read online](http://www.ccel.org/ccel/schaff/anf01.v.html)
 * Charles H. Hoole (translated ~1872)
   * [“The Apostolic Fathers”](https://archive.org/details/apostolicfather00hoolgoog) (published 1872) --- facsimile
+* George A. Jackson (translated ~1879)
+  * ["The Apostolic Fathers and The Apologists of the Second Century"](https://archive.org/details/theapostolicfath00jackuoft) (published 1879) --- facsimile
 * Joseph Barber Lightfoot (translated ~1885)
   * [“The Apostolic Fathers: Part II. Vol. I S. Ignatius. S. Polycarp.”](https://archive.org/details/apostolicfathers0201clem) (published 1885/1889) --- facsimile
   * [“The Apostolic Fathers: Part II. Vol. II S. Ignatius. S. Polycarp.”](https://archive.org/details/apostolicfathers0202clem) (published 1885/1889) --- facsimile

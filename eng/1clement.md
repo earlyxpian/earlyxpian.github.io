@@ -19,6 +19,8 @@ English translations:
   * [“The Apostolic Fathers. Part I. Vol II. S. Clement of Rome”](https://archive.org/details/p1apostolicfathe02clemuoft) (2nd edition, published 1890)
 * Charles H. Hoole (translated ~1872)
   * ["The Apostolic Fathers"](https://archive.org/details/apostolicfather00hoolgoog) (published 1872) --- facsimile
+* George A. Jackson (translated ~1879)
+  * ["The Apostolic Fathers and The Apologists of the Second Century"](https://archive.org/details/theapostolicfath00jackuoft) (published 1879) --- facsimile
 * Joseph Barber Lightfoot/J.R. Harmer (translated ~1891)
   * ["The Apostolic Fathers"](https://archive.org/details/a590752000clemuoft) (published 1912) --- facsimile
   * ["The Apostolic Fathers"](http://www.katapi.org.uk/ApostolicFathers/ApFathers-Contents.html) (published 1891) --- text/HTML

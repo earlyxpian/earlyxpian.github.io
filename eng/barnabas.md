@@ -12,6 +12,8 @@ English translations:
   * ["The Suppressed Gospels and Epistles of the Original New Testament of Jesus the Christ, volume. 6"](http://www.gutenberg.org/ebooks/6512) --- text/HTML
 * Charles H. Hoole (translated ~1872)
   * ["The Apostolic Fathers"](https://archive.org/details/apostolicfather00hoolgoog) (published 1872) --- facsimile
+* George A. Jackson (translated ~1879)
+  * ["The Apostolic Fathers and The Apologists of the Second Century"](https://archive.org/details/theapostolicfath00jackuoft) (published 1879) --- facsimile
 * Samuel Sharpe (translated ~1880)
   * ["The Epistle of Barnabas"](https://archive.org/details/epistleofbarnaba00barn) (published 1880) --- facsimile
 * J.B. Lightfoot/J.R. Harmer (translated ~1891)
