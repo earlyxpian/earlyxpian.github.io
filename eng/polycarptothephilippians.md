@@ -12,7 +12,7 @@ title: Polycarp to the Philippians
 * Temple Chevallier (translated ~1833)
   * [“A translation of the epistles of Clement of Rome, Polycarp, and Ignatius : and of the apologies of Justin Martyr and Tertullian”](https://archive.org/details/ATranslationOfTheEpistlesOfClement) (published 1833) --- facsimile
     * [second edition](https://archive.org/details/translationofepi00chev) (published 1851) --- facsimile
-* Anonymous
+* Anonymous (translated ~1835)
   * [“The Epistles of Ignatius and Polycarp, with an Account of Their Martyrdom”](https://archive.org/details/TheMartyrdomOfIgnatius) (published 1835) --- facsimile
 * Alexander Roberts/James Donaldson (translated ~1867)
   * [“Ante-Nicene Fathers”](anf.html) volume 1 (published 1885)

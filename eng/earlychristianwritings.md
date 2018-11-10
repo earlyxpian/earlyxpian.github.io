@@ -12,5 +12,6 @@ title: Early Christian Sources: English translations
 * [Didache (also called “Teaching of the Twelve Apostles”)](didache.html)
 * [Apology of Aristides](apologyofaristides.html)
 * [An Anonymous Early Christian Sermon (also called "2 Clement")](2clement.html)
+* [Martyrdom of Polycarp](martyrdomofpolycarp.html)
 * [Mathetes to Diognetus](diognetus.html)
 
