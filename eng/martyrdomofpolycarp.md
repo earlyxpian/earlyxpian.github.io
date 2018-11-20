@@ -50,4 +50,4 @@ title: Martyrdom of Polycarp
 * Rick Brannan (translated ~2017)
   * “The Apostolic Fathers: A New Translation”, Lexham Press (published 2017)
 * Anonymous (translated ~2018)
-  * [“Letter of Polykarpos to the Philippians”](http://www.biblicalaudio.com/text/polykarpos_testimony.pdf) (published 2018) --- text/PDF
+  * [“Testimony of Polykarpos”](http://www.biblicalaudio.com/text/polykarpos_testimony.pdf) (published 2018) --- text/PDF

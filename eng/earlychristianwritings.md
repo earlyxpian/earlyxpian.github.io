@@ -2,7 +2,11 @@
 title: Early Christian Sources: English translations
 ---
 
-# Translations of early Christian writings into English
+# Translations of Early Christian Writings Into English
+
+To view a list of published volumes and collections which contian a signficiant number of early Christian writings, click [here](publishedcollections.html). This is not a complete list of collections of early Christian writings but focuses on some of the larger collections. To see more detailed lists, sorted by early Christian writing or writer, see the list below. The list below is intended to be a fairly complete list of translations of each of these early Christian writings or writers. 
+
+## Individual Early Christain Writings or Writers
 
 * [Shepherd of Hermas (also called "Pastor of Hermas")](shepherdofhermas.html)
 * [1 Clement (also called "The First Letter of Clement to the Corinthians")](1clement.html)

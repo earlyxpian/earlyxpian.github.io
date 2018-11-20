@@ -2,7 +2,7 @@
 
 Translations of the Writings of the Fathers Down to A.D. 325.
 
-This 24 volume set was published from 1867 to 1885. The editors were Alexander Roberts and James Donaldson. All of the material here was reissued in the [ANF](anf.html) collection but the translations in that collection were sometimes updated from the originals in the ANCL.
+This 24 volume set was published from 1867-1885. The editors were Alexander Roberts and James Donaldson. All of the material here was reissued in the [ANF](anf.html) collection but the translations in that collection were sometimes updated from the originals in the ANCL.
 
 Some of the volumes have been converted to text/HTML and are available at [Wikisource](https://en.wikisource.org/wiki/Ante-Nicene_Christian_Library).
 
