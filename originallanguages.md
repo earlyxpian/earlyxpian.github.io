@@ -9,3 +9,6 @@ title: Early Christian Writings in their original languages or other ancient lan
 
 Barnabas:
 * ["The Editio Princeps of the Epistle of Barnabas"](https://archive.org/details/editioprincepsof00barn) (published 1883, edited by J. H. Backhouse) --- facsimile
+
+Justin Martyr's Apologies:
+* ["The Apologies of Justin Martyr"](https://archive.org/details/apologiesofjust00just) (published 1911, edited by A. W. F. Blunt) --- facsimile
