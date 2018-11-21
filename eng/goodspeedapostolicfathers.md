@@ -25,7 +25,7 @@ Edgar J. Goodspeed died in 1962 so his writings are in the public domain in Cana
 
 Download this collection as:
 * [HTML](http://canadafiles.xpian.info/goodspeedapostolicfathersebook.html)
-* [EPUB](http://canadafiles.xpian.info/goodspeedapostolicfathers.epub) (this is the best format for e-readers, cell phones and tablets)
+* [EPUB](http://canadafiles.xpian.info/goodspeedapostolicfathers.epub) (this is the best format for ebook readers, cell phones and tablets)
 * [PDF](http://canadafiles.xpian.info/goodspeedapostolicfathers.pdf)
 
 The following are scans of the original book:
