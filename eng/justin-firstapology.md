@@ -11,7 +11,7 @@ title: Justin's First Apology
   * ["A translation of the epistles of Clement of Rome, Polycarp, and Ignatius : and of the apologies of Justin Martyr and Tertullian"](https://archive.org/details/ATranslationOfTheEpistlesOfClement) (published 1833) --- facsimile
     * [second edition](https://archive.org/details/translationofepi00chev) (published 1851) --- facsimile
 * G. J. Davies (translated ~1861)
-  * ["The Works Now Extant of S. Justin the Martyr"](https://archive.org/details/worksnowextantof40just) (published 1861) --- facsimile
+  * ["The Works Now Extant of S. Justin the Martyr", volume 40 or 42 of "A Library of Fathers of the Holy Catholic Church"](https://archive.org/details/worksnowextantof40just) (published 1861) --- facsimile
 * Marcus Dods (transalted ~1867)
   * * ["Ante-Nicene Fathers" Volume 1](anf.html) (published 1885)
 * Basil Lanneau Gildersleeve (translated ~1877)

@@ -29,6 +29,9 @@ English translations:
   * ["The Didache"](https://archive.org/details/didacheorteachin00hool) (published 1894) --- facsimile
 * G.C. Allen (translated ~1903)
   * ["The Didache"](https://archive.org/details/thedidache00alleuoft) (published 1903) --- facsimile
+* Charles Bigg/Arthur John Maclean (translated ~1898)
+  * ["The Doctrine of the Twelve Apostles", 1st edition](https://archive.org/details/doctrinetwelvea00bigggoog) (published 1898) --- facsimile
+  * ["The Doctrine of the Twelve Apostles", 2nd edition](https://archive.org/details/doctrineoftwelve00bigguoft) (published 1922) --- facsimile
 * Kirsopp Lake (translated ~1912)
   * ["The Apostolic Fathers, Volume I"](https://archive.org/details/apostolicfathers01lake) (published 1912) --- facsimile
 * Francis X. Glimm (translated ~1947)
