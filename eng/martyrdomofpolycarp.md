@@ -27,6 +27,8 @@ title: Martyrdom of Polycarp
   * [“St. Polycarp, Bishop of Smyrna”](https://archive.org/details/stpolycarpbishop00polyuoft) (published 1898) --- facsimile
 * Kirsopp Lake (translated ~1917)
   * ["The Apostolic Fathers, Volume II"](https://archive.org/details/apostolicfathers02lakeuoft) (published 1917) --- facsimile
+* E. C. C. Owen (translated ~1927)
+  * ["Some Authentic Acts of the Early Martyrs"](someauthenticactsoftheearlymartyrs.html) (published 1927) --- facsimile
 * Francis X. Glimm (translated ~1947)
   * [“The Apostolic Fathers”, Volume 1 of “The Fathers of the Church: A New Translation”](https://archive.org/details/in.ernet.dli.2015.58476), The Catholic University of America Press (published 1947)
 * James A. Kleist (translated ~1948)
