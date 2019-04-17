@@ -18,4 +18,6 @@ To view a list of published volumes and collections which contian a signficiant 
 * [An Anonymous Early Christian Sermon (also called "2 Clement")](2clement.html)
 * [Martyrdom of Polycarp](martyrdomofpolycarp.html)
 * [Mathetes to Diognetus](diognetus.html)
-
+* [Justin’s First Apology](justin-firstapology.html)
+* [Justin’s Second Apology](justin-secondapology.html)
+* [Justin’s Dialgoue With Trypho](justin-dialoguewithtrypho.html)

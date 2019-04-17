@@ -33,3 +33,6 @@ This large series, currently at 133 volumes, has been published by The Catholic 
 * 120: Pamphilus and Rufinus: Apology for Origen: with On the Falsification of the Books of Origen
 
 For more information about this series, visit the [publisher's website](https://www.cuapress.org/). Scans of the entire series are avilable, for pay, via [“Project Muse”](https://muse.jhu.edu). If you have online access to collections of a large library, you may be able to access them for free there as some libraries have subscriptions to the “Project Muse.”
+
+Limited previews of some of the volumes are available on Google Books:
+[Volume 6](https://books.google.ca/books?id=BYsK3PgR97wC)

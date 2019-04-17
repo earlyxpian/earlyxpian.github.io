@@ -35,3 +35,6 @@ This large series, currently at 70 volumes, has been published by Paulist Press 
 * 68: St. Jerome & Origen: Commentary on Isaiah & Homilies 1-9 on Isaiah 
 
 Other than volume 1 & 56, the volumes of these series are not available online. More information about this series is available at the [publisher’s website](https://www.paulistpress.com/).
+
+Limited previews of some of the volumes are available on Google Books:
+* [Volume 39](https://books.google.com/books?id=-Tq_t-sEP9sC)
