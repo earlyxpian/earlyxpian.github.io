@@ -18,7 +18,7 @@ This large series, currently at 70 volumes, has been published by Paulist Press 
 * 23: Athenagoras: Embassy for the Christians, The Resurrection of the Dead
 * 24: Tertullian: The Treatise Against Hermogenes
 * 25: St. Cyprian: The Lapsed, The Unity of the Catholic Church
-* 26: Origen: Commentary & Homilies
+* 26: Origen: The Song of Songs, Commentary & Homilies
 * 27: St. Methodius: The Symposium: A Treatise on Chasity
 * 28: Tertullian: Treatises on Penance: On Penitence and On Purity
 * 39: The Octavius of Marcus Minucius Felix
@@ -37,4 +37,23 @@ This large series, currently at 70 volumes, has been published by Paulist Press 
 Other than volume 1 & 56, the volumes of these series are not available online. More information about this series is available at the [publisher’s website](https://www.paulistpress.com/).
 
 Limited previews of some of the volumes are available on Google Books:
+* [Volume 6](https://books.google.com/books?id=J9hETdMVwowC)
+* [Volume 7](https://books.google.com/books?id=_0BKFcTWD7gC)
+* [Volume 8](https://books.google.com/books?id=I-p1zkmm0CsC)
+* [Volume 13](https://books.google.com/books?id=aWCzz8-kwwkC)
+* [Volume 16](https://books.google.com/books?id=UvYTRay36KsC)
+* [Volume 19](https://books.google.com/books?id=GEN3tk5GlfEC)
+* [Volume 23](https://books.google.com/books?id=dHuL5YdSSpMC)
+* [Volume 24](https://books.google.com/books?id=NNaxIMo-RDUC)
+* [Volume 25](https://books.google.com/books?id=h5fFy1rpXsoC)
+* [Volume 26](https://books.google.com/books?id=Mjxy0Fl7VMsC)
+* [Volume 27](https://books.google.com/books?id=_SezYfE7UzwC)
+* [Volume 28](https://books.google.com/books?id=87s4CanjtYIC)
 * [Volume 39](https://books.google.com/books?id=-Tq_t-sEP9sC)
+* [Volume 43](https://books.google.com/books?id=Ue2-SUFmyMoC)
+* [Volume 44](https://books.google.com/books?id=I28JxyRlMPcC)
+* [Volume 46](https://books.google.com/books?id=7lZZBPSo9t4C)
+* [Volume 54](https://books.google.com/books?id=PceLcOGH_w0C)
+* [Volume 55](https://books.google.com/books?id=LUOskdepLlAC)
+* [Volume 62](https://books.google.com/books?id=KiTmVIOg3HwC)
+
