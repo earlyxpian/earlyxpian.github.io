@@ -56,6 +56,8 @@ title: Letters of Ignatius of Antioch
   * “The Apostolic Fathers: Greek Texts and English Translations of Their Writings”, Baker Academic (various editions, published 1992-2007)
 * Bart D. Ehrman (translated ~2003)
   * “The Apostolic Fathers, Volume I”, Harvard University Press (published 2003)
+* Alistair Stewart (translated ~2013)
+  * “The Letters: Ignatius of Antioch”, volume 49 in the Popular Patristics Series, St. Vladimir’s Seminary Press (published 2013)
 * Rick Brannan (translated ~2017)
   * “The Apostolic Fathers: A New Translation”, Lexham Press (published 2017)
 * Anonymous (translated ~2018)
