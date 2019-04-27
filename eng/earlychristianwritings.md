@@ -22,4 +22,4 @@ To view a list of published volumes and collections which contian a signficiant 
 * [Justin’s Second Apology](justin-secondapology.html)
 * [Justin’s Dialgoue With Trypho](justin-dialoguewithtrypho.html)
 * [Justin’s Other Writings](justin-other.html) 
-
+* [Athenagoras of Athens](athenagorasofathens.html)
