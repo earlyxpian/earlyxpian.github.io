@@ -23,3 +23,5 @@ To view a list of published volumes and collections which contian a signficiant 
 * [Justin’s Dialgoue With Trypho](justin-dialoguewithtrypho.html)
 * [Justin’s Other Writings](justin-other.html) 
 * [Athenagoras of Athens](athenagorasofathens.html)
+* [Tatian of Syria](tatian.html)
+* [The Diatessaron (an early harmony of Matthew, Mark, Luke and John)](diatessaron.html)

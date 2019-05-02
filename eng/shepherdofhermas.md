@@ -10,7 +10,7 @@ English translations:
   * ["The Genuine Epistles of the Apostolical Fathers..."](https://archive.org/details/genuineepistleso01wake) (published 1810) --- facsimile
   * ["The Suppressed Gospels and Epistles of the Original New Testament of Jesus the Christ, volume. 9"](http://www.gutenberg.org/ebooks/6515) --- text/HTML
 * F. Crombie (translated ~1867) 
-  * ["Ante-Nicene Fathers"](anf.html) volume 2 (published 1867)
+  * ["Ante-Nicene Fathers"](anf.html) volume 2 (published 1885)
     * [read online](http://www.ccel.org/ccel/schaff/anf02.ii.i.html)
 * Charles H. Hoole (translated ~1870)
   * ["The Shepherd of Hermas"](https://archive.org/details/shepherdhermast00hermgoog) (published 1870) --- facsimile
