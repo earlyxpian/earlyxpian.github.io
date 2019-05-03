@@ -25,3 +25,4 @@ To view a list of published volumes and collections which contian a signficiant 
 * [Athenagoras of Athens](athenagorasofathens.html)
 * [Tatian of Syria](tatian.html)
 * [The Diatessaron (an early harmony of Matthew, Mark, Luke and John)](diatessaron.html)
+* [Octavius by Marcus Minucius Felix](octavius.html)

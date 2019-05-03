@@ -31,7 +31,7 @@ Volumes:
   * [facsimile copy](https://archive.org/details/AnteNiceneChristianLibraryVol111869)
 12. Clement of Alexandria: Vol. II
   * [facsimile copy](https://archive.org/details/AnteNiceneChristianLibraryVol121869)
-13. The Writings of Cyprian, Etc: Vol. II
+13. The Writings of Cyprian, Vol. II & The Passion of Perpetua and Felicitas, Novatian, Minucius Felix
   * [facsimile copy](https://archive.org/details/AnteNiceneChristianLibraryVol131869)
 14. The Writings of Methodius Etc
   * [facsimile copy](https://archive.org/details/AnteNiceneChristianLibraryVol141869)

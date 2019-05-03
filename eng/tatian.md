@@ -14,7 +14,7 @@ title: Tatian of Syria
 
 ## Perfection According to the Saviour
 
-The editor of this work, believes it to be the lost work by Tatian on perfection.
+The editor of this work believes it to be the lost work by Tatian on perfection.
 
 * J. Rendel Harris (translated ~1923)
   * ["Tatian: Perfection According to the Saviour"](https://archive.org/details/tatianperfection00harr) (published 1923) --- facsimile
