@@ -49,7 +49,7 @@ Volumes:
   * [facsimile copy](https://archive.org/details/AnteNiceneChristianLibraryVol201871)
 21. The Works of Lactantius: Vol.I
   * [facsimile copy](https://archive.org/details/AnteNiceneChristianLibraryVol211871)
-22. The Works of Lactantius: Vol.II
+22. The Works of Lactantius: Vol.II Together With The Testaments of the Twelve Patriarchs and Fragments of the Second and Third Centuries
   * [facsimile copy](https://archive.org/details/AnteNiceneChristianLibraryVol221871)
 23. Origen Contra Celsum 
   * [facsimile copy](https://archive.org/details/AnteNiceneChristianLibraryVol231872)
