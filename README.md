@@ -2,6 +2,8 @@ This website is created to contain references and links (when available on the I
 
 [Introduction to the Early Christian Writings](intro.html)
 
+[**Important warnings about the material on this website**](warnings.md)
+
 ### Early Christian Writings in Print & Online:
 
 * [English translations](eng/earlychristianwritings.html)
