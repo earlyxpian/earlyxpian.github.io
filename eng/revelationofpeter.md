@@ -1,8 +1,8 @@
 ---
-title: Apocalypse of Peter
+title: Revelation of Peter
 ---
 
-# Apocalypse of Peter
+# Revelation of Peter (also called "Apocalypse of Peter")
 
 * Andrew Rutherford (translated ~1896)
   * ["Ante-Nicene Fathers" Volume 9](anf.html) (published 1896)
