@@ -4,9 +4,9 @@ title: Acts of the Scillitan Martyrs
 
 # Acts of the Scillitan Martyrs
 
-* Marcus Dods (translated ~1867)
-  * [“Ante-Nicene Fathers”](anf.html) volume 1 (published 1885)
-    * [read online](http://www.ccel.org/ccel/schaff/anf01.viii.x.html)
+* Armitage Robinson (translated ~1896)
+  * [“Ante-Nicene Fathers”, Volume 9](anf.html) (published 1896)
+    * [read online](http://www.ccel.org/ccel/schaff/anf09/anf09.xiv.ii.html)
 * E. C. E. Owen (translated ~1927)
   * ["Some Authentic Acts of the Early Martyrs"](someauthenticactsoftheearlymartyrs.html) (published 1927) --- facsimile
 * Herbert Anthony Musurillo (translated ~1972)
