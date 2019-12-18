@@ -1,12 +1,9 @@
 ---
-title: Martyrdom of Justin, Chariton, Charites, Paeon, and Liberianus
+title: Acts of the Scillitan Martyrs
 ---
 
-# Martyrdom of Justin, Chariton, Charites, Pæon, and Liberianus
+# Acts of the Scillitan Martyrs
 
-* Anonymous "Members of the University of Oxford" (translated ~1834)
-  * ["Tracts for the Times", volume 1](https://archive.org/details/a633807601univuoft) (published 1834) --- facsimile
-    * [read online](https://en.wikisource.org/wiki/Tracts_for_the_Times/Record_XIII)
 * Marcus Dods (translated ~1867)
   * [“Ante-Nicene Fathers”](anf.html) volume 1 (published 1885)
     * [read online](http://www.ccel.org/ccel/schaff/anf01.viii.x.html)

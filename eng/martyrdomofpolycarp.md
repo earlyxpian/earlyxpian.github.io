@@ -27,7 +27,7 @@ title: Martyrdom of Polycarp
   * [“St. Polycarp, Bishop of Smyrna”](https://archive.org/details/stpolycarpbishop00polyuoft) (published 1898) --- facsimile
 * Kirsopp Lake (translated ~1917)
   * ["The Apostolic Fathers, Volume II"](https://archive.org/details/apostolicfathers02lakeuoft) (published 1917) --- facsimile
-* E. C. C. Owen (translated ~1927)
+* E. C. E. Owen (translated ~1927)
   * ["Some Authentic Acts of the Early Martyrs"](someauthenticactsoftheearlymartyrs.html) (published 1927) --- facsimile
 * Francis X. Glimm (translated ~1947)
   * [“The Apostolic Fathers”, Volume 1 of “The Fathers of the Church: A New Translation”](https://archive.org/details/in.ernet.dli.2015.58476), The Catholic University of America Press (published 1947)
@@ -42,6 +42,8 @@ title: Martyrdom of Polycarp
   * “Polycarp, Martyrdom of Polycarp, Fragmants of Papias” Volume 5 of “The Apostolic Fathers: A New Translation and Commentary”, Thomas Nelson & Sons (published 1967)
 * Maxwell Staniforth/A. Louth (translated 1968/revised 1987)
   * “Early Christian Writings: The Apostolic Fathers”, Penguin (published 1987)
+* Herbert Anthony Musurillo (translated ~1972)
+  * ["The Acts of the Christian Martyrs"](https://www.scribd.com/document/249295097/Musurillo-Acts-of-the-Christian-Martyrs), Oxford: Clarendon Press (published 1972) --- facsimile
 * Michael W. Holmes (translated 1989-2007)
   * “The Apostolic Fathers in English”, Baker Academic (various editions, published 1989-2006)
   * “The Apostolic Fathers: Greek Texts and English Translations of Their Writings”, Baker Academic (various editions, published 1992-2007)

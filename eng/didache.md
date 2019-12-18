@@ -52,7 +52,7 @@ English translations:
   * "The Apostolic Fathers in English", Baker Academic (various editions, published 1989-2006)
   * "The Apostolic Fathers: Greek Texts and English Translations of Their Writings", Baker Academic (various editions, published 1992-2007)
 * Aaron Milavec (translated ~2003)
-  * "The Didache : Text, Translation, Analysis, and Commentary", Liturgical Press (published 2003)
+  * ["The Didache : Text, Translation, Analysis, and Commentary"](https://books.google.com/books?id=17v6sT1l-aYC), Liturgical Press/Paulist Press (published 2003) --- facsimile/preview
 * Bart D. Ehrman (translated ~2003)
   * "The Apostolic Fathers, Volume I", Harvard University Press (published 2003)
 * Anthony H. Jones (translated ~2009)

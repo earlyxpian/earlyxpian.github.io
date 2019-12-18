@@ -13,7 +13,7 @@ E. C. E. Owen died in 1949 and therefore his writings are public domain in Canad
 * Martyrdom of S. Polycarp
 * Acts of SS. Carpus, Papylus, and Agathonica
 * Acts of SS. Justin and his Companions
-* Letter of the Chruches of Vienne and Lyons
+* Letter of the Churches of Vienne and Lyons
 * Acts of the Scillitan Saints
 * Passion of SS. Perpetua and Felicitas
 * Acts of S. Cyprian
