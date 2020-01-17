@@ -1,5 +1,5 @@
 ---
-title: The Apostolic Fathers: A New Translation and Commentary
+title: The Apostolic Fathers --- A New Translation and Commentary
 ---
 
 # The Apostolic Fathers: A New Translation and Commentary

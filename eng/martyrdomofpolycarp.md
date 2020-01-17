@@ -7,6 +7,8 @@ title: Martyrdom of Polycarp
 * William Wake (translated ~1719)
   * [“The Genuine Epistles of the Apostolical Fathers...”](https://archive.org/details/genuineepistleso1719wake) (published 1719) --- facsimile
   * [“The Genuine Epistles of the Apostolical Fathers...”](https://archive.org/details/genuineepistleso01wake) (published 1810) --- facsimile
+* David Dalrymple (translated ~1776)
+  * ["Account of the Martyrs at Smyrna and Lyons, in the Second Century"](https://archive.org/details/accountofthemart00unknuoft) (published 1776) --- facsimile
 * Temple Chevallier (translated ~1833)
   * [“A translation of the epistles of Clement of Rome, Polycarp, and Ignatius : and of the apologies of Justin Martyr and Tertullian”](https://archive.org/details/ATranslationOfTheEpistlesOfClement) (published 1833) --- facsimile
     * [second edition](https://archive.org/details/translationofepi00chev) (published 1851) --- facsimile

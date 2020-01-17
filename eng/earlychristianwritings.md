@@ -1,5 +1,5 @@
 ---
-title: Early Christian Sources --- English translations
+title: English Translations
 ---
 
 # Translations of Early Christian Writings Into English
@@ -37,3 +37,5 @@ This list generally does not include early Christian writers for whom there are 
 * [Acts of the Scillitan Martyrs](actsofthescillitanmartyrs.html)
 * [Letter from Lyons and Vienne](letterfromlyonsandvienne.html)
 * [Irenaeus's Against Heresies](irenaeus-againstheresies.html)
+* [Theophilus of Antioch](theophilusofantioch.html)
+* [Eusebius's Ecclesiastical History](eusebius-ecclesiasticalhistory.html)

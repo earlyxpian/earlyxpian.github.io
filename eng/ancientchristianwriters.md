@@ -10,10 +10,10 @@ This large series, currently at 70 volumes, has been published by Paulist Press 
 
 * [1: The Epistles of St. Clement of Rome and St. Ignatius of Antioch](https://archive.org/details/in.ernet.dli.2015.58587) --- facsimile
 * 6: The Didache, The Epistle of Barnabas, The Epistles and The Martydom of St. Polycarp, The Fragments of Papias, The Epistle to Diognetus
-* 7: Arnobius of Sicca, The Case Against the Pagans, Vol. 1
+* [7: Arnobius of Sicca, The Case Against the Pagans, Vol. 1](https://archive.org/details/ancientchristian009983mbp) --- facsimile
 * 8: Arnobius of Sicca, The Case Against the Pagans, Vol. 2
 * 13: Tertullian: Treatises on Marriage and Remarriage
-* 16: St. Irenaeus: Proof of the Apostolic Preaching
+* [16: St. Irenaeus: Proof of the Apostolic Preaching](https://archive.org/details/stirenaeusproofo012024mbp)
 * 19: Origen: Prayer, Exhortation to Martyrdom
 * 23: Athenagoras: Embassy for the Christians, The Resurrection of the Dead
 * 24: Tertullian: The Treatise Against Hermogenes

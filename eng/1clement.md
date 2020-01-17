@@ -33,7 +33,7 @@ English translations:
 * W.K. Lowther Clarke (translated ~1937)
   * The First Epistle of Clement to the Corinthians, Society for the Promotion of Christian Knowledge. (published 1937)
 * James A. Kleist (translated ~1946)
-  * ["The Epistles of St. Clement of Rome and St. Ignatius of Antioch." Volume 1 of "Ancient Christian Writers"](https://archive.org/details/in.ernet.dli.2015.58587) (published 1946) --- facsimile
+  * ["The Epistles of St. Clement of Rome and St. Ignatius of Antioch."](https://archive.org/details/in.ernet.dli.2015.58587) Volume 1 of ["Ancient Christian Writers"](ancientchristianwriters.html) (published 1946) --- facsimile
 * Francis X. Glimm (translated ~1947)
   * ["The Apostolic Fathers", Volume 1 of "The Fathers of the Church: A New Translation"](https://archive.org/details/in.ernet.dli.2015.58476), The Catholic University of America Press (published 1947)
 * Edgar J. Goodspeed (translated ~1950)
