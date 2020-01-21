@@ -37,5 +37,8 @@ This list generally does not include early Christian writers for whom there are 
 * [Acts of the Scillitan Martyrs](actsofthescillitanmartyrs.html)
 * [Letter from Lyons and Vienne](letterfromlyonsandvienne.html)
 * [Irenaeus's Against Heresies](irenaeus-againstheresies.html)
+* [Irenaeus's Demonstration of the Apostolic Preaching](irenaeus-apostolicpreaching.html)
 * [Theophilus of Antioch](theophilusofantioch.html)
+* [Clement of Alexandria --- Miscellanies (also called Stromateis/Stromata)](clementofalexandria-miscellanies.html)
+* [Tertullian](tertullian.html)
 * [Eusebius's Ecclesiastical History](eusebius-ecclesiasticalhistory.html)

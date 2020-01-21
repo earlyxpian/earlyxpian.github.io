@@ -9,7 +9,8 @@ This large series, currently at 70 volumes, has been published by Paulist Press 
 ## Volumes:
 
 * [1: The Epistles of St. Clement of Rome and St. Ignatius of Antioch](https://archive.org/details/in.ernet.dli.2015.58587) --- facsimile
-* 6: The Didache, The Epistle of Barnabas, The Epistles and The Martydom of St. Polycarp, The Fragments of Papias, The Epistle to Diognetus
+* [6: The Didache, The Epistle of Barnabas, The Epistles and The Martydom of St. Polycarp, The Fragments of Papias, The Epistle to Diognetus](https://archive.org/details/thedidache) --- facsimile
+  * [alternative copy](https://archive.org/details/20191212theepistleofbarnabastheepistlesandthemartyrdom) --- facsimile
 * [7: Arnobius of Sicca, The Case Against the Pagans, Vol. 1](https://archive.org/details/ancientchristian009983mbp) --- facsimile
 * 8: Arnobius of Sicca, The Case Against the Pagans, Vol. 2
 * 13: Tertullian: Treatises on Marriage and Remarriage
@@ -34,7 +35,7 @@ This large series, currently at 70 volumes, has been published by Paulist Press 
 * 65: St. Irenaeus of Lyons: Against the Heresies Book 2
 * 68: St. Jerome & Origen: Commentary on Isaiah & Homilies 1-9 on Isaiah 
 
-Other than volume 1 & 56, the volumes of these series are not available online. More information about this series is available at the [publisher’s website](https://www.paulistpress.com/).
+Other than volume 1, 6, 7, 16 & 56, the volumes of these series are not available online. More information about this series is available at the [publisher’s website](https://www.paulistpress.com/).
 
 Limited previews of some of the volumes are available on Google Books:
 * [Volume 6](https://books.google.com/books?id=J9hETdMVwowC)

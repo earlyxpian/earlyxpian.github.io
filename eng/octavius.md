@@ -16,7 +16,7 @@ title: Octavius by Marcus Minucius Felix
   * ["Ante-Nicene Fathers" Volume 4](anf.html) (published 1885)
     * [read online](http://www.ccel.org/ccel/schaff/anf04.iv.i.html)
 * Arthur Aikin Brodribb (translated ~1903)
-  * ["Pagain and Puritan: The Octavius of Minucius"](https://archive.org/details/paganpuritanocta00minu) (published 1903) --- facsimile
+  * ["Pagan and Puritan: The Octavius of Minucius"](https://archive.org/details/paganpuritanocta00minu) (published 1903) --- facsimile
 * Lucile Starr Cravens (translated ~1910)
   * ["The Octavius of Minucius Felix"](https://archive.org/details/octaviusofminuci00crav) (published 1911) --- facsimile
 * John Henry Freese (translated ~1919)

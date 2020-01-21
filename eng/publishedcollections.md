@@ -4,7 +4,8 @@ title: Published Collections of English Translations of Early Christian Writings
 
 # Published Collections of English Translations of Early Christian Writings
 
-* [“Ante-Nicene Christian Library”](ancl.html), edited by Alexander Roberts and James Donaldson. (published 1867-1885) --- This 24 volume set was the first large translation of the early Christian writings into English. All of the material in the set plus some extra material was republished a short time later as the “Ante-Nicene Fathers”.
+* ["A Library of Fathers of the Holy Catholic Church"](alibraryoffathers.html), edited by Members of the Anglican Church. (published 1838-1881) 
+* [“Ante-Nicene Christian Library”](ancl.html), edited by Alexander Roberts and James Donaldson. (published 1867-1885) --- This 24 volume set was one of the first very large collection of translations of early Christian writings into English. All of the material in the set plus some extra material was republished a short time later as the “Ante-Nicene Fathers”.
 * [“Ante-Nicene Fathers”](anf.html), edited by A. Cleveland Coxe (published 1885-1897) --- This 10 volume set is mostly a reissuing of the Ante-Nicene Christian Library, arranged more chronologically and with some additional material. This still remains the lagest collection of the early Christain writings into English.
 * “The Apostolic Fathers”, by Kirsopp Lake (published 1912 & 1913 by Harvard University/Loeb Classical Library) --- This two volume set of some of the earliest Christian writings outside the New Testament has Greek (or other languages, where the original Greek is not available) as well as English translations.
   * [“The Apostolic Fathers, Volume I”](https://archive.org/details/apostolicfathers01lake) (published 1912) --- facsimile
