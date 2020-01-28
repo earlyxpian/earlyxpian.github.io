@@ -15,6 +15,9 @@ title: Clement of Alexandria --- Miscellanies/Stromateis
   * ["Selections From the Writings of Clement of Alexandria"](https://hdl.handle.net/2027/coo.31924081814430) (published 1909) --- facsimile
 * John Ernest Leonard Oulton/Henry Chadwick (translated ~1959)
   * ["Alexandrian Christianity: Selected Translations of Clement and Origen with Introductions and Notes", Volume II of "The Library of Christian Classics"](https://archive.org/details/alexandrianchris012826mbp) (published 1959) --- facsimile
+    * [read Book 3 online](clementofalexandria-stromata-book3-oultonandchadwick.html) -- text/HTML
   * This volume contains translations of book 3 and 7 of this work only.
 * John Ferguson (translated ~1991)
   * "Clement of Alexandria, Stromateis, Books 1-3", Volume 85 of ["The Fathers of the Church" series](fathersofthechurch.html)
+    * [read Book 3 online](clementofalexandria-stromateis-book3-ferguson.html)  --- text/HTML
+
