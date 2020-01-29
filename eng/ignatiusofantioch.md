@@ -34,7 +34,7 @@ title: Letters of Ignatius of Antioch
   * [“The Apostolic Fathers”](https://archive.org/details/a590752000clemuoft) (published 1912) --- facsimile
   * [“The Apostolic Fathers”](http://www.katapi.org.uk/ApostolicFathers/ApFathers-Contents.html) (published 1891) --- text/HTML
 * James Herbert Srawley (translated ~1900)
-  * [“The Epistles of St. Ignatius Bishop of Antioch”](https://archive.org/details/epistlesstignat00ignagoog) (published 1900/1919) --- facsimile
+  * [“The Epistles of St. Ignatius Bishop of Antioch”](https://archive.org/details/epistlesstignat00ignagoog) (published 1900, 2nd edition 1910, 3rd edition 1919) --- facsimile
     * [alternative copy](https://archive.org/details/epistles00igna) --- facsimile
 * Kirsopp Lake (translated ~1912)
   * [“The Apostolic Fathers, Volume I”](https://archive.org/details/apostolicfathers01lake) (published 1912) --- facsimile

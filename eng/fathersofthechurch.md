@@ -40,4 +40,5 @@ Limited previews of some of the volumes are available on Google Books:
 * [Volume 6](https://books.google.com/books?id=BYsK3PgR97wC)
 * [Volume 10](https://books.google.com/books?id=Ys1rm5KKl-8C)
 * [Volume 19](https://books.google.com/books?id=-o0katcldMQC)
+* [Volume 23](https://books.google.com/books?id=tI_GTDlgcZsC)
 * [Volume 85](https://books.google.com/books?id=XWpL1zz5cmoC)

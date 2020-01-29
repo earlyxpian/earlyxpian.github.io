@@ -24,5 +24,8 @@ title: Justin's First Apology
     * [read online](http://www.ccel.org/ccel/richardson/fathers.x.ii.html)
 * Leslie William Barnard (translated ~1997)
   * "St. Justin Martyr: The First and Second Apologies" Volume 56 of ["Ancient Christian Writers" series](ancientchristianwriters.html) (published 1997)
+* David Bercot/Jeleta Eckheart (translated ~1989)
+  * ["We Don't Speak Great---We Live Them!"](https://books.google.com/books?id=SKxjMnUFmAoC), published by Scroll Publishing (published 1989)
+    * This book contains a major revision of the translation by Marcus Dods. The revision involves an update of the language as well as a rearrangement of the order of the material.
 * Denis Minns and Paul Parvis (translated ~2009)
   * "Justin, Philosopher and Martyr: Apologies", Oxford University Press (published 2009)

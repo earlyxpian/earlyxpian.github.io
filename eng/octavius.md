@@ -28,4 +28,6 @@ title: Octavius by Marcus Minucius Felix
   * "Tertullian Apologetical Works and Minucius Felix Octavius", volume 10 of ["Fathers of the Church Patristic Series"](fathersofthechurch.html) (published 1950)
 * Graeme Wilber Clarke (translated ~1974)
   * "The Octavius of Marcus Minucius Felix", volume 39 of ["Ancient Christian Writers" series](ancientchristianwriters.html) (published 1974)
-
+* David Bercot/Jeleta Eckheart (translated ~1989)
+  * ["We Don't Speak Great---We Live Them!"](https://books.google.com/books?id=SKxjMnUFmAoC), published by Scroll Publishing (published 1989)
+    * This book contains a major revision of the translation by Robert Ernest Wallis. The revision involves a update of the language as well as a rearrangement of the order of the material.

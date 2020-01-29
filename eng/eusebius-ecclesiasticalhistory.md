@@ -11,8 +11,8 @@ Eusebius is not a pre-Nicene writer. However, his "Ecclesiastical History" is th
 * Arthur Cushman McGiffert (translated ~1890)
   * ["Nicene and Post-Nicene Fathers", Second Series, Volume I](https://ccel.org/ccel/schaff/npnf201/npnf201) (published 1890) --- text/HTML/PDF
 * Kirsopp Lake/John Ernest Leonard Oulton (translated ~1926)
-  * ["Eusebius: The Ecclesiastical History", Volume I](https://archive.org/details/ecclesiasticalhi01euseuoft) (published 1926) --- facsimile
-  * ["Eusebius:The Ecclesiastical History", Volume II] (https://archive.org/details/ecclesiasticalhi02euseuoft) (published 1932) --- facsimile
+  * ["Eusebius: The Ecclesiastical History", Volume I](https://archive.org/details/ecclesiasticalhi01euseuoft), Volume 153 of "Loeb Classical Library" (published 1926) --- facsimile
+  * ["Eusebius:The Ecclesiastical History", Volume II](https://archive.org/details/ecclesiasticalhi02euseuoft), Volume 265 of "Loeb Classical Library" (published 1932) --- facsimile
 * Hugh Jackson Lawlor/John Ernest Leonard Oulton (translated ~1927)
   * ["Eusebius, Bishop of Caesarea: The Ecclesiastical History and the Martyrs of Palestine, Volume I: Translation"](https://archive.org/details/SPCKEusebius1) (published 1927) --- facsimile
   * ["Eusebius, Bishop of Caesarea: The Ecclesiastical History and the Martyrs of Palestine, Volume II: Introduction, Notes and Index"](https://archive.org/details/SPCKEusebius2) (published 1928) --- facsimile
