@@ -12,6 +12,7 @@ English translations:
   * ["The Suppressed Gospels and Epistles of the Original New Testament of Jesus the Christ, volume. 6"](http://www.gutenberg.org/ebooks/6512) --- text/HTML
 * Charles H. Hoole (translated ~1872)
   * ["The Apostolic Fathers"](https://archive.org/details/apostolicfather00hoolgoog) (published 1872) --- facsimile
+    * [read online](http://earlychristianwritings.com/text/barnabas-hoole.html)
 * Gerald Henry Rendall (translated ~1876)
   * ["A Dissertation on the Epistle of S. Barnabas, ..."](https://archive.org/details/adissertationon00cunngoog) (published 1877) -- facsimile
 * George A. Jackson (translated ~1879)
@@ -26,6 +27,7 @@ English translations:
     * [read online](http://www.ccel.org/ccel/schaff/anf01.vi.i.html)
 * Kirsopp Lake (translated ~1912)
   * ["The Apostolic Fathers, Volume I"](https://archive.org/details/apostolicfathers01lake) (published 1912) --- facsimile
+    * [read online](http://earlychristianwritings.com/text/barnabas-lake.html)
 * Francis X. Glimm (translated ~1947)
   * ["The Apostolic Fathers", Volume 1 of "The Fathers of the Church: A New Translation"](https://archive.org/details/in.ernet.dli.2015.58476), The Catholic University of America Press (published 1947)
 * James A. Kleist (translated ~1948)

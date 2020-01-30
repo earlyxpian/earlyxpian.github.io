@@ -13,3 +13,6 @@ title: Clement of Alexandria --- "Who is the Rich Man That is Saved?"
   * ["Selections From the Writings of Clement of Alexandria"](https://hdl.handle.net/2027/coo.31924081814430) (published 1909) --- facsimile
 * George William Butterworth (translated ~1919)
   * ["Clement of Alexandria: The Exhortation to the Greeks, The Rich Man's Salvation and the Fragment of an Address Entitled To The Newly Baptized"](https://archive.org/details/clementofalexand00clem), Volume 92 of "Loeb Classical Library" (published 1919) --- facsimile
+* David Bercot(Editor)/Jeleta Eckheart/Beth Dillon Miller/Pamela Warren(translated ~1990)
+  * ["The One Who Knows God"/"Intimacy with God"](https://books.google.com/books?id=GBcb0d2puMQC), published by Scroll Publishing (published 1990 as "The One Who Knows God", reissued 2008 as "Intimacy with God")
+    * This book contains a major revision of the translation by William Wilson to put it into modern, easier-to-read English.

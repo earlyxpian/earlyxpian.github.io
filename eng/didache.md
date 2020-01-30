@@ -27,6 +27,7 @@ English translations:
   * ["The Apostolic Fathers"](http://www.katapi.org.uk/ApostolicFathers/ApFathers-Contents.html) (published 1891) --- text/HTML
 * Charles H. Hoole (translated ~1894)
   * ["The Didache"](https://archive.org/details/didacheorteachin00hool) (published 1894) --- facsimile
+    * [read online](http://earlychristianwritings.com/text/didache-hoole.html)
 * G.C. Allen (translated ~1903)
   * ["The Didache"](https://archive.org/details/thedidache00alleuoft) (published 1903) --- facsimile
 * Charles Bigg/Arthur John Maclean (translated ~1898)
@@ -34,6 +35,7 @@ English translations:
   * ["The Doctrine of the Twelve Apostles", 2nd edition](https://archive.org/details/doctrineoftwelve00bigguoft) (published 1922) --- facsimile
 * Kirsopp Lake (translated ~1912)
   * ["The Apostolic Fathers, Volume I"](https://archive.org/details/apostolicfathers01lake) (published 1912) --- facsimile
+    * [read online](http://earlychristianwritings.com/text/didache-lake.html)
 * Francis X. Glimm (translated ~1947)
   * ["The Apostolic Fathers", Volume 1 of "The Fathers of the Church: A New Translation"](https://archive.org/details/in.ernet.dli.2015.58476), The Catholic University of America Press (published 1947)
 * James A. Kleist (translated ~1948)
