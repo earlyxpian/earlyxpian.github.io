@@ -12,11 +12,12 @@ title: Early Christian Writings in their original languages or other ancient lan
 
 # Individual writings
 
-2 Clement:
-* ["Second Epistle of Clement to the Corinthians"](https://archive.org/details/secondepistleofc00clemuoft) (published 1921, edited by Thomas Wilfrid Crafer based on Lightfoot) --- facsimile
-
 Barnabas:
 * ["The Editio Princeps of the Epistle of Barnabas"](https://archive.org/details/editioprincepsof00barn) (published 1883, edited by J. H. Backhouse) --- facsimile
+* ["The Epistle of Barnabas"](https://hdl.handle.net/2027/njp.32101055428948) (published 1920, edited by T. W. Crafer) --- facsimile
+
+2 Clement:
+* ["Second Epistle of Clement to the Corinthians"](https://archive.org/details/secondepistleofc00clemuoft) (published 1921, edited by Thomas Wilfrid Crafer based on Lightfoot) --- facsimile
 
 Justin Martyr's Apologies:
 * ["The Apologies of Justin Martyr"](https://archive.org/details/apologiesofjust00just) (published 1911, edited by A. W. F. Blunt) --- facsimile

@@ -7,6 +7,7 @@ This website is created to contain references and links (when available on the I
 ### Early Christian Writings in Print & Online:
 
 * [English translations](eng/earlychristianwritings.html)
+* [German translations/Deutsche übersetzungen](deu/earlychristianwritings.html)
 * [Original languages and other ancient language translations](originallanguages.html)
 
 ### Audio Recordings of Early Christian Writings:

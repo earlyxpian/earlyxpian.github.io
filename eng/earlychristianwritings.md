@@ -18,6 +18,7 @@ This list generally does not include early Christian writers for whom there are 
 * [Polycarp to the Philippians](polycarptothephilippians.html)
 * [Letter of Barnabas](barnabas.html)
 * [Didache (also called “Teaching of the Twelve Apostles”)](didache.html)
+* [Odes of Solomon](odesofsolomon.html)
 * [Apology of Aristides](apologyofaristides.html)
 * [An Anonymous Early Christian Sermon (also called "2 Clement")](2clement.html)
 * [Martyrdom of Polycarp](martyrdomofpolycarp.html)
