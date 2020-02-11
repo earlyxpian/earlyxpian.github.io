@@ -75,6 +75,10 @@ title: Audio Recordings of Early Christian Writings
  * [http://librivox.org/the-didache-from-the-roberts-donaldson-translation/](http://librivox.org/the-didache-from-the-roberts-donaldson-translation/)
  * [https://archive.org/details/thedidache_ss_librivox](https://archive.org/details/thedidache_ss_librivox)
 
+### The Odes of Solomon
+
+* [https://librivox.org/psalms-and-odes-of-solomon/](https://librivox.org/psalms-and-odes-of-solomon/)
+
 ### Epistle of Mathetes to Diognetus
 
  * [http://www.earlychristiancommentary.com/The%20Epistle%20of%20Mathetes%20-%20Bracket.mp3](http://www.earlychristiancommentary.com/The%20Epistle%20of%20Mathetes%20-%20Bracket.mp3)

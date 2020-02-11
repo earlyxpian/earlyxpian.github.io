@@ -8,6 +8,7 @@ title: Traductions en français/French Translations
 
 * [Patristique.org](http://www.patristique.org/) 
 * [Catho.org](http://catho.org/66br.htm)
+* [Sources Chrétiennes](https://sourceschretiennes.org/)
 
 ## Écrits individuels:
 

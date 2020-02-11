@@ -21,7 +21,7 @@ title: Letters of Ignatius of Antioch
   * [“Corpus Ignatianum: a complete collection of the Ignatian epistles, genuine, interpolated, and spurious](https://archive.org/details/corpusignatianum00igna_0) (published 1849) --- facsimile
 * Alexander Roberts/James Donaldson (translated ~1867)
   * [“Ante-Nicene Fathers”](anf.html) volume 1 (published 1885)
-    * [read online](http://www.ccel.org/ccel/schaff/anf01.v.html)
+    * [read online](https://ccel.org/ccel/richardson/fathers/fathers.vi.ii.html)
 * Charles H. Hoole (translated ~1872)
   * [“The Apostolic Fathers”](https://archive.org/details/apostolicfather00hoolgoog) (published 1872) --- facsimile
 * George A. Jackson (translated ~1879)

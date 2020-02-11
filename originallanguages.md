@@ -26,3 +26,6 @@ title: Early Christian Writings in their original languages or other ancient lan
 * ["The Apologies of Justin Martyr"](https://archive.org/details/apologiesofjust00just) (published 1911, edited by A. W. F. Blunt) --- facsimile
 * ["Die ältesten Apologeten" (German for "The Oldest Apologists")](http://files.xpian.info/diealtestenapologeten.pdf) (published 1914, editied by Edgar J. Goodspeed) [note this book is in German but contains original language critical texts of The Apology of Quadratus, The Apology of Aristides, The First and Second Apology of Justin, Justin's Dialog with Trypho, Tatian's Address to the Greeks, The Apology of Melito and Athenagoras' Appeal for the Christians] --- facsimile
 
+### The Martyrdom of Perpetua and Felicitas
+* [*The Acts of the Martyrdom of Perpetua and Felicitas: the original Greek text now first edited from a ms. in the Library of the Convent of the Holy Sepulcher at Jerusalem.*](https://archive.org/details/TheActsOfTheMartyrdom) (published 1890, edited by  J. Rendel Harris/Seth K. Gifford) --- facsimile
+* [*The Passion of S. Perpetua*](https://archive.org/details/MN5140ucmf_2) (published 1891, edited by J. Armitage Robinson) --- facsimile

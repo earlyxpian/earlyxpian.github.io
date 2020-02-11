@@ -4,9 +4,11 @@ title: English Translations
 
 # Translations of Early Christian Writings Into English
 
+## Collections of Early Christian Writings: 
+
 To view a list of published volumes and collections which contain a significant number of early Christian writings, click [here](publishedcollections.html). This is not a complete list of collections of early Christian writings but focuses on some of the larger collections. To see more detailed lists, sorted by early Christian writing or writer, see the list below. The list below is intended to be a fairly complete list of translations of each of these early Christian writings or writers. 
 
-## Individual Early Christian Writings or Writers
+## Individual Early Christian Writings or Writers:
 
 It is impossible to know the exact dates of composition of the following writings. An attempt has been made to put them in a roughly chronological order.
 
@@ -46,4 +48,5 @@ This list generally does not include early Christian writers for whom there are 
 * [Clement of Alexandria --- "Who is the Rich Man That is Saved?"](clementofalexandria-whoistherichmanthatissaved.html)
 * [Clement of Alexandria --- Fragments](clementofalexandria-fragments.html)
 * [Tertullian](tertullian.html)
+* [Martyrdom of Perpetua and Felicitas](perpetua.html)
 * [Eusebius's Ecclesiastical History](eusebius-ecclesiasticalhistory.html)
