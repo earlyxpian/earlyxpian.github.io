@@ -43,7 +43,7 @@ This list generally does not include early Christian writers for whom there are 
 * [Irenaeus --- Demonstration of the Apostolic Preaching](irenaeus-apostolicpreaching.html)
 * [Theophilus of Antioch](theophilusofantioch.html)
 * [Clement of Alexandria --- "Exhortation to the Greeks" (also called "Protrepticus" or "Exhortation to the Heathen")](clementofalexandria-exhortationtothegreeks.html)
-* [Clement of Alexandria --- "The Tutor" (also called "Paedagogus" or "The Instructor")](clementofalexandria-exhortationtothegreeks.html)
+* [Clement of Alexandria --- "The Tutor" (also called "Paedagogus" or "The Instructor")](clementofalexandria-tutor.html)
 * [Clement of Alexandria --- "Miscellanies" (also called "Stromateis"/"Stromata")](clementofalexandria-miscellanies.html)
 * [Clement of Alexandria --- "Who is the Rich Man That is Saved?"](clementofalexandria-whoistherichmanthatissaved.html)
 * [Clement of Alexandria --- Fragments](clementofalexandria-fragments.html)
