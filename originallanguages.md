@@ -7,7 +7,8 @@ title: Early Christian Writings in their original languages or other ancient lan
 ## Collections:
 
 * [Die griechischen christlichen Schriftsteller der ersten Jahrhunderte (GCS)/(Greek Christian Writers of the First Centuries)](https://bibelexegese.bbaw.de/publikationsreihen/gcs/) (published 1897-present) This large German collection contains critial texts of many different early Christian writings in their original languages or in ancient translations.
-* [Die Apostolischen Väter (The Apostolic Fathers)](https://archive.org/details/dieapostolischen00clem) (published 1901, edited by F.X. Funk) -- facsimile
+* [Die Apostolischen Väter (The Apostolic Fathers)](https://archive.org/details/dieapostolischen00clem) (published 1901, edited by F.X. Funk) --- facsimile
+* [*Acta Martyrum Selecta: Ausgewählte Märtyreracten, und andere Urkunden aus der Verfolgungszeit...*](https://archive.org/details/actamartyrumsel00gebhgoog) (published 1902, edited by Oscar von Gebhardt) --- facsimile
 
 ## Individual writings:
 
@@ -17,10 +18,13 @@ title: Early Christian Writings in their original languages or other ancient lan
 
 ### Barnabas:
 * ["The Editio Princeps of the Epistle of Barnabas"](https://archive.org/details/editioprincepsof00barn) (published 1883, edited by J. H. Backhouse) --- facsimile
-* ["The Epistle of Barnabas"](https://hdl.handle.net/2027/njp.32101055428948) (published 1920, edited by T. W. Crafer) --- facsimile
+* ["The Epistle of Barnabas"](https://books.google.com/books?id=8ktOAAAAYAAJ) (published 1920, edited by Thomas Wilfrid Crafer) --- facsimile
 
 ### 2 Clement:
 * ["Second Epistle of Clement to the Corinthians"](https://archive.org/details/secondepistleofc00clemuoft) (published 1921, edited by Thomas Wilfrid Crafer based on Lightfoot) --- facsimile
+
+### Mathetes to Diognetus:
+* [“The Epistle to Diognetus: The Greek Text with Introduction, Translation, and Notes”](diognetus_meecham.html) (published 1949, edited by Henry G. Meecham)
 
 ### Justin Martyr's Apologies:
 * ["The Apologies of Justin Martyr"](https://archive.org/details/apologiesofjust00just) (published 1911, edited by A. W. F. Blunt) --- facsimile

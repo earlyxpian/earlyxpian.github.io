@@ -4,6 +4,8 @@ title: Letters of Ignatius of Antioch
 
 # Letters of Ignatius of Antioch
 
+
+## English translations:
 * William Whiston (translated ~1711)
   * [“Primitive Christianity Revived” Vol I.: Epistles of Ignatius](https://archive.org/details/primitivechristi01whis) (published 1711) --- facsimile
 * William Wake (translated ~1719)
@@ -41,14 +43,14 @@ title: Letters of Ignatius of Antioch
 * Gerald G. Walsh (translated ~1947)
   * [“The Apostolic Fathers”, Volume 1 of “The Fathers of the Church: A New Translation”](https://archive.org/details/in.ernet.dli.2015.58476), The Catholic University of America Press (published 1947)
 * James A. Kleist (translated ~1946)
-  * ["The Epistles of St. Clement of Rome and St. Ignatius of Antioch." Volume 1 of "Ancient Christian Writers"](https://archive.org/details/in.ernet.dli.2015.58587) (published 1946) --- facsimile
+  * ["The Epistles of St. Clement of Rome and St. Ignatius of Antioch"](ancientchristianwriters_1.html) Volume 1 of ["Ancient Christian Writers"](ancientchristianwriters.html) (published 1946)
 * Edgar J. Goodspeed (translated ~1950)
   * [“The Apostolic Fathers: An American Translation”](goodspeedapostolicfathers.html), Harper & Brothers. (published 1950)
 * Cyril C. Richardson (translated ~1953)
   * [“Early Christian Fathers”](ecf.html) (published 1953)
     * [read online](http://www.ccel.org/ccel/richardson/fathers.vi.iii.html)
 * Robert McQueen Grant (translated ~1966)
-  * “Ingatius of Antioch” Volume 4 of “The Apostolic Fathers: A New Translation and Commentary”, Thomas Nelson & Sons (published 1966)
+  * “Ingatius of Antioch” Volume 4 of [“The Apostolic Fathers: A New Translation and Commentary”](apostolicfathersnewtranslationandcommentary.html), Thomas Nelson & Sons (published 1966)
 * Maxwell Staniforth/A. Louth (translated 1968/revised 1987)
   * “Early Christian Writings: The Apostolic Fathers”, Penguin (published 1987)
 * Michael W. Holmes (translated 1989-2007)

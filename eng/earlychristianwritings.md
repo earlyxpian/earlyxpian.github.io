@@ -14,15 +14,16 @@ It is impossible to know the exact dates of composition of the following writing
 
 This list generally does not include early Christian writers for whom there are only small fragments of their writings still in existance.
 
-* [1 Clement (also called "The First Letter of Clement to the Corinthians")](1clement.html)
+* [The Two Ways](twoways.html)
+* [1 Clement (also called "Clement to the Corinthians")](1clement.html)
 * [Shepherd of Hermas (also called "Pastor of Hermas")](shepherdofhermas.html)
+* [An Anonymous Early Christian Sermon (also called "2 Clement")](2clement.html)
 * [Letters of Ignatius of Antioch](ignatiusofantioch.html)
 * [Polycarp to the Philippians](polycarptothephilippians.html)
 * [Letter of Barnabas](barnabas.html)
 * [Didache (also called “Teaching of the Twelve Apostles”)](didache.html)
 * [Odes of Solomon](odesofsolomon.html)
 * [Apology of Aristides](apologyofaristides.html)
-* [An Anonymous Early Christian Sermon (also called "2 Clement")](2clement.html)
 * [Martyrdom of Polycarp](martyrdomofpolycarp.html)
 * [Mathetes to Diognetus](diognetus.html)
 * [Revelation of Peter](revelationofpeter.html)
@@ -35,7 +36,7 @@ This list generally does not include early Christian writers for whom there are 
 * [Tatian of Syria](tatian.html)
 * [The Diatessaron (an early harmony of Matthew, Mark, Luke and John)](diatessaron.html)
 * ["Octavius" by Marcus Minucius Felix](octavius.html)
-* [Melito of Sardis](melitoofsardis.md)
+* [Melito of Sardis](melitoofsardis.html)
 * [Acts of Carpus, Papylus, and Agathonice](actsofcarpus.html)
 * [Acts of the Scillitan Martyrs](actsofthescillitanmartyrs.html)
 * [Letter from Lyons and Vienne](letterfromlyonsandvienne.html)

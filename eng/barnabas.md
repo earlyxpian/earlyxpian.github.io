@@ -4,8 +4,7 @@ title: Letter of Barnabas
 
 # Letter of Barnabas
 
-English translations:
-
+## English translations:
 * William Wake (translated ~1719)
   * ["The Genuine Epistles of the Apostolical Fathers..."](https://archive.org/details/genuineepistleso1719wake) (published 1719) --- facsimile
   * ["The Genuine Epistles of the Apostolical Fathers..."](https://archive.org/details/genuineepistleso01wake) (published 1810) --- facsimile
@@ -31,11 +30,11 @@ English translations:
 * Francis X. Glimm (translated ~1947)
   * ["The Apostolic Fathers", Volume 1 of "The Fathers of the Church: A New Translation"](https://archive.org/details/in.ernet.dli.2015.58476), The Catholic University of America Press (published 1947)
 * James A. Kleist (translated ~1948)
-  * ["The Didache, The Epistle of Barnabas, The Epistles and the Martyrdom of St. Polycarp, The Fragments of Papias, The Epistle to Diognetus", Volume 6 of “Ancient Christian Writers” Series](ancientchristianwriters.html), The Newman Press (published 1948)
+  * ["The Didache, The Epistle of Barnabas, The Epistles and the Martyrdom of St. Polycarp, The Fragments of Papias, The Epistle to Diognetus"](ancientchristianwriters_6.html), Volume 6 of [“Ancient Christian Writers” Series](ancientchristianwriters.html) (published 1948)
 * Edgar J. Goodspeed (translated ~1950)
   * ["The Apostolic Fathers: An American Translation"](goodspeedapostolicfathers.html), Harper & Brothers. (published 1950)
 * Robert A. Kraft (translated ~1965)
-  * "Barnabas and the Didache." Volume 3 of "The Apostolic Fathers: A New Translation and Commentary", Thomas Nelson & Sons (published 1965)
+  * "Barnabas and the Didache", Volume 3 of ["The Apostolic Fathers: A New Translation and Commentary"](apostolicfathersnewtranslationandcommentary.html), Thomas Nelson & Sons (published 1965)
     * [read online](http://ccat.sas.upenn.edu/rak/publics/barn/barndidintro.htm)
 * Maxwell Staniforth/A. Louth (translated 1968/revised 1987)
   * "Early Christian Writings: The Apostolic Fathers", Penguin (published 1987)

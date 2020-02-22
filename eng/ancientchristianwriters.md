@@ -8,9 +8,8 @@ This large series, currently at 70 volumes, has been published by Paulist Press 
 
 ## Volumes:
 
-* [1: The Epistles of St. Clement of Rome and St. Ignatius of Antioch](https://archive.org/details/in.ernet.dli.2015.58587) --- facsimile
-* [6: The Didache, The Epistle of Barnabas, The Epistles and The Martydom of St. Polycarp, The Fragments of Papias, The Epistle to Diognetus](https://archive.org/details/thedidache) --- facsimile
-  * [alternative copy](https://archive.org/details/20191212theepistleofbarnabastheepistlesandthemartyrdom) --- facsimile
+* [1: The Epistles of St. Clement of Rome and St. Ignatius of Antioch](ancientchristianwriters_1.html)
+* [6: The Didache, The Epistle of Barnabas, The Epistles and The Martydom of St. Polycarp, The Fragments of Papias, The Epistle to Diognetus](ancientchristianwriters_6.html)
 * [7: Arnobius of Sicca, The Case Against the Pagans, Vol. 1](https://archive.org/details/ancientchristian009983mbp) --- facsimile
 * 8: Arnobius of Sicca, The Case Against the Pagans, Vol. 2
 * 13: Tertullian: Treatises on Marriage and Remarriage

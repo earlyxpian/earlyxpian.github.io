@@ -4,6 +4,7 @@ title: Polycarp to the Philippians
 
 # Polycarp to the Philippians
 
+## English translations:
 * William Wake (translated ~1719)
   * [“The Genuine Epistles of the Apostolical Fathers...”](https://archive.org/details/genuineepistleso1719wake) (published 1719) --- facsimile
   * [“The Genuine Epistles of the Apostolical Fathers...”](https://archive.org/details/genuineepistleso01wake) (published 1810) --- facsimile
@@ -34,7 +35,7 @@ title: Polycarp to the Philippians
 * Francis X. Glimm (translated ~1947)
   * [“The Apostolic Fathers”, Volume 1 of “The Fathers of the Church: A New Translation”](https://archive.org/details/in.ernet.dli.2015.58476), The Catholic University of America Press (published 1947)
 * James A. Kleist (translated ~1948)
-  * ["The Didache, The Epistle of Barnabas, The Epistles and the Martyrdom of St. Polycarp, The Fragments of Papias, The Epistle to Diognetus", Volume 6 of “Ancient Christian Writers” Series](ancientchristianwriters.html), The Newman Press (published 1948)
+  * ["The Didache, The Epistle of Barnabas, The Epistles and the Martyrdom of St. Polycarp, The Fragments of Papias, The Epistle to Diognetus"](ancientchristianwriters_6.html), Volume 6 of [“Ancient Christian Writers” Series](ancientchristianwriters.html) (published 1948)
 * Edgar J. Goodspeed (translated ~1950)
   * [“The Apostolic Fathers: An American Translation”](goodspeedapostolicfathers.html), Harper & Brothers. (published 1950)
 * Cyril C. Richardson (translated ~1953)
@@ -50,7 +51,7 @@ title: Polycarp to the Philippians
 * Bart D. Ehrman (translated ~2003)
   * “The Apostolic Fathers, Volume I”, Harvard University Press (published 2003)
 * Paul Hartog (translated ~2013)
-  * “Polycarp's Epistle to the Philippians and the Martyrdom of Polycarp”, Oxford University Press (published 2013) 
+  * ["Polycarp's Epistle to the Philippians and the Martyrdom of Polycarp"](https://books.google.com/books?id=eZkRAAAAQBAJ), Oxford University Press (published 2013) --- facsimile/preview
 * Rick Brannan (translated ~2017)
   * “The Apostolic Fathers: A New Translation”, Lexham Press (published 2017)
 * Anonymous (translated ~2018)

@@ -29,7 +29,7 @@ English translations:
 * Edgar J. Goodspeed (translated ~1950)
   * ["The Apostolic Fathers: An American Translation"](goodspeedapostolicfathers.html), Harper & Brothers. (published 1950)
 * Graydon F. Snyder (translated ~1968)
-  * "The Shepherd of Hermas." Volume 6 of "The Apostolic Fathers: A New Translation and Commentary", Thomas Nelson & Sons (published 1968)
+  * "The Shepherd of Hermas." Volume 6 of ["The Apostolic Fathers: A New Translation and Commentary"](apostolicfathersnewtranslationandcommentary.html), Thomas Nelson & Sons (published 1968)
 * Michael W. Holmes (translated 1989-2007)
   * "The Apostolic Fathers in English", Baker Academic (various editions, published 1989-2006)
   * "The Apostolic Fathers: Greek Texts and English Translations of Their Writings", Baker Academic (various editions, published 1992-2007)

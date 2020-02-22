@@ -1,8 +1,14 @@
 # 1 Clement (also known as “Clement to the Corinthians”)
 
+This letter from the Christian assembly in Rome to the Christian assembly in Corinth has generally been considered to have been written by Clement of Rome (an overseer of the Christian assembly in Rome in the last part of the first century). If that is true, than it is one of the earliest surviving Christian writings that is not in the New Testament. It may even have been written before some of the later writings in the New Testament. 
+
 The complete Greek text of 1 Clement was not rediscovered until 1873. Therefore, any translations before that date contain only part of the letter.
 
-English translations:
+### Suggested first translation(s):
+
+An easy-to-read, modern English translation that is freely available is the one by Cyril C. Richardson from 1953 listed below. A more literal translation that is also in modern English and freely available is the anonymous one from 2012 listed below.
+
+## English translations:
 * William Burton (translated ~ 1647)
   * ["Clement, The blessed Paul’s Fellow-labourer In The Gospel, His first Epistle to the Corinthians"](https://archive.org/details/ClementTheBlessedPaulsFellow-labourerInTheGospelHisFirstEpistleTo) (published 1647) --- facsimile
 * William Wake (translated ~1719)
@@ -30,19 +36,19 @@ English translations:
     * [read online](http://www.ccel.org/ccel/schaff/anf09.xii.i.html)
 * Kirsopp Lake (translated ~1912)
   * ["The Apostolic Fathers, Volume I"](https://archive.org/details/apostolicfathers01lake) (published 1912) --- facsimile
-* W.K. Lowther Clarke (translated ~1937)
-  * The First Epistle of Clement to the Corinthians, Society for the Promotion of Christian Knowledge. (published 1937)
+* William Kemp Lowther Clarke (translated ~1937)
+  * "The First Epistle of Clement to the Corinthians", Society for the Promotion of Christian Knowledge (published 1937)
 * James A. Kleist (translated ~1946)
-  * ["The Epistles of St. Clement of Rome and St. Ignatius of Antioch."](https://archive.org/details/in.ernet.dli.2015.58587) Volume 1 of ["Ancient Christian Writers"](ancientchristianwriters.html) (published 1946) --- facsimile
+  * ["The Epistles of St. Clement of Rome and St. Ignatius of Antioch"](ancientchristianwriters_1.html) Volume 1 of ["Ancient Christian Writers"](ancientchristianwriters.html) (published 1946)
 * Francis X. Glimm (translated ~1947)
   * ["The Apostolic Fathers", Volume 1 of "The Fathers of the Church: A New Translation"](https://archive.org/details/in.ernet.dli.2015.58476), The Catholic University of America Press (published 1947)
 * Edgar J. Goodspeed (translated ~1950)
-  * ["The Apostolic Fathers: An American Translation"](goodspeedapostolicfathers.html), Harper & Brothers. (published 1950)
+  * ["The Apostolic Fathers: An American Translation"](goodspeedapostolicfathers.html), Harper & Brothers (published 1950)
 * Cyril C. Richardson (translated ~1953)
   * ["Early Christian Fathers"](ecf.html) (published 1953)
     * [read online](http://www.ccel.org/ccel/richardson/fathers.vi.i.html) 
 * Robert M. Grant/Holt H. Graham (translated ~1965)
-  * "First and Second Clement." Volume 2 in "The Apostolic Fathers: A New Translation and Commentary", Thomas Nelson (published 1965)
+  * "First and Second Clement" Volume 2 in ["The Apostolic Fathers: A New Translation and Commentary"](apostolicfathersnewtranslationandcommentary.html), Thomas Nelson (published 1965)
 * Maxwell Staniforth/A. Louth (translated 1968/revised 1987)
   * "Early Christian Writings: The Apostolic Fathers", Penguin (published 1987)
 * Michael W. Holmes (translated 1989-2007)
@@ -50,7 +56,7 @@ English translations:
   * "The Apostolic Fathers: Greek Texts and English Translations of Their Writings", Baker Academic (various editions, published 1992-2007)
 * Bart D. Ehrman (translated ~2003)
   * "The Apostolic Fathers, Volume I", Harvard University Press (published 2003)
+* Anonymous (translated ~2012)
+  * ["Letter of Clemens to the Korinthians"](http://www.biblicalaudio.com/text/clement.pdf) --- text/PDF
 * Rick Brannan (translated ~2017)
   * “The Apostolic Fathers: A New Translation”, Lexham Press (published 2017)
-* Anonymous
-  * ["Letter of Clemens to the Korinthians"](http://www.biblicalaudio.com/text/clement.pdf) (published 2018) --- text/PDF

@@ -1,7 +1,12 @@
+---
+title: An Anonymous Early Christian Sermon (also known as "2 Clement")
+---
+
 # An Anonymous Early Christian Sermon (also known as "2 Clement")
 
 The complete Greek text of 2 Clement was not rediscovered until 1873. Therefore, any translations before that date contain only part of the sermon.
 
+## English translations:
 * William Wake (translated ~1719)
   * ["The Genuine Epistles of the Apostolical Fathers..."](https://archive.org/details/genuineepistleso1719wake) (published 1719) --- facsimile
   * ["The Genuine Epistles of the Apostolical Fathers..."](https://archive.org/details/genuineepistleso01wake) (published 1810) --- facsimile
@@ -26,8 +31,6 @@ The complete Greek text of 2 Clement was not rediscovered until 1873. Therefore,
 * Anonymous (Editorial Secretary of the Society for Promoting Christian Knowledge) (translated ~1922)
   * ["An English Translation of the So-Called Second Epistle of Clement to the Corinthians"](2clement-spck.html) (published 1922) --- text/HTML
   * ["An English Translation of the So-Called Second Epistle of Clement to the Corinthians"](https://archive.org/details/2clement-spck) (published 1922) --- facsimile
-* James A. Kleist (translated ~1946)
-  * ["The Epistles of St. Clement of Rome and St. Ignatius of Antioch." Volume 1 of "Ancient Christian Writers"](https://archive.org/details/in.ernet.dli.2015.58587) (published 1946) --- facsimile
 * Francis X. Glimm (translated ~1947)
   * ["The Apostolic Fathers", Volume 1 of "The Fathers of the Church: A New Translation"](https://archive.org/details/in.ernet.dli.2015.58476), The Catholic University of America Press (published 1947)
 * Edgar J. Goodspeed (translated ~1950)
@@ -36,13 +39,13 @@ The complete Greek text of 2 Clement was not rediscovered until 1873. Therefore,
   * ["Early Christian Fathers"](ecf.html) (published 1953)
     * [read online](http://www.ccel.org/ccel/richardson/fathers.ix.html)
 * Robert M. Grant/Holt H. Graham (translated ~1965)
-  * "First and Second Clement." Volume 2 in "The Apostolic Fathers: A New Translation and Commentary", Thomas Nelson (published 1965)
+  * "First and Second Clement" Volume 2 in ["The Apostolic Fathers: A New Translation and Commentary"](apostolicfathersnewtranslationandcommentary.html), Thomas Nelson (published 1965)
 * Michael W. Holmes (translated 1989-2007)
   * "The Apostolic Fathers in English", Baker Academic (various editions, published 1989-2006)
   * "The Apostolic Fathers: Greek Texts and English Translations of Their Writings", Baker Academic (various editions, published 1992-2007)
 * Bart D. Ehrman (translated ~2003)
   * "The Apostolic Fathers, Volume I", Harvard University Press (published 2003)
 * Christopher Tuckett (translated ~2012)
-  * "2 Clement: Introduction, Text and Commentary", Oxford University Press (published 2012)
+  * ["2 Clement: Introduction, Text and Commentary"](https://books.google.com/books?id=TE4-T4XE-CkC), Oxford University Press (published 2012) --- facsimile/preview
 * Rick Brannan (translated ~2017)
   * “The Apostolic Fathers: A New Translation”, Lexham Press (published 2017)
