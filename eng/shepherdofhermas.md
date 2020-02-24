@@ -4,7 +4,7 @@ title: Shepherd of Hermas
 
 # Shepherd of Hermas (also called Pastor of Hermas)
 
-English translations:
+## English translations:
 * William Wake (translated ~1719)
   * ["The Genuine Epistles of the Apostolical Fathers..."](https://archive.org/details/genuineepistleso1719wake) (published 1719) --- facsimile
   * ["The Genuine Epistles of the Apostolical Fathers..."](https://archive.org/details/genuineepistleso01wake) (published 1810) --- facsimile

@@ -26,7 +26,7 @@ title: The Martyrdom of Perpetua and Felicitas
 * Brent Donald Shaw (translated ~1993)
   * *Past and Present*, Volume 139, Issue 1, May 1993, Pages 3–45, Oxford University Press for the Past and Present Society
 * Thomas J. Heffernan (translated ~2012)
-  * [*The Passion of Perpetua and Felicity*](https://books.google.com/books?id=9XA0xaGW1t8C), Oxford University Press (published 2012)
+  * [*The Passion of Perpetua and Felicity*](https://books.google.com/books?id=9XA0xaGW1t8C), Oxford University Press (published 2012) --- facsimile/preview
 * Anonymous (translated ~2012)
   * [*The Suffering of Perpetua and Felicitas*](http://www.biblicalaudio.com/perpetua.htm) (published 2012) --- text/PDF
     * [older version that better matches the audio version hosted on that site](perpetua_biblicalaudio_2016.pdf)
