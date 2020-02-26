@@ -29,6 +29,6 @@ Download this collection as:
 * [EPUB](earlychristianfathers.epub) (this is the best format for e-readers, cell phones and tablets)
 * [PDF](earlychristianfathers.pdf)
 
-To read and search this collection online, visit the [Christian Classics Ethereal Library](http://www.ccel.org/ccel/richardson/fathers.i.html).
+To read and search this collection online, visit the [Christian Classics Ethereal Library](http://www.ccel.org/ccel/richardson/fathers/fathers).
 To download a facsimile scan of this collection, visit [Archive.org](https://archive.org/details/LCC1_ECF).
 

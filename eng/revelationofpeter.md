@@ -19,4 +19,5 @@ title: Revelation of Peter
     * This version is a langauge update of Montague Rhodes James's translation.
 * James Keith Elliott (translated ~1993)
   * ["The Apocryphal New Testament : a collection of apocryphal Christian literature in an English translation"](https://books.google.com/books?id=9vNTo0m08nkC), Oxford : Clarendon Press (published 1993) --- facsimile/preview
-
+* Anonymous (translated ~2019)
+  * ["Revelation of Petros"](http://www.biblicalaudio.com/text/revelation_peter.pdf) (published 2019)

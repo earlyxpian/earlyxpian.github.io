@@ -59,7 +59,12 @@ English translations:
   * "The Apostolic Fathers, Volume I", Harvard University Press (published 2003)
 * Anthony H. Jones (translated ~2009)
   * [“The Teaching of the Twelve”](teaching-12-pgs.19-34.pdf), Paraclete Press (published 2009) --- text/PDF
+* Anonymous (translated ~2012)
+  * ["The Teaching"](http://www.biblicalaudio.com/text/didache.pdf) (published 2012, but revised since) --- text/PDF
+* R. Joseph Owles (translated ~2014)
+  * "The Didache: The Teaching of the Twelve Apostles", CreateSpace Independent Publishing Platform (published 2014)
+* Toby Janicki (translated ~2016)
+  * "The Way of Life: the Rediscovered Teachings of the Twelve Jewish Apostles to the Gentiles", Vine of David/First Fruits of Zion (published 2016)
 * Rick Brannan (translated ~2017)
   * “The Apostolic Fathers: A New Translation”, Lexham Press (published 2017)
-* Anonymous
-  * ["The Teaching"](http://www.biblicalaudio.com/text/didache.pdf) (published 2018) --- text/PDF
+

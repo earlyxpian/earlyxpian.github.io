@@ -11,7 +11,7 @@ title: The Martyrdom of Perpetua and Felicitas
   * [*The Epistle of The Gallican Churches: Lugdunum and Vienna. With an appendix containing Tertullian's Address to Martyrs and the Passion of St. Perpetua.*](https://archive.org/details/epistleofgallica00tertuoft) (published 1900) --- facsimile
     * This translation is abbreviated.
 * Raymond Waterville Luke Muncey (translated ~1927)
-  * *The Passion of S. Perpetua: An English translation with introduction and notes*, J.M. Dent (published 1927)
+  * [*The Passion of S. Perpetua: An English translation with introduction and notes*](perpetua_muncey.html), J.M. Dent (published 1927)
 * E. C. E. Owen (translated ~1927)
   * [*Some Authentic Acts of the Early Martyrs*](someauthenticactsoftheearlymartyrs.html) (published 1927) --- facsimile
 * Walter H. Shewring (translated ~1931)
