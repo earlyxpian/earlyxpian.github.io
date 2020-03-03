@@ -15,8 +15,6 @@ title: Justin's First Apology
 * Marcus Dods (translated ~1867)
   * ["Ante-Nicene Fathers" Volume 1](anf.html) (published 1885)
     * [read online](http://www.ccel.org/ccel/schaff/anf01.viii.ii.html)
-* Basil Lanneau Gildersleeve (translated ~1877)
-  * ["The Apologies of Justin Martyr..."](https://archive.org/details/apologiesofjusti00just) (published 1877) --- facsimile
 * Thomas B. Falls (translated ~1948)
   * "Justin Martyr: The First Apology, The Second Apology, Dialogue with Trypho, Exhortation to the Greeks, Discourse to the Greeks, The Monarchy of the Rule of God" Volume 6 of the ["Fathers of the Church" series](fathersofthechurch.html) (published 1948)
 * Edward Rochie Hardy (translated ~1953)

@@ -27,6 +27,7 @@ title: Early Christian Writings in their original languages or other ancient lan
 * [“The Epistle to Diognetus: The Greek Text with Introduction, Translation, and Notes”](eng/diognetus_meecham.html) (published 1949, edited by Henry G. Meecham)
 
 ### Justin Martyr's Apologies:
+  * ["The Apologies of Justin Martyr..."](https://archive.org/details/apologiesofjusti00just) (published 1877, edited by Basil Lanneau Gildersleeve) --- facsimile
 * ["The Apologies of Justin Martyr"](https://archive.org/details/apologiesofjust00just) (published 1911, edited by A. W. F. Blunt) --- facsimile
 * ["Die ältesten Apologeten" (German for "The Oldest Apologists")](http://files.xpian.info/diealtestenapologeten.pdf) (published 1914, editied by Edgar J. Goodspeed) [note this book is in German but contains original language critical texts of The Apology of Quadratus, The Apology of Aristides, The First and Second Apology of Justin, Justin's Dialog with Trypho, Tatian's Address to the Greeks, The Apology of Melito and Athenagoras' Appeal for the Christians] --- facsimile
 

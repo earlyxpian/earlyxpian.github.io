@@ -50,6 +50,8 @@ title: Polycarp to the Philippians
   * “The Apostolic Fathers: Greek Texts and English Translations of Their Writings”, Baker Academic (various editions, published 1992-2007)
 * Bart D. Ehrman (translated ~2003)
   * “The Apostolic Fathers, Volume I”, Harvard University Press (published 2003)
+* Kenneth J. Howell (translated ~2009)
+  * "Ignatius of Antioch & Polycarp of Smyrna: A New Translation and Theological Commentary", CHResources (published 2009)
 * Paul Hartog (translated ~2013)
   * ["Polycarp's Epistle to the Philippians and the Martyrdom of Polycarp"](https://books.google.com/books?id=eZkRAAAAQBAJ), Oxford University Press (published 2013) --- facsimile/preview
 * Rick Brannan (translated ~2017)

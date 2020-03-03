@@ -9,7 +9,7 @@ title: Shepherd of Hermas
   * ["The Genuine Epistles of the Apostolical Fathers..."](https://archive.org/details/genuineepistleso1719wake) (published 1719) --- facsimile
   * ["The Genuine Epistles of the Apostolical Fathers..."](https://archive.org/details/genuineepistleso01wake) (published 1810) --- facsimile
   * ["The Suppressed Gospels and Epistles of the Original New Testament of Jesus the Christ, volume. 9"](http://www.gutenberg.org/ebooks/6515) --- text/HTML
-* F. Crombie (translated ~1867) 
+* Fredrick Crombie (translated ~1867) 
   * ["Ante-Nicene Fathers"](anf.html) volume 2 (published 1885)
     * [read online](http://www.ccel.org/ccel/schaff/anf02.ii.i.html)
 * Charles H. Hoole (translated ~1870)
@@ -35,7 +35,11 @@ title: Shepherd of Hermas
   * "The Apostolic Fathers: Greek Texts and English Translations of Their Writings", Baker Academic (various editions, published 1992-2007)
 * Bart D. Ehrman (translated ~2003)
   * "The Apostolic Fathers, Volume II", Harvard University Press (published 2003)
+* Anonymous (translated ~2013)
+  * ["Shepherd of Hermas"](http://www.biblicalaudio.com/text/hermas.pdf) (published 2013 but revised since) --- text/PDF
+* Daniel Robison (translation update ~2013)
+  * "The Shepherd of Hermas", CreateSpace Independent Publishing Platform (published 2013)
+    * This translation is a langauge update of the translation by Fredrick Crombie into modern English.
 * Rick Brannan (translated ~2017)
   * “The Apostolic Fathers: A New Translation”, Lexham Press (published 2017)
-* Anonymous (translated ~2018)
-  * ["Shepherd of Hermas"](http://www.biblicalaudio.com/text/hermas.pdf) (published 2018) --- text/PDF
+
