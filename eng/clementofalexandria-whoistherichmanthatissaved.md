@@ -10,7 +10,8 @@ title: Clement of Alexandria --- "Who is the Rich Man That is Saved?"
 * Percy Mordaunt Barnard (translated ~1901)
   * ["A Homily of Clement of Alexandria Entitled, Who is the Rich Man That is Being Saved?"](https://archive.org/details/homilyofclemento00clemuoft) (published 1901) --- facsimile
 * Rufus M. Jones (translated ~1909)
-  * ["Selections From the Writings of Clement of Alexandria"](https://hdl.handle.net/2027/coo.31924081814430) (published 1909) --- facsimile
+  * ["Selections From the Writings of Clement of Alexandria"](http://files.xpian.info/selections_from_the_writings_of_clement_of_alexandria_jones.pdf) (published 1909) --- facsimile
+    * [read online](https://books.google.com/books?id=gHo7AQAAMAAJ)
 * George William Butterworth (translated ~1919)
   * ["Clement of Alexandria: The Exhortation to the Greeks, The Rich Man's Salvation and the Fragment of an Address Entitled To The Newly Baptized"](https://archive.org/details/clementofalexand00clem), Volume 92 of "Loeb Classical Library" (published 1919) --- facsimile
 * David Bercot(Editor)/Jeleta Eckheart/Beth Dillon Miller/Pamela Warren(translated ~1990)

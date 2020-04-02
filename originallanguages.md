@@ -23,8 +23,16 @@ title: Early Christian Writings in their original languages or other ancient lan
 ### 2 Clement:
 * ["Second Epistle of Clement to the Corinthians"](https://archive.org/details/secondepistleofc00clemuoft) (published 1921, edited by Thomas Wilfrid Crafer based on Lightfoot) --- facsimile
 
+### Apology of Aristides:
+* ["Die ältesten Apologeten" (German for "The Oldest Apologists")](http://files.xpian.info/diealtestenapologeten.pdf) (published 1914, editied by Edgar J. Goodspeed) [note this book is in German but contains original language critical texts of The Apology of Quadratus, The Apology of Aristides, The First and Second Apology of Justin, Justin's Dialog with Trypho, Tatian's Address to the Greeks, The Apology of Melito and Athenagoras' Appeal for the Christians] --- facsimile
+
+
 ### Mathetes to Diognetus:
 * [“The Epistle to Diognetus: The Greek Text with Introduction, Translation, and Notes”](eng/diognetus_meecham.html) (published 1949, edited by Henry G. Meecham)
+
+### Revelation of Peter:
+* ["Apocrypha I: Reste Des Petrusevangeliums, Der Petrus-Apocakalypse und des Kerygmati Petri"](apocalypse_of_peter_klostermann.pdf) (published 1903, edited by Erich Klostermann) --- text/PDF
+* "Das Petrusevangelium und die Petrusapokalypse: Die griechischen Fragmente mit deutscher und englischer Übersetzung (Neutestamentliche Apokryphen I)", De Gruyter (published 2004, edited by Tobias Nicklas and Thomas J. Kraus
 
 ### Justin Martyr's Apologies:
   * ["The Apologies of Justin Martyr..."](https://archive.org/details/apologiesofjusti00just) (published 1877, edited by Basil Lanneau Gildersleeve) --- facsimile

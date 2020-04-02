@@ -36,6 +36,7 @@ An easy-to-read, modern English translation that is freely available is the one 
     * [read online](http://www.ccel.org/ccel/schaff/anf09.xii.i.html)
 * Kirsopp Lake (translated ~1912)
   * ["The Apostolic Fathers, Volume I"](https://archive.org/details/apostolicfathers01lake) (published 1912) --- facsimile
+    * [read online](1clement_lake.html)
 * William Kemp Lowther Clarke (translated ~1937)
   * "The First Epistle of Clement to the Corinthians", Society for the Promotion of Christian Knowledge (published 1937)
 * James A. Kleist (translated ~1946)
@@ -57,6 +58,6 @@ An easy-to-read, modern English translation that is freely available is the one 
 * Bart D. Ehrman (translated ~2003)
   * "The Apostolic Fathers, Volume I", Harvard University Press (published 2003)
 * Anonymous (translated ~2012)
-  * ["Letter of Clemens to the Korinthians"](http://www.biblicalaudio.com/text/clement.pdf) --- text/PDF
+  * ["Letter of Clemens to the Korinthians"](http://www.biblicalaudio.com/text/clement.pdf) (published 2012 but revised since) --- text/PDF
 * Rick Brannan (translated ~2017)
   * “The Apostolic Fathers: A New Translation”, Lexham Press (published 2017)
