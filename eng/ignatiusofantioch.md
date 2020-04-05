@@ -40,10 +40,10 @@ title: Letters of Ignatius of Antioch
     * [alternative copy](https://archive.org/details/epistles00igna) --- facsimile
 * Kirsopp Lake (translated ~1912)
   * [“The Apostolic Fathers, Volume I”](https://archive.org/details/apostolicfathers01lake) (published 1912) --- facsimile
-* Gerald G. Walsh (translated ~1947)
-  * [“The Apostolic Fathers”, Volume 1 of “The Fathers of the Church: A New Translation”](https://archive.org/details/in.ernet.dli.2015.58476), The Catholic University of America Press (published 1947)
 * James A. Kleist (translated ~1946)
   * ["The Epistles of St. Clement of Rome and St. Ignatius of Antioch"](ancientchristianwriters_1.html) Volume 1 of ["Ancient Christian Writers"](ancientchristianwriters.html) (published 1946)
+* Gerald G. Walsh (translated ~1947)
+  * [“The Apostolic Fathers”](https://archive.org/details/in.ernet.dli.2015.58476), Volume 1 of [“The Fathers of the Church: A New Translation”](fathersofthechurch.html), The Catholic University of America Press (published 1947)
 * Edgar J. Goodspeed (translated ~1950)
   * [“The Apostolic Fathers: An American Translation”](goodspeedapostolicfathers.html), Harper & Brothers. (published 1950)
 * Cyril C. Richardson (translated ~1953)

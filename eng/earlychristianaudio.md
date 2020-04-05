@@ -4,7 +4,7 @@ title: Audio Recordings of Early Christian Writings
 
 # Audio Recordings of Early Christian Writings
 
-### 1 Clement
+### 1 Clement (also called "Clement to the Corinthians")
 
  * [http://www.biblicalaudio.com/clement1.htm](http://www.biblicalaudio.com/clement1.htm)
  * [http://www.earlychristiancommentary.com/1-Clement%20-%20Luedeker.mp3](http://www.earlychristiancommentary.com/1-Clement%20-%20Luedeker.mp3)
@@ -13,26 +13,24 @@ title: Audio Recordings of Early Christian Writings
  * [https://archive.org/details/first_epistle_of_clement_to_the_corinthians_ss_librivox](https://archive.org/details/first_epistle_of_clement_to_the_corinthians_ss_librivox)
  * [https://archive.org/details/Ante-niceneFathers-Volume1-The1stEpistleOfClementToTheCorinthians](https://archive.org/details/Ante-niceneFathers-Volume1-The1stEpistleOfClementToTheCorinthians)
 
+### Shepherd of Hermas
+
+ * [http://www.biblicalaudio.com/hermas.html](http://www.biblicalaudio.com/hermas.html)
+ * [https://archive.org/details/Hermas1](https://archive.org/details/Hermas1)
+ * [https://archive.org/details/Hermas2](https://archive.org/details/Hermas2)
+ * [https://archive.org/details/Hermas3](https://archive.org/details/Hermas3)
+
+
 ### An Anonymous Christian Sermon commonly called 2 Clement
 
  * [http://www.earlychristiancommentary.com/2-Clement%20-%20Luedeker.mp3](http://www.earlychristiancommentary.com/2-Clement%20-%20Luedeker.mp3)
 
-### Polycarp to the Philippians
+### Fragments of Papias
 
- * [http://www.biblicalaudio.com/polycarp.htm](http://www.biblicalaudio.com/polycarp.htm)
- * [http://www.earlychristiancommentary.com/Epistle%20of%20Polycarp%20-%20Bracket.mp3](http://www.earlychristiancommentary.com/Epistle%20of%20Polycarp%20-%20Bracket.mp3)
- * [https://archive.org/details/PolycarpPhilp](https://archive.org/details/PolycarpPhilp)
- * [http://librivox.org/epistle_polycarp_philippians/](http://librivox.org/epistle_polycarp_philippians/)
- * [https://archive.org/details/epistle_polycarp_philippians_0806_librivox1](https://archive.org/details/epistle_polycarp_philippians_0806_librivox1)
+ * [http://www.biblicalaudio.com/papias.htm](http://www.biblicalaudio.com/papias.htm)
+ * [https://archive.org/details/FragmentsOfPapiasReadByPeterJohnParisis](https://archive.org/details/FragmentsOfPapiasReadByPeterJohnParisis)
 
-### The Martyrdom of Polycarp
-
- * [http://www.biblicalaudio.com/polycarp.htm](http://www.biblicalaudio.com/polycarp.htm)
- * [http://www.earlychristiancommentary.com/The%20Martydom%20of%20Polycarp%20-%20Bracket.mp3](http://www.earlychristiancommentary.com/The%20Martydom%20of%20Polycarp%20-%20Bracket.mp3)
- * [https://archive.org/details/PolycarpMartyr](https://archive.org/details/PolycarpMartyr)
- * [https://archive.org/details/Ante-niceneFathers-AncientChurchFathers-Polycarp](https://archive.org/details/Ante-niceneFathers-AncientChurchFathers-Polycarp)
-
-### Epistles of Ignatius
+### Letters of Ignatius
 
  * [http://www.biblicalaudio.com/ignatius.htm](http://www.biblicalaudio.com/ignatius.htm)
  * [http://www.earlychristiancommentary.com/The%20Epistle%20of%20Ignatius%20to%20the%20Ephesians%20-%20Bracket.mp3](http://www.earlychristiancommentary.com/The%20Epistle%20of%20Ignatius%20to%20the%20Ephesians%20-%20Bracket.mp3)
@@ -48,25 +46,19 @@ title: Audio Recordings of Early Christian Writings
  * [https://archive.org/details/IgEpRom](https://archive.org/details/IgEpRom)
  * [https://archive.org/details/epistles_ignatius_0810_librivox](https://archive.org/details/epistles_ignatius_0810_librivox)
 
-### The Martyrdom of Ignatius
+### Polycarp to the Philippians
 
- * [http://www.biblicalaudio.com/ignatius.htm](http://www.biblicalaudio.com/ignatius.htm)
- * [https://archive.org/details/IgntMartyr](https://archive.org/details/IgntMartyr)
- * [https://archive.org/details/02TheMartyrdomOfIgnatius](https://archive.org/details/02TheMartyrdomOfIgnatius)
- * [http://www.archive.org/download/nonfiction022_librivox/snf022_martyrdomofignatius_anonymous_dave7.mp3](http://www.archive.org/download/nonfiction022_librivox/snf022_martyrdomofignatius_anonymous_dave7.mp3)
+ * [http://www.biblicalaudio.com/polycarp.htm](http://www.biblicalaudio.com/polycarp.htm)
+ * [http://www.earlychristiancommentary.com/Epistle%20of%20Polycarp%20-%20Bracket.mp3](http://www.earlychristiancommentary.com/Epistle%20of%20Polycarp%20-%20Bracket.mp3)
+ * [https://archive.org/details/PolycarpPhilp](https://archive.org/details/PolycarpPhilp)
+ * [http://librivox.org/epistle_polycarp_philippians/](http://librivox.org/epistle_polycarp_philippians/)
+ * [https://archive.org/details/epistle_polycarp_philippians_0806_librivox1](https://archive.org/details/epistle_polycarp_philippians_0806_librivox1)
 
-### Epistle of Barnabas
+### Letter of Barnabas
 
  * [http://www.biblicalaudio.com/barnabas.htm](http://www.biblicalaudio.com/barnabas.htm)
  * [http://www.earlychristiancommentary.com/The%20Epistle%20of%20Barnabas%20-%20Bracket.mp3](http://www.earlychristiancommentary.com/The%20Epistle%20of%20Barnabas%20-%20Bracket.mp3)
  * [https://archive.org/details/TheEpistleOfBarnabusChapter00TheIntroduction](https://archive.org/details/TheEpistleOfBarnabusChapter00TheIntroduction)
-
-### Shepherd of Hermas
-
- * [http://www.biblicalaudio.com/hermas.html](http://www.biblicalaudio.com/hermas.html)
- * [https://archive.org/details/Hermas1](https://archive.org/details/Hermas1)
- * [https://archive.org/details/Hermas2](https://archive.org/details/Hermas2)
- * [https://archive.org/details/Hermas3](https://archive.org/details/Hermas3)
 
 ### The Didache
 
@@ -79,17 +71,26 @@ title: Audio Recordings of Early Christian Writings
 
 * [https://librivox.org/psalms-and-odes-of-solomon/](https://librivox.org/psalms-and-odes-of-solomon/)
 
-### Epistle of Mathetes to Diognetus
+### The Martyrdom of Polycarp
+
+ * [http://www.biblicalaudio.com/polycarp.htm](http://www.biblicalaudio.com/polycarp.htm)
+ * [http://www.earlychristiancommentary.com/The%20Martydom%20of%20Polycarp%20-%20Bracket.mp3](http://www.earlychristiancommentary.com/The%20Martydom%20of%20Polycarp%20-%20Bracket.mp3)
+ * [https://archive.org/details/PolycarpMartyr](https://archive.org/details/PolycarpMartyr)
+ * [https://archive.org/details/Ante-niceneFathers-AncientChurchFathers-Polycarp](https://archive.org/details/Ante-niceneFathers-AncientChurchFathers-Polycarp)
+
+### Letter of Mathetes to Diognetus
 
  * [http://www.earlychristiancommentary.com/The%20Epistle%20of%20Mathetes%20-%20Bracket.mp3](http://www.earlychristiancommentary.com/The%20Epistle%20of%20Mathetes%20-%20Bracket.mp3)
  * [https://archive.org/details/Diognetus](https://archive.org/details/Diognetus)
  * [https://archive.org/details/Ante-niceneFathers-Volume1-Mathetes-Ad130-CompleteFromChapters1](https://archive.org/details/Ante-niceneFathers-Volume1-Mathetes-Ad130-CompleteFromChapters1)
  * [https://archive.org/details/TheEpistleToDiognetusReadByPeterJohnParisis](https://archive.org/details/TheEpistleToDiognetusReadByPeterJohnParisis)
 
-### Fragments of Papias
+### The Martyrdom of Ignatius
 
- * [http://www.biblicalaudio.com/papias.htm](http://www.biblicalaudio.com/papias.htm)
- * [https://archive.org/details/FragmentsOfPapiasReadByPeterJohnParisis](https://archive.org/details/FragmentsOfPapiasReadByPeterJohnParisis)
+ * [http://www.biblicalaudio.com/ignatius.htm](http://www.biblicalaudio.com/ignatius.htm)
+ * [https://archive.org/details/IgntMartyr](https://archive.org/details/IgntMartyr)
+ * [https://archive.org/details/02TheMartyrdomOfIgnatius](https://archive.org/details/02TheMartyrdomOfIgnatius)
+ * [http://www.archive.org/download/nonfiction022_librivox/snf022_martyrdomofignatius_anonymous_dave7.mp3](http://www.archive.org/download/nonfiction022_librivox/snf022_martyrdomofignatius_anonymous_dave7.mp3)
 
 ### Justin Martyr’s First Apology
 
@@ -141,18 +142,19 @@ title: Audio Recordings of Early Christian Writings
 
  * [https://archive.org/details/StromataLove](https://archive.org/details/StromataLove)
 
-### Hippolytus’ Treatise on Christ and Antichrist
-
- * [https://librivox.org/treatise-on-christ-and-antichrist-by-hippolytus-of-rome/](https://librivox.org/treatise-on-christ-and-antichrist-by-hippolytus-of-rome/)
- * [https://archive.org/details/treatisonchristandantichrist_jl_librivox](https://archive.org/details/treatisonchristandantichrist_jl_librivox)
-
 ### Tertullian’s Of Shows
 
+ * [http://www.biblicalaudio.com/tertullianshows.html](http://www.biblicalaudio.com/tertullianshows.html)
  * [https://archive.org/details/TertShow](https://archive.org/details/TertShow)
 
 ### Tertullian’s Of Patience
 
  * [https://archive.org/details/TertPatience](https://archive.org/details/TertPatience)
+
+### Hippolytus’ Treatise on Christ and Antichrist
+
+ * [https://librivox.org/treatise-on-christ-and-antichrist-by-hippolytus-of-rome/](https://librivox.org/treatise-on-christ-and-antichrist-by-hippolytus-of-rome/)
+ * [https://archive.org/details/treatisonchristandantichrist_jl_librivox](https://archive.org/details/treatisonchristandantichrist_jl_librivox)
 
 ### Cyprian
 

@@ -11,7 +11,7 @@ title: Irenaeus of Lyons --- Against Heresies
   * ["A Library of Fathers of the Holy Catholic Church", Volume 42 (41?)](https://archive.org/details/42ALibraryOfFathersOfTheHolyCatholicV42) (published 1872) --- facsimile
 * Francis Ryan Montgomery (translated ~1916)
   * "The Treatise of Irenæus of Lugdunum Against the Heresies, A Translation of the Principal Passages, With Notes and Arguments", [Volume I](https://archive.org/details/treatiseofiren01iren) (published 1916) & [Volume II](https://archive.org/details/treatiseofiren02iren) (published 1916) --- facsimile
-  * This book contains excerpts of "Against Heresies"
+    * This book contains excerpts of "Against Heresies"
 * Edward Rochie Hardy (translated ~1953)
   * [“Early Christian Fathers”](ecf.html) (published 1953)
     * [read online](http://www.ccel.org/ccel/richardson/fathers/fathers.xi.i.html)
