@@ -44,7 +44,7 @@ English translations:
   * ["The Apostolic Fathers: An American Translation"](goodspeedapostolicfathers.html), Harper & Brothers. (published 1950)
 * Cyril C. Richardson (translated ~1953)
   * ["Early Christian Fathers"](ecf.html) (published 1953)
-    * [read online](http://www.ccel.org/ccel/richardson/fathers.vi.i.html) 
+    * [read online](http://www.ccel.org/ccel/richardson/fathers.viii.i.html) 
 * Robert A. Kraft (translated ~1965)
   * "Barnabas and the Didache." Volume 3 of "The Apostolic Fathers: A New Translation and Commentary", Thomas Nelson & Sons (published 1965)
     * [read online(revised version)](http://ccat.sas.upenn.edu/rak/publics/barn/barndidintro.htm) 

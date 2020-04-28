@@ -6,7 +6,8 @@ title: Early Christian Writings in their original languages or other ancient lan
 
 ## Collections:
 
-* [Die griechischen christlichen Schriftsteller der ersten Jahrhunderte (GCS)/(Greek Christian Writers of the First Centuries)](https://bibelexegese.bbaw.de/publikationsreihen/gcs/) (published 1897-present) This large German collection contains critial texts of many different early Christian writings in their original languages or in ancient translations.
+* *Patrum Apostolicorum Opera* [volume 1](https://books.google.com/books?id=7hQ-AAAAYAAJ), [volume 2](https://books.google.com/books?id=WRU-AAAAYAAJ), [volume 3](https://books.google.com/books?id=bB4-AAAAYAAJ) (published 1876-1878) This old Latin collection of the works of the so-called "Apostolic Fathers" contains critical texts and extensive apparatus. --- facsimile
+* [*Die griechischen christlichen Schriftsteller der ersten Jahrhunderte (GCS)/(Greek Christian Writers of the First Centuries)*](https://bibelexegese.bbaw.de/publikationsreihen/gcs/) (published 1897-present) This large German collection contains critical texts of many different early Christian writings in their original languages or in ancient translations.
 * [Die Apostolischen Väter (The Apostolic Fathers)](https://archive.org/details/dieapostolischen00clem) (published 1901, edited by F.X. Funk) --- facsimile
 * [*Acta Martyrum Selecta: Ausgewählte Märtyreracten, und andere Urkunden aus der Verfolgungszeit...*](https://archive.org/details/actamartyrumsel00gebhgoog) (published 1902, edited by Oscar von Gebhardt) --- facsimile
 
