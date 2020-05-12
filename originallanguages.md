@@ -21,6 +21,10 @@ title: Early Christian Writings in their original languages or other ancient lan
 * ["The Editio Princeps of the Epistle of Barnabas"](https://archive.org/details/editioprincepsof00barn) (published 1883, edited by J. H. Backhouse) --- facsimile
 * ["The Epistle of Barnabas"](https://books.google.com/books?id=8ktOAAAAYAAJ) (published 1920, edited by Thomas Wilfrid Crafer) --- facsimile
 
+### Didache:
+* ["The Teaching of the Apostles: A Critical Greek Edition"](http://bibletranslation.ws/trans/didache.pdf) (published originally in 2010 but revised since, edited by David Robert Palmer) --- text/PDF
+  * [local mirror](didache_palmer.pdf)
+
 ### 2 Clement:
 * ["Second Epistle of Clement to the Corinthians"](https://archive.org/details/secondepistleofc00clemuoft) (published 1921, edited by Thomas Wilfrid Crafer based on Lightfoot) --- facsimile
 
