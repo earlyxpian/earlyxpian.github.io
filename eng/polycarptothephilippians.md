@@ -4,6 +4,12 @@ title: Polycarp to the Philippians
 
 # Polycarp to the Philippians
 
+Polycarp was an overseer in Smyrna in the early second century. His letter to the Christian assembly in Philippi, written in response to their letter, was probably written shortly after Ignatius of Antioch was killed in Rome, some time in the early second century.
+
+### Suggested first translation(s):
+
+An easy-to-read, modern English translation that is freely available is the one by Massey Hamilton Shepherd, Jr. from 1953 listed below. A more literal translation that is also in modern English and freely available is the anonymous one from 2013 listed below.
+
 ## English translations:
 * William Wake (translated ~1719)
   * [“The Genuine Epistles of the Apostolical Fathers...”](https://archive.org/details/genuineepistleso1719wake) (published 1719) --- facsimile
@@ -38,7 +44,7 @@ title: Polycarp to the Philippians
   * ["The Didache, The Epistle of Barnabas, The Epistles and the Martyrdom of St. Polycarp, The Fragments of Papias, The Epistle to Diognetus"](ancientchristianwriters_6.html), Volume 6 of [“Ancient Christian Writers” Series](ancientchristianwriters.html) (published 1948)
 * Edgar J. Goodspeed (translated ~1950)
   * [“The Apostolic Fathers: An American Translation”](goodspeedapostolicfathers.html), Harper & Brothers. (published 1950)
-* Cyril C. Richardson (translated ~1953)
+* Massey Hamilton Shepherd, Jr. (translated ~1953)
   * [“Early Christian Fathers”](ecf.html) (published 1953)
     * [read online](http://www.ccel.org/ccel/richardson/fathers.vi.iii.html)
 * William R. Schoedel (translated ~1967)
@@ -52,9 +58,9 @@ title: Polycarp to the Philippians
   * “The Apostolic Fathers, Volume I”, Harvard University Press (published 2003)
 * Kenneth J. Howell (translated ~2009)
   * "Ignatius of Antioch & Polycarp of Smyrna: A New Translation and Theological Commentary", CHResources (published 2009)
+* Anonymous (translated ~2013, but updated since)
+  * [“Letter of Polykarpos to the Philippians”](http://www.biblicalaudio.com/text/polykarpos_philippians.pdf) (published 2013) --- text/PDF
 * Paul Hartog (translated ~2013)
   * ["Polycarp's Epistle to the Philippians and the Martyrdom of Polycarp"](https://books.google.com/books?id=eZkRAAAAQBAJ), Oxford University Press (published 2013) --- facsimile/preview
 * Rick Brannan (translated ~2017)
   * “The Apostolic Fathers: A New Translation”, Lexham Press (published 2017)
-* Anonymous (translated ~2018)
-  * [“Letter of Polykarpos to the Philippians”](http://www.biblicalaudio.com/text/polykarpos_philippians.pdf) (published 2018) --- text/PDF

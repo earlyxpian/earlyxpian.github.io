@@ -43,7 +43,7 @@ An easy-to-read, modern English translation that is freely available is the one 
   * "The Apostolic Fathers: Greek Texts and English Translations of Their Writings", Baker Academic (various editions, published 1992-2007)
 * Bart D. Ehrman (translated ~2003)
   * "The Apostolic Fathers, Volume II", Harvard University Press (published 2003)
-* Anonymous (translated ~2013)
+* Anonymous (translated ~2013, but updated since)
   * ["Shepherd of Hermas"](http://www.biblicalaudio.com/text/hermas.pdf) (published 2013 but revised since) --- text/PDF
 * Daniel Robison (translation update ~2013)
   * "The Shepherd of Hermas", CreateSpace Independent Publishing Platform (published 2013)

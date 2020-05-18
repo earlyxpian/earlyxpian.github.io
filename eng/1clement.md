@@ -1,6 +1,6 @@
 # 1 Clement (also known as “Clement to the Corinthians”)
 
-This letter from the Christian assembly in Rome to the Christian assembly in Corinth has generally been considered to have been written by Clement of Rome (an overseer of the Christian assembly in Rome in the last part of the first century). If that is true, than it is one of the earliest surviving Christian writings that is not in the New Testament. It may even have been written before some of the later writings in the New Testament. 
+This letter from the Christian assembly in Rome to the Christian assembly in Corinth has traditionally been considered to have been written by Clement of Rome (a leader in the Christian assembly in Rome in the last part of the first century). If that is true, than it is one of the earliest surviving Christian writings that is not in the New Testament. It may even have been written before some of the later writings in the New Testament. 
 
 The complete Greek text of 1 Clement was not rediscovered until 1873. Therefore, any translations before that date contain only part of the letter.
 

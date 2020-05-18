@@ -27,7 +27,7 @@ title: Mathetes to Diognetus
   * [“The Epistle to Diognetus: The Greek Text with Introduction, Translation, and Notes”](diognetus_meecham.html), Manchester University Press (published 1949)
 * Edgar J. Goodspeed (translated ~1950)
   * [“The Apostolic Fathers: An American Translation”](goodspeedapostolicfathers.html), Harper & Brothers (published 1950)
-* Cyril C. Richardson (translated ~1953)
+* Eugene R. Fairweather (translated ~1953)
   * [“Early Christian Fathers”](ecf.html) (published 1953)
     * [read online](http://www.ccel.org/ccel/richardson/fathers.vi.iii.html)
 * Maxwell Staniforth/A. Louth (translated 1968/revised 1987)

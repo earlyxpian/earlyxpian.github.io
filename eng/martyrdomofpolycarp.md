@@ -40,7 +40,7 @@ title: Martyrdom of Polycarp
   * ["The Didache, The Epistle of Barnabas, The Epistles and the Martyrdom of St. Polycarp, The Fragments of Papias, The Epistle to Diognetus"](ancientchristianwriters_6.html), Volume 6 of [“Ancient Christian Writers” Series](ancientchristianwriters.html) (published 1948)
 * Edgar J. Goodspeed (translated ~1950)
   * [“The Apostolic Fathers: An American Translation”](goodspeedapostolicfathers.html), Harper & Brothers. (published 1950)
-* Cyril C. Richardson (translated ~1953)
+* Massey Hamilton Shepherd, Jr. (translated ~1953)
   * [“Early Christian Fathers”](ecf.html) (published 1953)
     * [read online](http://www.ccel.org/ccel/richardson/fathers.vii.i.html)
 * William R. Schoedel (translated ~1967)

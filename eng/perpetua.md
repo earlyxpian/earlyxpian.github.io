@@ -25,6 +25,7 @@ title: The Martyrdom of Perpetua and Felicitas
   * *Women Writers of the Middle Ages: A Critical Study of Texts from Perpetua to Marguerite Porete*, Cambridge University Press (published 1984)
 * Brent Donald Shaw (translated ~1993)
   * *Past and Present*, Volume 139, Issue 1, May 1993, Pages 3–45, Oxford University Press for the Past and Present Society
+    * This translation is of excerpts only.
 * Thomas J. Heffernan (translated ~2012)
   * [*The Passion of Perpetua and Felicity*](https://books.google.com/books?id=9XA0xaGW1t8C), Oxford University Press (published 2012) --- facsimile/preview
 * Anonymous (translated ~2012)

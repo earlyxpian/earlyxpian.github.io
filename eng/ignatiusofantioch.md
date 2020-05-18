@@ -4,6 +4,15 @@ title: Letters of Ignatius of Antioch
 
 # Letters of Ignatius of Antioch
 
+Ignatius was an overseer of the Christian assembly of Antioch in Syria (not to be confused with Antioch in Pisidia). The letters were written after Ignatius had been arrested and while he was on his way to be killed in Rome. 
+
+The authenticity of his surviving letters has been challenged, at least in part because they exist in various forms, some of which are clearly not original. The letters were originally written in Greek. There are seven letters (the seven mentioned by Eusebius in his history) which exist in Greek and are generally considered to be the authentic letters. Three of those seven letters, occur in a short form that has only survived in Syriac.  The seven letters, in a much longer form, along with six others claiming to be written to or written by Ignatius are almost universally considered later forgeries written centuries later to support state church ideas. These longer seven and extra six letters are usually not translated into English.
+
+The seven, presumably authentic, letters were written to the Christian assemblies in Ephesus of Asia, Magnesia on the Meander, Tralles of Asia, Rome, Philadelphia of Asia, Smyrna of Asia, and one personally to Polycarp, an overseer of the Christian assembly in Smyrna.
+
+### Suggested first translation(s):
+
+An easy-to-read, modern English translation that is freely available is the one by Cyril C. Richardson from 1953 listed below. A more literal translation that is also in modern English and freely available is the anonymous one from 2012 listed below.
 
 ## English translations:
 * William Whiston (translated ~1711)
@@ -61,11 +70,7 @@ title: Letters of Ignatius of Antioch
 * Kenneth J. Howell (translated ~2008/2009)
   * "Ignatius of Antioch & Polycarp of Smyrna: A New Translation and Theological Commentary", CHResources (published 2009)
     * originally published as "Ignatius of Antioch: A New Translation and Theological Commentary"
-* Alistair Stewart (translated ~2013)
-  * “The Letters: Ignatius of Antioch”, volume 49 in the Popular Patristics Series, St. Vladimir’s Seminary Press (published 2013)
-* Rick Brannan (translated ~2017)
-  * “The Apostolic Fathers: A New Translation”, Lexham Press (published 2017)
-* Anonymous (translated ~2018)
+* Anonymous (translated ~2012, but updated since)
   * [“Letter of Ignatios to the Ephesians”](http://www.biblicalaudio.com/text/ignatios_ephesians.pdf) --- text/PDF
   * [“Letter of Ignatios to the Magnesians”](http://www.biblicalaudio.com/text/ignatios_magnesians.pdf) --- text/PDF
   * [“Letter of Ignatios to the Trallians”](http://www.biblicalaudio.com/text/ignatios_trallians.pdf) --- text/PDF
@@ -73,4 +78,8 @@ title: Letters of Ignatius of Antioch
   * [“Letter of Ignatios to the Philadelphians”](http://www.biblicalaudio.com/text/ignatios_philadelphians.pdf) --- text/PDF
   * [“Letter of Ignatios to the Smyrneans”](http://www.biblicalaudio.com/text/ignatios_smyrneans.pdf) --- text/PDF
   * [“Letter of Ignatios to Polykarpos”](http://www.biblicalaudio.com/text/ignatios_polykarpos.pdf) --- text/PDF
+* Alistair Stewart (translated ~2013)
+  * “The Letters: Ignatius of Antioch”, volume 49 in the Popular Patristics Series, St. Vladimir’s Seminary Press (published 2013)
+* Rick Brannan (translated ~2017)
+  * “The Apostolic Fathers: A New Translation”, Lexham Press (published 2017)
 
