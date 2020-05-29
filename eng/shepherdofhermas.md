@@ -1,14 +1,16 @@
 ---
-title: Shepherd of Hermas
+title: Shepherd of Hermas (English translations)
 ---
 
-# Shepherd of Hermas (also called Pastor of Hermas)
+# Shepherd of Hermas (also called *Pastor of Hermas*)
+
+## Brief description:
 
 *The Shepherd of Hermas* contains a series of visions that a man named Hermas received. Hermas lived in Rome and wrote *The Shepherd* some time between the late first century and the middle of the second century. The third century writer Origen thought that Hermas was the person mentioned by Paul in Romans 16:14. The anonymous *Muratorian Fragment* claims that *The Shepherd of Hermas* was written during the time that Pius was overseer in Rome (~140-154 A.D.).
 
 *The Shepherd of Hermas* was so widely appreciated and read by the Christians of the second and third centuries that there are more surviving fragments of it from that era than there are of some of the books that are a part of the New Testament. *The Shepherd of Hermas* is bound along with the New Testament books in one of the oldest surviving complete New Testament collections, the *Codex Sinaiticus*. That makes it likely the most helpful early Christian writing outside of the New Testament for understanding early Christianity.
 
-### Suggested first translation(s):
+## Suggested first translation(s):
 
 An easy-to-read, modern English translation that is freely available is the one by Edgar J. Goodspeed from 1950 listed below. A more literal translation that is also in modern English and freely available is the anonymous one from 2013 listed below.
 

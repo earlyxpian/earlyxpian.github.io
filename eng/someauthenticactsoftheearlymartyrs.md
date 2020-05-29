@@ -6,7 +6,7 @@ title: Some Authentic Acts of the Early Martyrs
 
 This collection of the accounts of early Christian martyrdoms was edited and translated by Edward Charles Everard Owen. It was published in 1927 by The Clarendon Press. There are extensive notes on each account.
 
-E. C. E. Owen died in 1949 and therefore his writings are public domain in Canada, Australia and any country where copyrights extend 50 years after the death of the author. In most other countries (other than the U.S.), this work should enter the public domain in 2019/2020. In the U.S., this work should enter the public domain in 2023.
+E. C. E. Owen died in 1949 and therefore his writings are public domain in Canada, Australia and any country where copyrights extend 50 years after the death of the author. In most other countries (other than the U.S.), this work entered the public domain in 2019/2020. In the U.S.A., this work should enter the public domain in 2023.
 
 ## Contents:
 

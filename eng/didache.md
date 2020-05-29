@@ -1,10 +1,26 @@
 ---
-title: Didache
+title: Didache (English translations)
 ---
 
-# Didache (also called Teaching of the Twelve Apostles)
+# Didache (also called *Teaching of the Twelve Apostles*)
 
-English translations:
+## Brief description:
+
+*The Didache*, in the form we currently have it, was only rediscovered in the late nineteenth century. The word *Didache* is a transliteration of the Greek word which means teaching, which comes from the long title *The Teaching of the Twelve Apostles*.
+
+This writing consists of at least two parts. The first part is [*The Two Ways*](twoways.html), which is a discription of the way of life and the way of death. This part is present in various forms in several different forms from the early Christian era.
+
+The second part of *The Didache* is instruction on the function of the local Christian assembly. It covers topics like baptism, fasting, prayer, the thanksgiving meal, what to do with traveling teachers and prophets, the Lord's day gathering, appointing leadership. It ends with a short reminder to remain ready for the end.
+
+Other than a reference by Clement of Alexandria[^1] to the *Two Ways* section (which he seems to view as authoritative), there are no references to *The Didache* before Eusebius (writing in the early forth century), who lists it as an non-authoritative writing. The date that *The Didache* was compiled is unknown. *Two Ways* section is clearly an early writing, likely first century. The second half of *The Didache* is usually dated in the first or second centuries.
+
+[^1]: *Miscellanies*, book 1, chapter 20.
+
+## Suggested first translation(s):
+
+An easy-to-read, modern English translation that is freely available is the one by Cyril C. Richardson from 1953 listed below. A more literal translation that is also in modern English and freely available is the anonymous one from 2012 listed below.
+
+## English translations:
 
 * H. De Romestin (translated ~1884)
   * ["The Teaching of the Twelve Apostles"](https://archive.org/details/teachingoftwelve00deroiala) (published 1885) --- facsimile
@@ -21,7 +37,8 @@ English translations:
   * ["Ante-Nicene Fathers"](anf.html) volume 7 (published 1886)
     * [read online](http://www.ccel.org/ccel/schaff/anf07.viii.html)
 * J. Rendel Harris (translated ~1887)
-  * ["The Teaching of the Apostles"](https://archive.org/details/Didache_201706) (published 1887) --- facsimile
+  * ["The Teaching of the Apostles"](https://archive.org/details/teachingofapostl00harr) (published 1887) --- facsimile
+    * [2nd copy](https://archive.org/details/Didache_201706)
 * Joseph Barber Lightfoot/J. R. Harmer (translated ~1891)
   * ["The Apostolic Fathers"](https://archive.org/details/a590752000clemuoft) (published 1912) --- facsimile
   * ["The Apostolic Fathers"](http://www.katapi.org.uk/ApostolicFathers/ApFathers-Contents.html) (published 1891) --- text/HTML
@@ -59,7 +76,7 @@ English translations:
   * "The Apostolic Fathers, Volume I", Harvard University Press (published 2003)
 * Anthony H. Jones (translated ~2009)
   * [“The Teaching of the Twelve”](teaching-12-pgs.19-34.pdf), Paraclete Press (published 2009) --- text/PDF
-* Anonymous (translated ~2012)
+* Anonymous (translated ~2012 but updated since)
   * ["The Teaching"](http://www.biblicalaudio.com/text/didache.pdf) (published 2012, but revised since) --- text/PDF
 * R. Joseph Owles (translated ~2014)
   * "The Didache: The Teaching of the Twelve Apostles", CreateSpace Independent Publishing Platform (published 2014)

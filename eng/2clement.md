@@ -1,14 +1,16 @@
 ---
-title: An Anonymous Early Christian Sermon (also known as "2 Clement")
+title: An Anonymous Early Christian Sermon (also called *2 Clement*) (English translations)
 ---
 
-# An Anonymous Early Christian Sermon (also known as "2 Clement")
+# An Anonymous Early Christian Sermon (also called *2 Clement*)
+
+## Brief description:
 
 This anonymous writing seems to be a written record of a spoken message given to an assembly of Christians. For unknown reasons this writing has been historically connected with 1 Clement. It is generally considered to have been written some time in the early to mid second century (although possibly from the late first century). This makes it the oldest surviving recorded spoken message to a group of Christians.
 
 The complete Greek text of 2 Clement was not rediscovered until 1873. Therefore, any translations before that date contain only part of the sermon.
 
-### Suggested first translation(s):
+## Suggested first translation(s):
 
 An easy-to-read, modern English translation that is freely available is the one by Cyril C. Richardson from 1953 listed below.
 

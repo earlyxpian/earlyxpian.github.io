@@ -1,12 +1,14 @@
 ---
-title: Polycarp to the Philippians
+title: Polycarp to the Philippians (English translations)
 ---
 
 # Polycarp to the Philippians
 
+## Brief description:
+
 Polycarp was an overseer in Smyrna in the early second century. His letter to the Christian assembly in Philippi, written in response to their letter, was probably written shortly after Ignatius of Antioch was killed in Rome, some time in the early second century.
 
-### Suggested first translation(s):
+## Suggested first translation(s):
 
 An easy-to-read, modern English translation that is freely available is the one by Massey Hamilton Shepherd, Jr. from 1953 listed below. A more literal translation that is also in modern English and freely available is the anonymous one from 2013 listed below.
 

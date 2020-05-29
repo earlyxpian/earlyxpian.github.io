@@ -1,10 +1,16 @@
-# 1 Clement (also known as “Clement to the Corinthians”)
+---
+title: 1 Clement (English translations)
+---
+
+# 1 Clement (also called *Clement to the Corinthians*)
+
+## Brief description:
 
 This letter from the Christian assembly in Rome to the Christian assembly in Corinth has traditionally been considered to have been written by Clement of Rome (a leader in the Christian assembly in Rome in the last part of the first century). If that is true, than it is one of the earliest surviving Christian writings that is not in the New Testament. It may even have been written before some of the later writings in the New Testament. 
 
 The complete Greek text of 1 Clement was not rediscovered until 1873. Therefore, any translations before that date contain only part of the letter.
 
-### Suggested first translation(s):
+## Suggested first translation(s):
 
 An easy-to-read, modern English translation that is freely available is the one by Cyril C. Richardson from 1953 listed below. A more literal translation that is also in modern English and freely available is the anonymous one from 2012 listed below.
 

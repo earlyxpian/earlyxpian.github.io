@@ -6,7 +6,9 @@ title: English Translations
 
 ## Collections of Early Christian Writings: 
 
-To view a list of published volumes and collections which contain a significant number of early Christian writings, click [here](publishedcollections.html). This is not a complete list of collections of early Christian writings but focuses on some of the larger collections. To see more detailed lists, sorted by early Christian writing or writer, see the list below. The list below is intended to be a fairly complete list of translations of each of these early Christian writings or writers. 
+To view a list of published volumes and collections which contain a significant number of early Christian writings, visit the [published collections](publishedcollections.html) page. 
+
+To see more detailed lists, sorted by early Christian writing or writer, see the list below. The list below is intended to be a fairly complete list of translations of each of these early Christian writings or writers. 
 
 ## Individual Early Christian Writings or Writers:
 
@@ -43,6 +45,7 @@ This list generally does not include early Christian writers for whom there are 
 * [Irenaeus --- Against Heresies](irenaeus-againstheresies.html)
 * [Irenaeus --- Demonstration of the Apostolic Preaching](irenaeus-apostolicpreaching.html)
 * [Theophilus of Antioch](theophilusofantioch.html)
+* [Acts of Apollonius](actsofapollonius.html)
 * [Clement of Alexandria --- "Exhortation to the Greeks" (also called "Protrepticus" or "Exhortation to the Heathen")](clementofalexandria-exhortationtothegreeks.html)
 * [Clement of Alexandria --- "The Tutor" (also called "Paedagogus" or "The Instructor")](clementofalexandria-tutor.html)
 * [Clement of Alexandria --- "Miscellanies" (also called "Stromateis"/"Stromata")](clementofalexandria-miscellanies.html)

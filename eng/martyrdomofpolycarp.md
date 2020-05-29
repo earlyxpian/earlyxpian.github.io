@@ -1,11 +1,12 @@
 ---
-title: Martyrdom of Polycarp
+title: Martyrdom of Polycarp (English translations)
 ---
 
 # Martyrdom of Polycarp
 
 
 ## English translations:
+
 * William Wake (translated ~1719)
   * [“The Genuine Epistles of the Apostolical Fathers...”](https://archive.org/details/genuineepistleso1719wake) (published 1719) --- facsimile
   * [“The Genuine Epistles of the Apostolical Fathers...”](https://archive.org/details/genuineepistleso01wake) (published 1810) --- facsimile
@@ -48,15 +49,17 @@ title: Martyrdom of Polycarp
 * Maxwell Staniforth/A. Louth (translated 1968/revised 1987)
   * “Early Christian Writings: The Apostolic Fathers”, Penguin (published 1987)
 * Herbert Anthony Musurillo (translated ~1972)
-  * ["The Acts of the Christian Martyrs"](https://www.scribd.com/document/249295097/Musurillo-Acts-of-the-Christian-Martyrs), Oxford: Clarendon Press (published 1972) --- facsimile
+  * [*The Acts of the Christian Martyrs*](https://www.scribd.com/document/249295097/Musurillo-Acts-of-the-Christian-Martyrs), Oxford/Clarendon Press (published 1972) --- facsimile
 * Michael W. Holmes (translated 1989-2007)
   * “The Apostolic Fathers in English”, Baker Academic (various editions, published 1989-2006)
   * “The Apostolic Fathers: Greek Texts and English Translations of Their Writings”, Baker Academic (various editions, published 1992-2007)
 * Bart D. Ehrman (translated ~2003)
   * “The Apostolic Fathers, Volume I”, Harvard University Press (published 2003)
+* Anonymous (translated ~2012 but revised since)
+  * [“Testimony of Polykarpos”](http://www.biblicalaudio.com/text/polykarpos_testimony.pdf) (published 2012) --- text/PDF
 * Paul Hartog (translated ~2013)
   * ["Polycarp's Epistle to the Philippians and the Martyrdom of Polycarp"](https://books.google.com/books?id=eZkRAAAAQBAJ), Oxford University Press (published 2013) --- facsimile/preview
 * Rick Brannan (translated ~2017)
   * “The Apostolic Fathers: A New Translation”, Lexham Press (published 2017)
-* Anonymous (translated ~2018)
-  * [“Testimony of Polykarpos”](http://www.biblicalaudio.com/text/polykarpos_testimony.pdf) (published 2018) --- text/PDF
+* Éric Rebillard (translated ~2017)
+  * *Greek and Latin Narratives about the Ancient Martyrs*, Oxford Univeristy Press (published 2017)

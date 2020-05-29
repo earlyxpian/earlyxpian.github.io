@@ -14,3 +14,5 @@ title: Acts of the Scillitan Martyrs
 * Alexander Smarius (translated ~2016)
   * ["Acts of the Scillitan Martyrs"](actsofthescillitanmartyrs_smariustranslation.pdf) (published 2016) --- text/PDF
     * [read online](https://www.livius.org/sources/content/acts-of-the-scillitan-martyrs/translation/)
+* Éric Rebillard (translated ~2017)
+  * *Greek and Latin Narratives about the Ancient Martyrs*, Oxford Univeristy Press (published 2017)
