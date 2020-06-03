@@ -12,6 +12,9 @@ title: Audio Recordings of Early Christian Writings
  * [https://librivox.org/first-epistle-of-clement-to-the-corinthians/](https://librivox.org/first-epistle-of-clement-to-the-corinthians/)
  * [https://archive.org/details/first_epistle_of_clement_to_the_corinthians_ss_librivox](https://archive.org/details/first_epistle_of_clement_to_the_corinthians_ss_librivox)
  * [https://archive.org/details/Ante-niceneFathers-Volume1-The1stEpistleOfClementToTheCorinthians](https://archive.org/details/Ante-niceneFathers-Volume1-The1stEpistleOfClementToTheCorinthians)
+ * [https://www.ancientfaith.com/podcasts/churchfathers/first_epistle_of_clement_to_the_corinthians](https://www.ancientfaith.com/podcasts/churchfathers/first_epistle_of_clement_to_the_corinthians)
+* [https://www.ancientfaith.com/podcasts/churchfathers/first_epistle_of_clement_to_the_corinthians_part_2](https://www.ancientfaith.com/podcasts/churchfathers/first_epistle_of_clement_to_the_corinthians_part_2)
+* [https://www.ancientfaith.com/podcasts/churchfathers/first_epistle_of_clement_to_the_corinthians_part_3](https://www.ancientfaith.com/podcasts/churchfathers/first_epistle_of_clement_to_the_corinthians_part_3)
 
 ### Shepherd of Hermas
 
@@ -53,12 +56,19 @@ title: Audio Recordings of Early Christian Writings
  * [https://archive.org/details/PolycarpPhilp](https://archive.org/details/PolycarpPhilp)
  * [http://librivox.org/epistle_polycarp_philippians/](http://librivox.org/epistle_polycarp_philippians/)
  * [https://archive.org/details/epistle_polycarp_philippians_0806_librivox1](https://archive.org/details/epistle_polycarp_philippians_0806_librivox1)
+ * [https://www.ancientfaith.com/podcasts/churchfathers/the_epistle_of_polycarp_to_the_philippians](https://www.ancientfaith.com/podcasts/churchfathers/the_epistle_of_polycarp_to_the_philippians)
 
 ### Letter of Barnabas
 
  * [http://www.biblicalaudio.com/barnabas.htm](http://www.biblicalaudio.com/barnabas.htm)
  * [http://www.earlychristiancommentary.com/The%20Epistle%20of%20Barnabas%20-%20Bracket.mp3](http://www.earlychristiancommentary.com/The%20Epistle%20of%20Barnabas%20-%20Bracket.mp3)
  * [https://archive.org/details/TheEpistleOfBarnabusChapter00TheIntroduction](https://archive.org/details/TheEpistleOfBarnabusChapter00TheIntroduction)
+ * [https://www.ancientfaith.com/podcasts/churchfathers/the_epistle_of_barnabas_part_1](https://www.ancientfaith.com/podcasts/churchfathers/the_epistle_of_barnabas_part_1)
+ * [https://www.ancientfaith.com/podcasts/churchfathers/the_epistle_of_barnabas_part_2](https://www.ancientfaith.com/podcasts/churchfathers/the_epistle_of_barnabas_part_2)
+ * [https://www.ancientfaith.com/podcasts/churchfathers/the_epistle_of_barnabas_part_31](https://www.ancientfaith.com/podcasts/churchfathers/the_epistle_of_barnabas_part_31)
+ * [https://www.ancientfaith.com/podcasts/churchfathers/the_epistle_of_barnabas_part_4](https://www.ancientfaith.com/podcasts/churchfathers/the_epistle_of_barnabas_part_4)
+ * [https://www.ancientfaith.com/podcasts/churchfathers/the_epistle_of_barnabas_part_5](https://www.ancientfaith.com/podcasts/churchfathers/the_epistle_of_barnabas_part_5)
+ *
 
 ### The Didache
 
@@ -66,6 +76,7 @@ title: Audio Recordings of Early Christian Writings
  * [https://archive.org/details/Didache](https://archive.org/details/Didache)
  * [http://librivox.org/the-didache-from-the-roberts-donaldson-translation/](http://librivox.org/the-didache-from-the-roberts-donaldson-translation/)
  * [https://archive.org/details/thedidache_ss_librivox](https://archive.org/details/thedidache_ss_librivox)
+ * [https://www.ancientfaith.com/podcasts/churchfathers/the_didache](https://www.ancientfaith.com/podcasts/churchfathers/the_didache)
 
 ### The Odes of Solomon
 
@@ -84,6 +95,7 @@ title: Audio Recordings of Early Christian Writings
  * [https://archive.org/details/Diognetus](https://archive.org/details/Diognetus)
  * [https://archive.org/details/Ante-niceneFathers-Volume1-Mathetes-Ad130-CompleteFromChapters1](https://archive.org/details/Ante-niceneFathers-Volume1-Mathetes-Ad130-CompleteFromChapters1)
  * [https://archive.org/details/TheEpistleToDiognetusReadByPeterJohnParisis](https://archive.org/details/TheEpistleToDiognetusReadByPeterJohnParisis)
+ * [https://www.ancientfaith.com/podcasts/churchfathers/the_epistle_of_machetes_to_diogentus](https://www.ancientfaith.com/podcasts/churchfathers/the_epistle_of_machetes_to_diogentus)
 
 ### The Martyrdom of Ignatius
 

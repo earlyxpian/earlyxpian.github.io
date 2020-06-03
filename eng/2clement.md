@@ -36,6 +36,7 @@ An easy-to-read, modern English translation that is freely available is the one 
     * [read online](http://www.ccel.org/ccel/schaff/anf09.xii.v.html)
 * Kirsopp Lake (translated ~1912)
   * ["The Apostolic Fathers, Volume I"](https://archive.org/details/apostolicfathers01lake) (published 1912) --- facsimile
+    * [read online](2clement_lake.html)
 * Anonymous (Editorial Secretary of the Society for Promoting Christian Knowledge) (translated ~1922)
   * ["An English Translation of the So-Called Second Epistle of Clement to the Corinthians"](2clement-spck.html) (published 1922) --- text/HTML
   * ["An English Translation of the So-Called Second Epistle of Clement to the Corinthians"](https://archive.org/details/2clement-spck) (published 1922) --- facsimile

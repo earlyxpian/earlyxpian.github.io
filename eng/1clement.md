@@ -40,6 +40,9 @@ An easy-to-read, modern English translation that is freely available is the one 
 * John Keith (translated ~1897)
   * ["Ante-Nicene Fathers"](anf.html) volume 9 (published 1897)
     * [read online](http://www.ccel.org/ccel/schaff/anf09.xii.i.html)
+* John Allen Fitzgerald Gregg (translated ~1899)
+  * [*The Epistle of St. Clement, Bishop of Rome*](https://books.google.ca/books?id=ttsPAAAAYAAJ) (published 1899) --- facsimile
+    * [second copy](https://archive.org/details/epistleofstcleme00clemuoft) --- facsimile
 * Kirsopp Lake (translated ~1912)
   * ["The Apostolic Fathers, Volume I"](https://archive.org/details/apostolicfathers01lake) (published 1912) --- facsimile
     * [read online](1clement_lake.html)

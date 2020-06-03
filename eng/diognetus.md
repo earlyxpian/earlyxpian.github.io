@@ -5,6 +5,7 @@ title: Mathetes to Diognetus
 # Mathetes to Diognetus
 
 ## English translations:
+
 * Alexander Roberts/James Donaldson (translated ~1867)
   * [“Ante-Nicene Fathers”](anf.html) volume 1 (published 1885)
     * [read online](http://www.ccel.org/ccel/schaff/anf01.iii.html)
@@ -17,8 +18,12 @@ title: Mathetes to Diognetus
   * [“The Apostolic Fathers”](http://www.katapi.org.uk/ApostolicFathers/ApFathers-Contents.html) (published 1891) --- text/HTML
 * Lewis Bostock Radford (translated ~1908)
   * [“The Epistle to Diognetus”](https://archive.org/details/epistletodiognet00just), Society for Promoting Christian Knowledge (published 1908) --- facsimile
+* W. S. Walford (published 1908)
+  * *The Epistle to Diognetus*, James Nisbet & Co. (published 1908)
 * Kirsopp Lake (translated ~1917)
   * ["The Apostolic Fathers, Volume II"](https://archive.org/details/apostolicfathers02lakeuoft) (published 1917) --- facsimile
+* Edward Henry Blakeney (translated ~1943)
+  * *The Epistle to Diognetus*, Society for Promoting Christian Knowledge (published 1943)
 * Gerald G. Walsh (translated ~1947)
   * [“The Apostolic Fathers”, Volume 1 of “The Fathers of the Church: A New Translation”](https://archive.org/details/in.ernet.dli.2015.58476), The Catholic University of America Press (published 1947) --- facsimile
 * James A. Kleist (translated ~1948)

@@ -50,6 +50,8 @@ title: Early Christian Writings in their original languages or other ancient lan
 ### Athenagoras --- On the Resurrection:
 * [*Athenagoras*](https://catalog.hathitrust.org/Record/001406280), volume IV of *Douglass Series of Christian Greek and Latin Writers* (published 1876, edited by Francis Andrew March and William Baxter Owen) --- facsimile
 
+### The Diatessaron
+* [*A Greek Fragment of Tatian's Diatessaron from Dura*](https://archive.org/details/MN41439ucmf_4) (published 1935, edited by Carl Hermann Kraeling) --- facsimile
 
 ### The Martyrdom of Perpetua and Felicitas:
 * [*The Acts of the Martyrdom of Perpetua and Felicitas: the original Greek text now first edited from a ms. in the Library of the Convent of the Holy Sepulcher at Jerusalem.*](https://archive.org/details/TheActsOfTheMartyrdom) (published 1890, edited by  J. Rendel Harris/Seth K. Gifford) --- facsimile
