@@ -8,11 +8,11 @@ title: Didache (English translations)
 
 *The Didache*, in the form we currently have it, was only rediscovered in the late nineteenth century. The word *Didache* is a transliteration of the Greek word which means teaching, which comes from the long title *The Teaching of the Twelve Apostles*.
 
-This writing consists of at least two parts. The first part is [*The Two Ways*](twoways.html), which is a discription of the way of life and the way of death. This part is present in various forms in several different forms from the early Christian era.
+This writing consists of at least two parts. The first part is the [*Two Ways*](twoways.html), which is a discription of the way of life and the way of death. This *Two Ways* part is present in various forms in several writings from the early Christian era.
 
 The second part of *The Didache* is instruction on the function of the local Christian assembly. It covers topics like baptism, fasting, prayer, the thanksgiving meal, what to do with traveling teachers and prophets, the Lord's day gathering, appointing leadership. It ends with a short reminder to remain ready for the end.
 
-Other than a reference by Clement of Alexandria[^1] to the *Two Ways* section (which he seems to view as authoritative), there are no references to *The Didache* before Eusebius (writing in the early forth century), who lists it as an non-authoritative writing. The date that *The Didache* was compiled is unknown. *Two Ways* section is clearly an early writing, likely first century. The second half of *The Didache* is usually dated in the first or second centuries.
+Other than a reference by Clement of Alexandria[^1] to the *Two Ways* section (which he seems to view as authoritative), there are no references to *The Didache* before Eusebius (writing in the early forth century), who lists it as an non-authoritative writing. The date that *The Didache* was compiled is unknown. The *Two Ways* section is clearly a very early writing, likely first century. The second part of *The Didache* is usually dated in the first or second centuries.
 
 [^1]: *Miscellanies*, book 1, chapter 20.
 
