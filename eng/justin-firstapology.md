@@ -1,8 +1,19 @@
 ---
-title: Justin's First Apology
+title: Justin's First Apology (English translations)
 ---
 
 # Justin's First Apology
+
+## Brief description:
+
+Justin's *First Apology* is a written defence of Christianity addressed to the Roman Emperor Antoninus Pius, who was Emperor from 138 to 161. The *First Apology* is usually dated in the 150s A.D. based on a reference to a recent interaction with the Roman Prefect Felix in Alexandria (who held office between 151 and 154 A.D.). Justin's *First Apology* defends Christians against common false charges of the day and appeals for them to be judged according to their deeds and not just punished for having the name Christian. It contains some of the earliest descriptions of Christian practices such as what they did when they gathered together.
+
+## Suggested first translation(s):
+
+An easy-to-read, modern English translation that is freely available is the one by Edward Rochie Hardy from 1953 listed below.
+
+
+## English translations:
 
 * William Reeves (translated ~1709)
   * ["The apologies of Justin Martyr, Tertullian, and Minutius Felix...", Volume 1](https://archive.org/details/apologiesofjusti01reev) (published 1709) --- facsimile
