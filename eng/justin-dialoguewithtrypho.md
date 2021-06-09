@@ -16,5 +16,8 @@ title: Justin's Dialogue with Trypho
   * ["Justin Martyr: The Dialogue With Trypho"](https://archive.org/details/SPCKJustinMartyr) (published 1930) --- facsimile
 * Thomas B. Falls (translated ~1948)
   * "Justin Martyr: The First Apology, The Second Apology, Dialogue with Trypho, Exhortation to the Greeks, Discourse to the Greeks, The Monarchy of the Rule of God" Volume 6 of the ["Fathers of the Church" series](fathersofthechurch.html) (published 1948)
+* Thomas P. Halton (translation updated ~2003)
+  * *St. Justin Martyr: Dialogue with Trypho*, The Catholic University of America Press (published 2003)
+    * This book is a revision of the translation by Thomas B. Falls listed above.
 * Paul Vincent Spade (translated 1995)
   * [“Dialogue with Trypho, a Jew: Chapters 1-9”](spade_dialoguewithtrypho.pdf)

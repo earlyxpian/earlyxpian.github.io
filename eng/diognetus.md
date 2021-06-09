@@ -34,7 +34,7 @@ title: Mathetes to Diognetus
   * [“The Apostolic Fathers: An American Translation”](goodspeedapostolicfathers.html), Harper & Brothers (published 1950)
 * Eugene R. Fairweather (translated ~1953)
   * [“Early Christian Fathers”](ecf.html) (published 1953)
-    * [read online](http://www.ccel.org/ccel/richardson/fathers.vi.iii.html)
+    * [read online](https://ccel.org/ccel/richardson/fathers/fathers.x.i.html)
 * Maxwell Staniforth/A. Louth (translated 1968/revised 1987)
   * “Early Christian Writings: The Apostolic Fathers”, Penguin (published 1987)
 * Michael W. Holmes (translated 1989-2007)

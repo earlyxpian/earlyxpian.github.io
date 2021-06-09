@@ -23,6 +23,6 @@ title: Irenaeus of Lyons --- Against Heresies
   * ["The Early Church Fathers: Irenaeus of Lyons"](https://books.google.com/books?id=Ox_jaDPt_0YC), Routledge (published 1997) --- facsimile(preview)
     * This book contains excerpts of "Against Heresies"
 * Anthony Briggman (translated ~2017)
- * *The Cambridge Edition of Early Christian Writings*, volume 1, Cambridge University Press (published 2017)
+  * *The Cambridge Edition of Early Christian Writings*, volume 1, Cambridge University Press (published 2017)
     * This translation only contains chapters 1.22.1–1.22.2, 2.28.1–2.28.9,
 and 4.20.1–4.20.8 of this work.
