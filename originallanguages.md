@@ -36,7 +36,7 @@ title: Early Christian Writings in their original languages or other ancient lan
 
 ### Revelation of Peter:
 * ["Apocrypha I: Reste Des Petrusevangeliums, Der Petrus-Apocakalypse und des Kerygmati Petri"](apocalypse_of_peter_klostermann.pdf) (published 1903, edited by Erich Klostermann) --- text/PDF
-* "Das Petrusevangelium und die Petrusapokalypse: Die griechischen Fragmente mit deutscher und englischer Übersetzung (Neutestamentliche Apokryphen I)", De Gruyter (published 2004, edited by Tobias Nicklas and Thomas J. Kraus
+* "Das Petrusevangelium und die Petrusapokalypse: Die griechischen Fragmente mit deutscher und englischer Übersetzung (Neutestamentliche Apokryphen I)", De Gruyter (published 2004, edited by Tobias Nicklas and Thomas J. Kraus)
 
 ### Justin Martyr's Apologies:
   * ["The Apologies of Justin Martyr..."](https://archive.org/details/apologiesofjusti00just) (published 1877, edited by Basil Lanneau Gildersleeve) --- facsimile
