@@ -41,7 +41,7 @@ An easy-to-read, modern English translation that is freely available is the one 
 * Kirsopp Lake (translated ~1912)
   * [“The Apostolic Fathers, Volume I”](https://archive.org/details/apostolicfathers01lake) (published 1912) --- facsimile
 * Francis X. Glimm (translated ~1947)
-  * [“The Apostolic Fathers”, Volume 1 of “The Fathers of the Church: A New Translation”](https://archive.org/details/in.ernet.dli.2015.58476), The Catholic University of America Press (published 1947)
+  * ["The Apostolic Fathers"](https://archive.org/details/in.ernet.dli.2015.58476), Volume 1 of ["The Fathers of the Church: A New Translation"](fathersofthechurch.html), The Catholic University of America Press (published 1947) --- facsimile
 * James A. Kleist (translated ~1948)
   * ["The Didache, The Epistle of Barnabas, The Epistles and the Martyrdom of St. Polycarp, The Fragments of Papias, The Epistle to Diognetus"](ancientchristianwriters_6.html), Volume 6 of [“Ancient Christian Writers” Series](ancientchristianwriters.html) (published 1948)
 * Edgar J. Goodspeed (translated ~1950)
@@ -50,7 +50,7 @@ An easy-to-read, modern English translation that is freely available is the one 
   * [“Early Christian Fathers”](ecf.html) (published 1953)
     * [read online](http://www.ccel.org/ccel/richardson/fathers.vi.iii.html)
 * William R. Schoedel (translated ~1967)
-  * “Polycarp, Martyrdom of Polycarp, Fragmants of Papias” Volume 5 of “The Apostolic Fathers: A New Translation and Commentary”, Thomas Nelson & Sons (published 1967)
+  * “Polycarp, Martyrdom of Polycarp, Fragmants of Papias” Volume 5 of [“The Apostolic Fathers: A New Translation and Commentary”](apostolicfathersnewtranslationandcommentary.html), Thomas Nelson & Sons (published 1967)
 * Maxwell Staniforth/A. Louth (translated 1968/revised 1987)
   * “Early Christian Writings: The Apostolic Fathers”, Penguin (published 1987)
 * Michael W. Holmes (translated 1989-2007)

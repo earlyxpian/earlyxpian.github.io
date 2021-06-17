@@ -66,6 +66,8 @@ An easy-to-read, modern English translation that is freely available is the one 
   * "The Apostolic Fathers: Greek Texts and English Translations of Their Writings", Baker Academic (various editions, published 1992-2007)
 * Bart D. Ehrman (translated ~2003)
   * "The Apostolic Fathers, Volume I", Harvard University Press (published 2003)
+* Kevin P. Edgecomb (translated 2006)
+  * [*First Clement*](1clement_edgecomb.html) (published 2006)
 * Anonymous (translated ~2012)
   * ["Letter of Clemens to the Korinthians"](http://www.biblicalaudio.com/text/clement.pdf) (published 2012 but revised since) --- text/PDF
 * Rick Brannan (translated ~2017)

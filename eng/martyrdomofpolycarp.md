@@ -4,6 +4,13 @@ title: Martyrdom of Polycarp (English translations)
 
 # Martyrdom of Polycarp
 
+## Brief description:
+
+This document seems to be an eyewitness account of the arrest, trial and murder (by the Roman authorities) of Polycarp, who was an overseer in Smryna. It is generally regarded as authentic, although it is reasonably possible that some aspects of the account, such as some of the miraculous elements, are later additions. This type of embellishment was commonly done to earlier martyr accounts by later (dishonest) editors seeking to make the stories sound more remarkable. Various dates have been proposed for this account ranging from the mid to late second century.
+
+## Suggested first translation(s):
+
+An easy-to-read, modern English translation that is freely available is the one by Massey Hamilton Shepherd, Jr. from 1953 listed below. A more literal translation that is also in modern English and freely available is the anonymous one from 2013 listed below.
 
 ## English translations:
 

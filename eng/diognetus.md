@@ -4,6 +4,14 @@ title: Mathetes to Diognetus
 
 # Mathetes to Diognetus
 
+## Brief description:
+
+Mathetes to Diognetus is an anonymous letter written by someone who calls himself mathetes (Greek for disciple) to someone named Diognetus. The purpose of the letter is to explain and defend Christianity. Diognetus seems to be someone who had expressed interest learning more about Christianity. This letter is not mentioned by any early Christian writers. It is only known from a single manuscript which may have been from the middle ages and has since been destroyed in a fire in the 1800s. This manuscript had some defects which have left this work incomplete. There is also some speculation that the last two chapters may come from an entirely different work, perhaps due to some missing pages in the manuscript it was copied from which had originally contained the end of this letter and the beginning of another. The date this letter was written is entirely unknown, although usually thought to be some time in the second or early third centuries.
+
+## Suggested first translation(s):
+
+An easy-to-read, modern English translation that is freely available is the one by Eugene R. Fairweather from 1953 listed below.
+
 ## English translations:
 
 * Alexander Roberts/James Donaldson (translated ~1867)

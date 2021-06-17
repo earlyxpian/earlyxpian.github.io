@@ -35,7 +35,7 @@ An easy-to-read, modern English translation that is freely available is the one 
 * Kirsopp Lake (translated ~1917)
   * ["The Apostolic Fathers, Volume II"](https://archive.org/details/apostolicfathers02lakeuoft) (published 1917) --- facsimile
 * Joseph M.-F. Marique (translated ~1947)
-  * ["The Apostolic Fathers", Volume 1 of "The Fathers of the Church: A New Translation"](https://archive.org/details/in.ernet.dli.2015.58476), The Catholic University of America Press (published 1947)
+  * ["The Apostolic Fathers"](https://archive.org/details/in.ernet.dli.2015.58476), Volume 1 of ["The Fathers of the Church: A New Translation"](fathersofthechurch.html), The Catholic University of America Press (published 1947) --- facsimile
 * Edgar J. Goodspeed (translated ~1950)
   * ["The Apostolic Fathers: An American Translation"](goodspeedapostolicfathers.html), Harper & Brothers. (published 1950)
 * Graydon F. Snyder (translated ~1968)

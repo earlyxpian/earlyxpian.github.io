@@ -1,9 +1,8 @@
 ---
-title: Octavius by Marcus Minucius Felix
+title: Marcus Minucius Felix's "Octavius"
 ---
 
-# Octavius by Marcus Minucius Felix
-
+# Marcus Minucius Felix's "Octavius"
 * Richard James (translated ~1636)
   * ["Minucius Felix his dialogne called Octavius"](https://books.google.com/books?id=REtnAAAAcAAJ) (published 1636) --- facsimile
 * Edward Combe (translated ~1703)
@@ -22,7 +21,7 @@ title: Octavius by Marcus Minucius Felix
 * John Henry Freese (translated ~1919)
   * ["The Octavius of Minucius Felix"](https://archive.org/details/octaviusofminuci00minuiala) (published 1919) --- facsimile
     * [modern reprint](http://www.samizdat.qc.ca/cosmos/philo/PDFs/Octavius_EN_MF.pdf) (published 2017)--- text/PDF
-* Gerald H. Rendall/W. C. A. Kerr (translated ~1930)
+* Gerald Henry Rendall/Walter Charles Alan Kerr (translated ~1930)
   * ["Tertullian and Marcus Minucius Felix"](https://archive.org/details/L250TertullianApologyMarcusMinuciusFelixDeSpectaculisOctavius), Volume 250 of the "Loeb Classical Library" (published 1930) --- facsimile
 * Rudolph Arbesmann (translated ~1950)
   * "Tertullian Apologetical Works and Minucius Felix Octavius", volume 10 of ["Fathers of the Church Patristic Series"](fathersofthechurch.html) (published 1950)
