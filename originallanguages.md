@@ -15,33 +15,37 @@ title: Early Christian Writings in their original languages or other ancient lan
 
 ### Shepherd of Hermas:
 
-* ["Die apostolischen Väter I: Der Hirt des Hermas"](https://www.degruyter.com/viewbooktoc/product/185496), *GCS* 48 (published 1967, edited by Molly Whittacker) --- facsimile
+* [*Die apostolischen Väter I: Der Hirt des Hermas*](https://www.degruyter.com/viewbooktoc/product/185496), *GCS* 48 (published 1967, edited by Molly Whittacker) --- facsimile
 
 ### Barnabas:
-* ["The Editio Princeps of the Epistle of Barnabas"](https://archive.org/details/editioprincepsof00barn) (published 1883, edited by J. H. Backhouse) --- facsimile
-* ["The Epistle of Barnabas"](https://books.google.com/books?id=8ktOAAAAYAAJ) (published 1920, edited by Thomas Wilfrid Crafer) --- facsimile
+* [*The Editio Princeps of the Epistle of Barnabas*](https://archive.org/details/editioprincepsof00barn) (published 1883, edited by J. H. Backhouse) --- facsimile
+* [*The Epistle of Barnabas*](https://books.google.com/books?id=8ktOAAAAYAAJ) (published 1920, edited by Thomas Wilfrid Crafer) --- facsimile
 
 ### Didache:
-* ["The Teaching of the Apostles: A Critical Greek Edition"](http://bibletranslation.ws/trans/didache.pdf) (published originally in 2010 but revised since, edited by David Robert Palmer) --- text/PDF
+* [*The Teaching of the Apostles: A Critical Greek Edition*](http://bibletranslation.ws/trans/didache.pdf) (published originally in 2010 but revised since, edited by David Robert Palmer) --- text/PDF
   * [local mirror](didache_palmer.pdf)
 
 ### 2 Clement:
-* ["Second Epistle of Clement to the Corinthians"](https://archive.org/details/secondepistleofc00clemuoft) (published 1921, edited by Thomas Wilfrid Crafer based on Lightfoot) --- facsimile
+* [*Second Epistle of Clement to the Corinthians*](https://archive.org/details/secondepistleofc00clemuoft) (published 1921, edited by Thomas Wilfrid Crafer based on Lightfoot) --- facsimile
 
 ### Apology of Aristides:
-* ["Die ältesten Apologeten" (German for "The Oldest Apologists")](http://files.xpian.info/diealtestenapologeten.pdf) (published 1914, editied by Edgar J. Goodspeed) [note this book is in German but contains original language critical texts of The Apology of Quadratus, The Apology of Aristides, The First and Second Apology of Justin, Justin's Dialog with Trypho, Tatian's Address to the Greeks, The Apology of Melito and Athenagoras' Appeal for the Christians] --- facsimile
+* [*Die ältesten Apologeten* (German for *The Oldest Apologists*)](http://files.xpian.info/diealtestenapologeten.pdf) (published 1914, editied by Edgar J. Goodspeed) [note this book is in German but contains original language critical texts of The Apology of Quadratus, The Apology of Aristides, The First and Second Apology of Justin, Justin's Dialog with Trypho, Tatian's Address to the Greeks, The Apology of Melito and Athenagoras' Appeal for the Christians] --- facsimile
 
 ### Mathetes to Diognetus:
-* [“The Epistle to Diognetus: The Greek Text with Introduction, Translation, and Notes”](eng/diognetus_meecham.html) (published 1949, edited by Henry G. Meecham)
+* [*The Epistle to Diognetus: The Greek Text with Introduction, Translation, and Notes*](eng/diognetus_meecham.html) (published 1949, edited by Henry G. Meecham)
 
 ### Revelation of Peter:
-* ["Apocrypha I: Reste Des Petrusevangeliums, Der Petrus-Apocakalypse und des Kerygmati Petri"](apocalypse_of_peter_klostermann.pdf) (published 1903, edited by Erich Klostermann) --- text/PDF
-* "Das Petrusevangelium und die Petrusapokalypse: Die griechischen Fragmente mit deutscher und englischer Übersetzung (Neutestamentliche Apokryphen I)", De Gruyter (published 2004, edited by Tobias Nicklas and Thomas J. Kraus)
+* [*Apocrypha I: Reste Des Petrusevangeliums, Der Petrus-Apocakalypse und des Kerygmati Petri*](apocalypse_of_peter_klostermann.pdf) (published 1903, edited by Erich Klostermann) --- text/PDF
+* *Das Petrusevangelium und die Petrusapokalypse: Die griechischen Fragmente mit deutscher und englischer Übersetzung (Neutestamentliche Apokryphen I)*, De Gruyter (published 2004, edited by Tobias Nicklas and Thomas J. Kraus)
 
-### Justin Martyr's Apologies:
-  * ["The Apologies of Justin Martyr..."](https://archive.org/details/apologiesofjusti00just) (published 1877, edited by Basil Lanneau Gildersleeve) --- facsimile
-* ["The Apologies of Justin Martyr"](https://archive.org/details/apologiesofjust00just) (published 1911, edited by A. W. F. Blunt) --- facsimile
-* ["Die ältesten Apologeten" (German for "The Oldest Apologists")](http://files.xpian.info/diealtestenapologeten.pdf) (published 1914, edited by Edgar J. Goodspeed) [note this book is in German but contains original language critical texts of The Apology of Quadratus, The Apology of Aristides, The First and Second Apology of Justin, Justin's Dialog with Trypho, Tatian's Address to the Greeks, The Apology of Melito and Athenagoras' Appeal for the Christians] --- facsimile
+### Justin --- Apologies:
+* [*The Apologies of Justin Martyr...*](https://archive.org/details/apologiesofjusti00just) (published 1877, edited by Basil Lanneau Gildersleeve) --- facsimile
+* [*The Apologies of Justin Martyr*](https://archive.org/details/apologiesofjust00just) (published 1911, edited by A. W. F. Blunt) --- facsimile
+* [*Die ältesten Apologeten* (German for *The Oldest Apologists*)](http://files.xpian.info/diealtestenapologeten.pdf) (published 1914, edited by Edgar J. Goodspeed) [note this book is in German but contains original language critical texts of The Apology of Quadratus, The Apology of Aristides, The First and Second Apology of Justin, Justin's Dialog with Trypho, Tatian's Address to the Greeks, The Apology of Melito and Athenagoras' Appeal for the Christians] --- facsimile
+
+### Justin --- Dialogue with Trypho:
+* *Iustini Martyris Dialogus cum Tryphone*, volume 47 of *Patristische Texte und Studien*, De Gruyter (published in 1997, edited by Miroslav Marcovich) [Greek critical text]
+* *Justin Martyr, Dialogue avec Tryphon, édition critique, introduction, texte grec, traduction, commentaires, appendices, indices*, Coll. Paradosis nos. 47, vol. I-II., Editions Universitaires de Fribourg Suisse (published in 2003, edited by Philippe Bobichon) [Greek critical text and French translation]
 
 ### Athenagoras --- A Plea Regarding Christians:
 * [*Athenagoras*](https://catalog.hathitrust.org/Record/001406280), volume IV of *Douglass Series of Christian Greek and Latin Writers* (published 1876, edited by Francis Andrew March and William Baxter Owen) --- facsimile
@@ -50,8 +54,17 @@ title: Early Christian Writings in their original languages or other ancient lan
 ### Athenagoras --- On the Resurrection:
 * [*Athenagoras*](https://catalog.hathitrust.org/Record/001406280), volume IV of *Douglass Series of Christian Greek and Latin Writers* (published 1876, edited by Francis Andrew March and William Baxter Owen) --- facsimile
 
-### The Diatessaron
+### The Diatessaron:
 * [*A Greek Fragment of Tatian's Diatessaron from Dura*](https://archive.org/details/MN41439ucmf_4) (published 1935, edited by Carl Hermann Kraeling) --- facsimile
+
+### Clement of Alexandria:
+* [*Clemens Alexandrinus I. Protrepticus und Paedagogus*](http://www.archive.org/details/clemensalexandri01clemuoft), GCS 12 (published 1905 & 1936, edited by Otto Stählin and published 1972, edited by Ursula Treu) --- facsimile
+* [*Clemens Alexandrinus II. Stromata I-VI*](https://books.google.com/books?id=n1wPAAAAYAAJ), GCS 15 (published 1906 & 1936, edited by Otto Stählin) --- facsimile
+  * later editions released as [GCS 52](https://digilib.bbaw.de/digitallibrary/digilib.html?fn=/silo10/GCS/GCS_52/) (published 1960, edited by Ludwig Früchtel & published 1985, edited by Ursula Treu) --- facsimile
+* [*Clemens Alexandrinus III. Stromata Buch VII und VIII. Excerpta ex Theodoto. Eclogae prophetica. Quis dives salvetur. Fragmente.*](http://www.archive.org/details/clemensalexandri17clemuoft), GCS 17 (published 1909, edited by Otto Stählin & published 1970, edited by Ludwig Früchtel) --- facsimile
+* [*Clemens Alexandrinus IV. Register 1*](http://www.archive.org/details/clemensalexandri04clemuoft), GCS 39/1 (published 1936, edited by Otto Stählin & published 1980, edited by Ursula Treu) --- facsimile
+* *Clemens Alexandrinus IV. Register 2*, GCS 39/2 (published 1936, edited by Otto Stählin)
+* *Clementis Alexandrini Paedagogus* (published 2002 by Brill, edited by Miroslav Marcovich and Jacobus C. M. van Winden)
 
 ### The Martyrdom of Perpetua and Felicitas:
 * [*The Acts of the Martyrdom of Perpetua and Felicitas: the original Greek text now first edited from a ms. in the Library of the Convent of the Holy Sepulcher at Jerusalem.*](https://archive.org/details/TheActsOfTheMartyrdom) (published 1890, edited by  J. Rendel Harris/Seth K. Gifford) --- facsimile
