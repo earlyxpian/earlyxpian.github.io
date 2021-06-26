@@ -16,6 +16,8 @@ It is impossible to know the exact dates of composition of the following writing
 
 This list generally does not include early Christian writers for whom there are only small fragments of their writings still in existance.
 
+This list is still a work-in-progress and does not yet include most 3rd and 4th century early Christian writings.
+
 * [The Two Ways](twoways.html)
 * [1 Clement (also called "Clement to the Corinthians")](1clement.html)
 * [Shepherd of Hermas (also called "Pastor of Hermas")](shepherdofhermas.html)

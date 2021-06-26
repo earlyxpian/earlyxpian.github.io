@@ -47,11 +47,11 @@ An easy-to-read, modern English translation that is freely available is the one 
   * [*The Apostolic Fathers, Volume I*](https://archive.org/details/apostolicfathers01lake) (published 1912) --- facsimile
     * [read online](1clement_lake.html)
 * William Kemp Lowther Clarke (translated ~1937)
-  * *The First Epistle of Clement to the Corinthians*, Society for the Promotion of Christian Knowledge (published 1937)
+  * [*The First Epistle of Clement to the Corinthians*](1clement_clarke.html), Society for the Promotion of Christian Knowledge (published 1937)
 * James A. Kleist (translated ~1946)
   * [*The Epistles of St. Clement of Rome and St. Ignatius of Antioch*](ancientchristianwriters_1.html) Volume 1 of [*Ancient Christian Writers*](ancientchristianwriters.html) (published 1946)
 * Francis X. Glimm (translated ~1947)
-  * [*The Apostolic Fathers*, Volume 1 of *The Fathers of the Church: A New Translation*](https://archive.org/details/in.ernet.dli.2015.58476), The Catholic University of America Press (published 1947)
+  * [*The Apostolic Fathers*](https://archive.org/details/in.ernet.dli.2015.58476), Volume 1 of [*The Fathers of the Church: A New Translation*](fathersofthechurch.html), The Catholic University of America Press (published 1947)
 * Edgar J. Goodspeed (translated ~1950)
   * [*The Apostolic Fathers: An American Translation*](goodspeedapostolicfathers.html), Harper & Brothers (published 1950)
 * Cyril C. Richardson (translated ~1953)
