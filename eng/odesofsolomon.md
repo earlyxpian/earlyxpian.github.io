@@ -8,6 +8,10 @@ title: Odes of Solomon (English translations)
 
 The Odes of Solomon are probably a collection of early Christian poems or songs, most likely from the early second century.
 
+## Suggested first translation(s):
+
+An easy-to-read, modern English translation that is freely available is the one by Samuel Zinner & Mark M. Mattison from 2020, listed below.
+
 ## English translations:
 
 * James Rendel Harris (translated ~1909)
@@ -17,10 +21,22 @@ The Odes of Solomon are probably a collection of early Christian poems or songs,
     * [read online](https://hdl.handle.net/2027/iau.31858011209321)
 * James Rendel Harris/Alphonse Mingana (translated ~1920)
   * *The Ode and Psalms of Solomon*, [Volume I: The Text](https://archive.org/details/odespsalmsofsolo01harruoft) & [Volume II: The Translation](https://archive.org/details/odespsalmsofsolo02harruoft) (volume I published 1916, volume II published 1920) --- facsimile
+* Sherburne Povah Tregelles Prideaux (translated ~1927)
+  * *The Odes of Solomon: a selection rendered into English verse*,  S.P.C.K. (published 1927)
 * James H. Charlesworth (translated ~1973)
   * *The Odes of Solomon*, Oxford/Clarendon Press (published 1973)
      * reissued in an edited reprint in 1978 by Scholars Press
   * *The Old Testament Pseudepigrapha*, volume 2, Doubleday (published 1985)
   * [*The Earliest Christian Hymnbook: The Odes of Solomon*](https://books.google.com/books?id=Lh9MAwAAQBAJ), (published 2009) --- facsimile/preview
+* John Adney Emerton (translated ~1984)
+  * *The Apocryphal Old Testament*, pages 683-731, Oxford/Clarendon Press (published 1984)
+* Sebastian P. Brock (translated ~2005)
+  * [*Spirituality in the Syriac Tradition*](https://archive.org/details/spiritualityinsy0000seba_t4l2), pages 104-106 (published 2005) --- facsimile
+    * This book contains translations of Odes 8,9,13,27,30 & 40.
 * Gie Vleugels/Martin Webber (translated ~2016)
   * *The Odes of Solomon: Syriac Text and English Translation with Text Critical and Explanatory Notes*, St. Ephrem Ecumenical Research Institute (published 2016)
+* Arron Michael Butts (translated ~2020)
+  * *Odes of Solomon 7, 19, 41, and 42*, from *The Cambridge Edition of Early Christian Writings, Volume 3.
+Christ*, Cambridge University Press (awaiting publication)
+* Samuel Zinner/Mark M. Mattison (translated ~2020)
+  * [*The Odes of Solomon: The Nuhra Version*](http://www.nuhra.net) (published 2020, but revised since)

@@ -21,3 +21,5 @@ title: Deutsche Übersetzungen/German Translations
 
 * J. Flemming/Adolf von Harnack (editor) (übersetzt ~1910)
   * [*Ein judish-christliches Psalmbusch aus dem ersten Jahrhundert*](https://archive.org/details/einjudishchristl00harr) (veröffentlicht 1910) --- facsimile
+* Michael Lattke (übersetzt ~1979)
+  * [*Die Oden Salomos in ihrer Bedeutung für Neues Testament und Gnosis Band I: Ausführliche Handschriftenbeschreibung, Edition mit deutscher Parallel-Übersetzung, Hermeneutischer Anhang zur gnostischen Interpretation der Oden Salomos in der Pistis Sophia*](https://www.zora.uzh.ch/id/eprint/138514/) (veröffentlicht 1979)

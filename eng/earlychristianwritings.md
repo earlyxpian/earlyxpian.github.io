@@ -55,4 +55,5 @@ This list is still a work-in-progress and does not yet include most 3rd and 4th 
 * [Clement of Alexandria --- Fragments](clementofalexandria-fragments.html)
 * [Tertullian](tertullian.html)
 * [Martyrdom of Perpetua and Felicitas](perpetua.html)
+* [Hermias](hermias.html)
 * [Eusebius's Ecclesiastical History](eusebius-ecclesiasticalhistory.html)

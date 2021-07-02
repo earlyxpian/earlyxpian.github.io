@@ -39,6 +39,9 @@ title: Traducciones al español/Spanish Translations
 * Daniel Ruiz Bueno (traducido ~1950)
   * [*Padres apostólicos*](https://archive.org/details/2acartas.clementeromanoaloscorintiosdedanielruizbuenoenpadresapostolicos), *Biblioteca de autores cristianos* n. 65 (publicado 1950)
 
+### Las Odas de Salomón
+* Misioneros del Sagrado Corazón en el Perú
+  * [*Las Odas de Salomón*](https://www.mscperu.org/biblia/apocrifos/odasSalomon/odasSalom00.htm)
 
 ### Discurso A Diogneto:
 

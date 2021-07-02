@@ -14,4 +14,6 @@ title: The Apostolic Fathers --- A New Translation and Commentary
 These translations, without the commentary were reissued in the following single volume:
 * “The Apostolic Fathers” edited by Jack N. Sparks (published 1978 by Thomas Nelson)
 
+Volumes 1, 2, 4 & 5 were reissued in 2020 by Wipf & Stock.
+
 An updated version of book 3 has been released on-line by the author [here](http://ccat.sas.upenn.edu/rak/publics/barn/barndidintro.htm).
