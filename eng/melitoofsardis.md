@@ -8,6 +8,10 @@ title: Melito of Sardis
 
 * Campbell Bonner (translated ~1940)
   * *The Homily on the Passion by Melito...*, University of Pennsylvania Press (published 1940)
+* Thomas P. Halton (translated ~1968)
+  * [*Paschal Homily: Melito of Sardis*](paschal_homily_melito_of_sardis_furrow.pdf), The Furrow, Volume 19, No. 4, pages 212-222 (published April 1968) --- facsimile
+    * This article is an abreviated version of the translation.
+  * *The Paschal Mystery; Ancient Liturgies and Patristic Texts.*, Alba House (published 1969)
 * Gerald F. Hawthrone (translated ~1975)
   * *Current Issues in Biblical and Patristic Interpretation*, reprinted in [*Kerux: A Journal of Biblical-Theological Preaching*, issue 4/1 (May 1989)](http://www.kerux.com/doc/0401.asp) (published 1975/1989) -- text/HTML
 * Stuart George Hall (translated ~1979)
