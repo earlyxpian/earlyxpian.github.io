@@ -49,10 +49,15 @@ title: Traductions en français/French Translations
 * Hippolyte Hemmer/Gabriel Oger/A. Laurent (traduit ~1907)
   * [*Doctrine des Apôtres et l'Epître de Barnabé*](https://archive.org/details/DidacheEtEpitreDeBarnabas), *Les Pères Apostoliques*, tome I-II (publié 1907) --- facsimile
 
-###  Apologie d'Aristide
+### Apologie d'Aristide
 
 * Maurice Picard (traduit ~1892)
   * [*L’Apologie d’Aristide le philosophe.*](http://www.samizdat.qc.ca/cosmos/philo/PDFs/ApologiedAristide.pdf) (publié 1892) --- text/PDF
+
+### Les Odes De Salomon
+
+* Pierre Batiffol/Jérôme Labourt (traduit ~1910)
+  * *Les Odes De Salomon*, Revue Biblique, Nouvelle Série, [Vol. 7, No. 4 (Octobre 1910), pp. 483-500](les_odes_de_salomon_revue_biblique_1.pdf) & [Vol. 8, No. 1 (Janvier 1911), pp. 5-59](les_odes_de_salomon_revue_biblique_2.pdf) --- facsimile
 
 ### Martyre de Polycarpe
 
