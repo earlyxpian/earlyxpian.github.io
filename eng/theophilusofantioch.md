@@ -12,5 +12,5 @@ title: Theophilus of Antioch
   * [*Ante-Nicene Fathers*](anf.html), Volume 2 (published 1885)
     * [read online](https://ccel.org/ccel/schaff/anf02/anf02.iv.i.html)
 * Robert M. Grant (translated ~1970)
-  * *Theophilus of Antioch: Ad Autolycum*, Oxford University Press/Clarendon Press (published 1970)
+  * [*Theophilus of Antioch: Ad Autolycum*](https://archive.org/details/theophilusofanti0000unse), Oxford University Press/Clarendon Press (published 1970)
 

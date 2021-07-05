@@ -17,7 +17,7 @@ An easy-to-read, modern English translation that is freely available is the one 
 
 * William Reeves (translated ~1709)
   * [*The apologies of Justin Martyr, Tertullian, and Minutius Felix...*, Volume 1](https://archive.org/details/apologiesofjusti01reev) (published 1709) --- facsimile
-    * [reprinting of *First Apology* with modern type and extensive introduction](https://archive.org/details/firstapologyofju00justuoft) (published 1912) --- facsimile
+  * [*The First Apology of Justin Martyr: Addressed to the Emperor Antoninus Pius*](https://archive.org/details/firstapologyofju00justuoft) (published 1912) [reprinting of *First Apology* with modern type and extensive introduction by John Kaye] --- facsimile
 * Temple Chevallier (translated ~1833)
   * [*A translation of the epistles of Clement of Rome, Polycarp, and Ignatius : and of the apologies of Justin Martyr and Tertullian*](https://archive.org/details/ATranslationOfTheEpistlesOfClement) (published 1833) --- facsimile
     * [second edition](https://archive.org/details/translationofepi00chev) (published 1851) --- facsimile
@@ -37,4 +37,4 @@ An easy-to-read, modern English translation that is freely available is the one 
 * Leslie William Barnard (translated ~1997)
   * *St. Justin Martyr: The First and Second Apologies*, Volume 56 of [*Ancient Christian Writers*](ancientchristianwriters.html) (published 1997)
 * Denis Minns and Paul Parvis (translated ~2009)
-  * *Justin, Philosopher and Martyr: Apologies*, Oxford University Press (published 2009)
+  * [*Justin, Philosopher and Martyr: Apologies*](https://books.google.com/books?id=TFsVDAAAQBAJ), Oxford University Press (published 2009) --- facsimile/preview

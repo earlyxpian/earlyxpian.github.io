@@ -39,4 +39,5 @@ An easy-to-read, modern English translation that is freely available is the one 
   * *Odes of Solomon 7, 19, 41, and 42*, from *The Cambridge Edition of Early Christian Writings, Volume 3.
 Christ*, Cambridge University Press (awaiting publication)
 * Samuel Zinner/Mark M. Mattison (translated ~2020)
-  * [*The Odes of Solomon: The Nuhra Version*](http://www.nuhra.net) (published 2020, but revised since)
+  * [*The Odes of Solomon: The Nuhra Version*](http://www.nuhra.net) (published 2020, but revised since) --- text/HTML
+    * [local mirror](odes_of_solomon_nuhra_version_2021.pdf) --- text/PDF

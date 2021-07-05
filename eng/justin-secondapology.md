@@ -14,11 +14,9 @@ title: Justin's Second Apology
 * Marcus Dods (translated ~1867)
   * [*Ante-Nicene Fathers* Volume 1](anf.html) (published 1885)
     * [read online](http://www.ccel.org/ccel/schaff/anf01.viii.iii.html)
-* Basil Lanneau Gildersleeve (translated ~1877)
-  * [*The Apologies of Justin Martyr...*](https://archive.org/details/apologiesofjusti00just) (published 1877) --- facsimile
 * Thomas B. Falls (translated ~1948)
   * *Justin Martyr: The First Apology, The Second Apology, Dialogue with Trypho, Exhortation to the Greeks, Discourse to the Greeks, The Monarchy of the Rule of God*, Volume 6 of [*Fathers of the Church*](fathersofthechurch.html) (published 1948)
 * Leslie William Barnard (translated ~1997)
   * *St. Justin Martyr: The First and Second Apologies*, Volume 56 of [*Ancient Christian Writers*](ancientchristianwriters.html) (published 1997)
 * Denis Minns and Paul Parvis (translated ~2009)
-  * *Justin, Philosopher and Martyr: Apologies*, Oxford University Press (published 2009)
+  * [*Justin, Philosopher and Martyr: Apologies*](https://books.google.com/books?id=TFsVDAAAQBAJ), Oxford University Press (published 2009) --- facsimile/preview
