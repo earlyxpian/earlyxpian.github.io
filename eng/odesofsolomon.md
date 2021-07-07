@@ -21,12 +21,18 @@ An easy-to-read, modern English translation that is freely available is the one 
     * [read online](https://hdl.handle.net/2027/iau.31858011209321)
 * James Rendel Harris/Alphonse Mingana (translated ~1920)
   * *The Ode and Psalms of Solomon*, [Volume I: The Text](https://archive.org/details/odespsalmsofsolo01harruoft) & [Volume II: The Translation](https://archive.org/details/odespsalmsofsolo02harruoft) (volume I published 1916, volume II published 1920) --- facsimile
+    * This translation was reissued as *The Oldest Christian Hymn-Book* (edited by Michael MarYosip, published 1948 by Gresham's)
 * Sherburne Povah Tregelles Prideaux (translated ~1927)
-  * *The Odes of Solomon: a selection rendered into English verse*,  S.P.C.K. (published 1927)
+  * [*The Odes of Solomon: a Selection Rendered into English Verse*](odes_of_solomon_prideaux.html),  S.P.C.K. (published 1927)
+    * This collection was previously published in the following four journal articles: 
+      1. [*Theology*, Volume 9, Issue 52, pages 219-220 (published 1924-Oct)](odes_of_solomon_prideaux_theology_1.pdf)
+      2. [*Theology*, Volume 10, Issue 55, pages 46-47 (published 1925-Jan)](odes_of_solomon_prideaux_theology_2.pdf)
+      3. [*Theology*, Volume 11, Issue 61, pages 45-48 (published 1925-July)](odes_of_solomon_prideaux_theology_3.pdf)
+      4. [*Theology*, Volume 12, Issue 67, pages 38-41 (published 1926-Jan)](odes_of_solomon_prideaux_theology_4.pdf)
 * James H. Charlesworth (translated ~1973)
   * *The Odes of Solomon*, Oxford/Clarendon Press (published 1973)
      * reissued in an edited reprint in 1978 by Scholars Press
-  * *The Old Testament Pseudepigrapha*, volume 2, Doubleday (published 1985)
+  * *The Old Testament Pseudepigrapha*, Volume 2, pages 725-771, Doubleday (published 1985)
   * [*The Earliest Christian Hymnbook: The Odes of Solomon*](https://books.google.com/books?id=Lh9MAwAAQBAJ), (published 2009) --- facsimile/preview
 * John Adney Emerton (translated ~1984)
   * *The Apocryphal Old Testament*, pages 683-731, Oxford/Clarendon Press (published 1984)
