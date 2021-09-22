@@ -22,7 +22,7 @@ title: Marcus Minucius Felix's "Octavius"
   * [*The Octavius of Minucius Felix*](https://archive.org/details/octaviusofminuci00minuiala) (published 1919) --- facsimile
     * [modern reprint](http://www.samizdat.qc.ca/cosmos/philo/PDFs/Octavius_EN_MF.pdf) (published 2017)--- text/PDF
 * Gerald Henry Rendall/Walter Charles Alan Kerr (translated ~1930)
-  * [*Tertullian and Marcus Minucius Felix*](https://archive.org/details/L250TertullianApologyMarcusMinuciusFelixDeSpectaculisOctavius), Volume 250 of *Loeb Classical Library* (published 1930) --- facsimile
+  * [*Tertullian and Minucius Felix*](loeb_250.html), Volume 250 of *Loeb Classical Library* (published 1930)
 * Rudolph Arbesmann (translated ~1950)
   * *Tertullian Apologetical Works and Minucius Felix Octavius*, volume 10 of [*Fathers of the Church*](fathersofthechurch.html) (published 1950)
 * Graeme Wilber Clarke (translated ~1974)
