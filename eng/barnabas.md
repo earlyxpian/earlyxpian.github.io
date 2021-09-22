@@ -12,9 +12,7 @@ The date this letter was written is unknown but it is generally dated after the 
 
 ### Suggested first translation(s):
 
-An easy-to-read, modern English translation that is freely available is the one by Edgar J. Goodspeed from 1950 listed below. A more literal translation that is also in modern English and freely available is the anonymous one from 2013 listed below.
-
-
+Two easy-to-read, modern English translations that are freely available are the ones by Edgar J. Goodspeed from 1950 and by Robert A. Kraft from 1965 listed below. A more literal translation that is also in modern English and freely available is the anonymous one from 2013 listed below.
 
 ## English translations:
 * William Wake (translated ~1719)
@@ -46,8 +44,7 @@ An easy-to-read, modern English translation that is freely available is the one 
 * Edgar J. Goodspeed (translated ~1950)
   * [*The Apostolic Fathers: An American Translation*](goodspeedapostolicfathers.html), Harper & Brothers. (published 1950)
 * Robert A. Kraft (translated ~1965)
-  * *Barnabas and the Didache*, Volume 3 of [*The Apostolic Fathers: A New Translation and Commentary*](apostolicfathersnewtranslationandcommentary.html), Thomas Nelson & Sons (published 1965)
-    * [read online(revised version)](http://ccat.sas.upenn.edu/rak/publics/barn/barndidintro.htm)
+  * [*Barnabas and the Didache*](apostolicfathersnewtranslationandcommentary_v3.html), Volume 3 of [*The Apostolic Fathers: A New Translation and Commentary*](apostolicfathersnewtranslationandcommentary.html), Thomas Nelson & Sons (published 1965)
 * Maxwell Staniforth/A. Louth (translated 1968/revised 1987)
   * *Early Christian Writings: The Apostolic Fathers*, Penguin (published 1987)
 * Michael W. Holmes (translated 1989-2007)

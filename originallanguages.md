@@ -44,10 +44,15 @@ title: Early Christian Writings in their original languages or other ancient lan
 * [*Die ältesten Apologeten* (German for *The Oldest Apologists*)](http://files.xpian.info/diealtestenapologeten.pdf) (published 1914, edited by Edgar J. Goodspeed) [note this book is in German but contains original language critical texts of The Apology of Quadratus, The Apology of Aristides, The First and Second Apology of Justin, Justin's Dialog with Trypho, Tatian's Address to the Greeks, The Apology of Melito and Athenagoras' Appeal for the Christians] --- facsimile
 
 ### Justin --- Dialogue with Trypho:
+* [*Die ältesten Apologeten* (German for *The Oldest Apologists*)](http://files.xpian.info/diealtestenapologeten.pdf) (published 1914, edited by Edgar J. Goodspeed) [note this book is in German but contains original language critical texts of The Apology of Quadratus, The Apology of Aristides, The First and Second Apology of Justin, Justin's Dialog with Trypho, Tatian's Address to the Greeks, The Apology of Melito and Athenagoras' Appeal for the Christians] --- facsimile
 * *Iustini Martyris Dialogus cum Tryphone*, volume 47 of *Patristische Texte und Studien*, De Gruyter (published in 1997, edited by Miroslav Marcovich) [Greek critical text]
 * *Justin Martyr, Dialogue avec Tryphon, édition critique, introduction, texte grec, traduction, commentaires, appendices, indices*, Coll. Paradosis nos. 47, vol. I-II., Editions Universitaires de Fribourg Suisse (published in 2003, edited by Philippe Bobichon) [Greek critical text and French translation]
 
+### Tatian --- Address to the Greeks:
+* [*Die ältesten Apologeten* (German for *The Oldest Apologists*)](http://files.xpian.info/diealtestenapologeten.pdf) (published 1914, edited by Edgar J. Goodspeed) [note this book is in German but contains original language critical texts of The Apology of Quadratus, The Apology of Aristides, The First and Second Apology of Justin, Justin's Dialog with Trypho, Tatian's Address to the Greeks, The Apology of Melito and Athenagoras' Appeal for the Christians] --- facsimile
+
 ### Athenagoras --- A Plea Regarding Christians:
+* [*Die ältesten Apologeten* (German for *The Oldest Apologists*)](http://files.xpian.info/diealtestenapologeten.pdf) (published 1914, edited by Edgar J. Goodspeed) [note this book is in German but contains original language critical texts of The Apology of Quadratus, The Apology of Aristides, The First and Second Apology of Justin, Justin's Dialog with Trypho, Tatian's Address to the Greeks, The Apology of Melito and Athenagoras' Appeal for the Christians] --- facsimile
 * [*Athenagoras*](https://catalog.hathitrust.org/Record/001406280), volume IV of *Douglass Series of Christian Greek and Latin Writers* (published 1876, edited by Francis Andrew March and William Baxter Owen) --- facsimile
 * [*Legatio Pro Christianis*](https://books.google.com/books?id=7w_0CQAAQBAJ), volume 31 of *Patristische Texte und Studien*, Walter De Gruyter (published 1990, edited by Miroslav Marcovich) --- facsimile/preview
 
@@ -56,6 +61,13 @@ title: Early Christian Writings in their original languages or other ancient lan
 
 ### The Diatessaron:
 * [*A Greek Fragment of Tatian's Diatessaron from Dura*](https://archive.org/details/MN41439ucmf_4) (published 1935, edited by Carl Hermann Kraeling) --- facsimile
+
+### Marcus Minucius Felix --- “Octavius”:
+* *M. Minuci Felicis Octavius*, B. G. Teubner (published 1992, edited by Bernhard Kytzler)
+
+### Theophilus of Antioch --- Apology to Autolycus:
+* *Théophile d'Antioche: Trois livres à Autolycus*, *Sources Chrétiennes* no. 20, Du Cerf (published 1948, edited by Gustave Bardy)
+* [*Theophilus of Antioch: Ad Autolycum*](https://archive.org/details/theophilusofanti0000unse), Oxford University Press/Clarendon Press (published 1970, edited by Robert M. Grant)
 
 ### Clement of Alexandria:
 * [*Clemens Alexandrinus I. Protrepticus und Paedagogus*](http://www.archive.org/details/clemensalexandri01clemuoft), GCS 12 (published 1905 & 1936, edited by Otto Stählin and published 1972, edited by Ursula Treu) --- facsimile

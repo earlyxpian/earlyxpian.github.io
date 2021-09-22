@@ -86,6 +86,11 @@ title: Traductions en français/French Translations
 * Jean Alexandre C. Buchon (traduit ~1837)
   * [*Octavius par Marcus Minucius Félix, avocat*](http://www.samizdat.qc.ca/cosmos/philo/PDFs/Octavius_MF.pdf) (publié 2017) --- text/PDF
 
+### Théophile d'Antioche: À Autolycus
+
+* Jean Sender (traduit 1948)
+  * *Théophile d'Antioche: Trois livres à Autolycus*, *Sources Chrétiennes* no. 20, Du Cerf (publié 1948)
+
 ### Tertullien: Apologétique
 
 * L'Abeé de Gourcy (traduit ~1825)
