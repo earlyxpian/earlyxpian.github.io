@@ -12,7 +12,7 @@ title: Shepherd of Hermas (English translations)
 
 ## Suggested first translation(s):
 
-An easy-to-read, modern English translation that is freely available is the one by Edgar J. Goodspeed from 1950 listed below. A more literal translation that is also in modern English and freely available is the anonymous one from 2013 listed below.
+An easy-to-read, modern English translation that is freely available is the one by Graydon F. Snyder from 1968 listed below. A more literal translation that is also in modern English and freely available is the anonymous one from 2013 listed below.
 
 ## English translations:
 * William Wake (translated ~1719)
@@ -39,7 +39,7 @@ An easy-to-read, modern English translation that is freely available is the one 
 * Edgar J. Goodspeed (translated ~1950)
   * [*The Apostolic Fathers: An American Translation*](goodspeedapostolicfathers.html), Harper & Brothers. (published 1950)
 * Graydon F. Snyder (translated ~1968)
-  * *The Shepherd of Hermas.* Volume 6 of [*The Apostolic Fathers: A New Translation and Commentary*](apostolicfathersnewtranslationandcommentary.html), Thomas Nelson & Sons (published 1968)
+  * [*The Shepherd of Hermas*](apostolicfathersnewtranslationandcommentary_v6.html), Volume 6 of [*The Apostolic Fathers: A New Translation and Commentary*](apostolicfathersnewtranslationandcommentary.html), Thomas Nelson & Sons (published 1968)
 * Michael W. Holmes (translated 1989-2007)
   * *The Apostolic Fathers in English*, Baker Academic (various editions, published 1989-2006)
   * *The Apostolic Fathers: Greek Texts and English Translations of Their Writings*, Baker Academic (various editions, published 1992-2007)
