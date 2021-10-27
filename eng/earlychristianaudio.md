@@ -19,6 +19,7 @@ title: Audio Recordings of Early Christian Writings
 ### Shepherd of Hermas
 
  * [http://www.biblicalaudio.com/hermas.html](http://www.biblicalaudio.com/hermas.html)
+ * [https://librivox.org/the-shepherd-of-hermas-by-hermas/](https://librivox.org/the-shepherd-of-hermas-by-hermas/)
  * [https://archive.org/details/Hermas1](https://archive.org/details/Hermas1)
  * [https://archive.org/details/Hermas2](https://archive.org/details/Hermas2)
  * [https://archive.org/details/Hermas3](https://archive.org/details/Hermas3)

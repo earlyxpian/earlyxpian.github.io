@@ -1,5 +1,5 @@
 ---
-title: 'The Apostolic Fathers --- A New Translation and Commentary, Volume 6: The Shepherd of Hermas
+title: 'The Apostolic Fathers --- A New Translation and Commentary, Volume 6: The Shepherd of Hermas'
 ---
 
 # The Apostolic Fathers: A New Translation and Commentary, Volume 6: “The Shepherd of Hermas” by Graydon F. Snyder

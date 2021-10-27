@@ -1,5 +1,5 @@
 ---
-title: Loeb Classical Library, Volume 250: Tertullian & Minucius Felix
+title: "Loeb Classical Library, Volume 250: Tertullian & Minucius Felix"
 ---
 
 # Tertullian & Minucius Felix, Volume 250 of Loeb Classical Library
