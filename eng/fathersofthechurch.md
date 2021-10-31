@@ -9,7 +9,8 @@ This large series, currently at 133 volumes, has been published by The Catholic 
 ## Volumes:
 
 * [1: The Apostolic Fathers](https://archive.org/details/in.ernet.dli.2015.58476) --- facsimile
-* 6: Justin Martyr: The First Apology, The Second Apology, Dialogue with Trypho, Exhortation to the Greeks, Discourse to the Greeks, The Monarchy of the Rule of God
+* [6: Justin Martyr: The First Apology, The Second Apology, Dialogue with Trypho, Exhortation to the Greeks, Discourse to the Greeks, The Monarchy of the Rule of God](https://archive.org/details/fathersofchurch0000unse) --- facsimile
+  * [2nd copy](https://archive.org/details/firstapologyseco0000just) --- facsimile
 * 10: Tertullian & Minucius Felix: Apologetical Works; Octavius
 * 19: Eusebius Pamphili: Ecclesiastical History, Books 1-5 
 * 23: Clement of Alexandria: Christ the Educator
