@@ -65,6 +65,7 @@ title: Audio Recordings of Early Christian Writings
 
 ### The Didache
 
+ * <http://www.biblicalaudio.com/didache.htm>
  * [http://www.earlychristiancommentary.com/Didache%20-%20Bracket.mp3](http://www.earlychristiancommentary.com/Didache%20-%20Bracket.mp3)
  * [https://archive.org/details/Didache](https://archive.org/details/Didache)
  * <https://librivox.org/didache-the-teaching-of-the-twelve-apostles/>
