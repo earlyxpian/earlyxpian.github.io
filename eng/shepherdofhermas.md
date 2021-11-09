@@ -44,7 +44,7 @@ An easy-to-read, modern English translation that is freely available is the one 
   * *The Apostolic Fathers in English*, Baker Academic (various editions, published 1989-2006)
   * *The Apostolic Fathers: Greek Texts and English Translations of Their Writings*, Baker Academic (various editions, published 1992-2007)
 * Carolyn Osiek (translated ~1999)
-  * *Shepherd of Hermas: a commentary*, Fortress Press (published 1999)
+  * [*Shepherd of Hermas: a commentary*](http://archive.org/details/shepherdofhermas0000osie), Fortress Press (published 1999) --- facsimile
 * Bart D. Ehrman (translated ~2003)
   * *The Apostolic Fathers, Volume II*, Harvard University Press (published 2003)
 * Anonymous (translated ~2013, but updated since)
