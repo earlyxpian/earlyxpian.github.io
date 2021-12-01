@@ -157,6 +157,10 @@ title: Audio Recordings of Early Christian Writings
 
  * [https://archive.org/details/StromataLove](https://archive.org/details/StromataLove)
 
+### Tertullian --- Apology
+
+* <https://librivox.org/apology-by-tertullian/>
+
 ### Tertullian --- Address to the Martyrs
 
  * <https://librivox.org/the-shorter-works-volume-1-by-tertullian/>

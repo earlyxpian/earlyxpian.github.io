@@ -58,3 +58,5 @@ An easy-to-read, modern English translation that is freely available is the one 
   * [*2 Clement: Introduction, Text and Commentary*](https://books.google.com/books?id=TE4-T4XE-CkC), Oxford University Press (published 2012) --- facsimile/preview
 * Rick Brannan (translated ~2017)
   * *The Apostolic Fathers: A New Translation*, Lexham Press (published 2017)
+* William Varner (translated ~2020)
+  * [*Second Clement: An Introductory Commentary*](https://books.google.com/books?id=TwMCEAAAQBAJ), Cascade Books (published 2020) --- facsimile/preview

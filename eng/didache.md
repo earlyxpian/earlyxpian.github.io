@@ -74,6 +74,8 @@ An easy-to-read, modern English translation that is freely available is the one 
   * [*The Didache: Text, Translation, Analysis, and Commentary*](https://books.google.com/books?id=17v6sT1l-aYC), Liturgical Press/Paulist Press (published 2003) --- facsimile/preview
 * Bart D. Ehrman (translated ~2003)
   * *The Apostolic Fathers, Volume I*, Harvard University Press (published 2003)
+* William Varner (translated ~2007)
+  * *The Way of the Didache: The First Christian Handbook*, University Press of America (published 2007)
 * Anthony H. Jones (translated ~2009)
   * [*The Teaching of the Twelve*](teaching-12-pgs.19-34.pdf), Paraclete Press (published 2009) --- text/PDF
 * Anonymous (translated ~2012 but updated since)
@@ -84,4 +86,5 @@ An easy-to-read, modern English translation that is freely available is the one 
   * *The Way of Life: the Rediscovered Teachings of the Twelve Jewish Apostles to the Gentiles*, Vine of David/First Fruits of Zion (published 2016)
 * Rick Brannan (translated ~2017)
   * *The Apostolic Fathers: A New Translation*, Lexham Press (published 2017)
-
+* Shawn J. Wilhite (translated ~2019)
+  * *The Didache: A Commentary*, Cascade Books (published 2019)

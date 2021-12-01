@@ -4,6 +4,8 @@ title: Clement of Alexandria --- "Who is the Rich Man That is Saved?"
 
 # Clement of Alexandria --- "Who is the Rich Man That is Saved?"
 
+* J. Jones (translated ~1711)
+  * [*A Discourse Concerning the Salvation of Rich Men*](https://books.google.com/books?id=h-YCAAAAQAAJ) (published 1711) --- facsimile
 * William Wilson (translated ~1867/1869)
   * [*Ante-Nicene Fathers*](anf.html) Volume 2 (published 1885) 
     * [read online](https://ccel.org/ccel/schaff/anf02/anf02.vi.ii.html)
