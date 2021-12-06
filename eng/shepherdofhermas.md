@@ -43,6 +43,8 @@ An easy-to-read, modern English translation that is freely available is the one 
 * Michael W. Holmes (translated 1989-2007)
   * *The Apostolic Fathers in English*, Baker Academic (various editions, published 1989-2006)
   * *The Apostolic Fathers: Greek Texts and English Translations of Their Writings*, Baker Academic (various editions, published 1992-2007)
+  * [*The Two Ways: The Early Christian Vision of Discipleship from the Didache and the Shepherd of Hermas*](https://www.plough.com/en/topics/faith/early-christians/two-ways), Plough Publishing House (published 2018) -- text/ePub & text/PDF
+    * This book only has exceprts of Micahel Holmes's translation of *The Sherpherd of Hermas*.
 * Carolyn Osiek (translated ~1999)
   * [*Shepherd of Hermas: a commentary*](http://archive.org/details/shepherdofhermas0000osie), Fortress Press (published 1999) --- facsimile
 * Bart D. Ehrman (translated ~2003)

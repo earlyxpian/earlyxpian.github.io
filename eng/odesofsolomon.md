@@ -39,6 +39,9 @@ An easy-to-read, modern English translation that is freely available is the one 
 * Sebastian P. Brock (translated ~2005)
   * [*Spirituality in the Syriac Tradition*](https://archive.org/details/spiritualityinsy0000seba_t4l2), pages 104-106 (published 2005) --- facsimile
     * This book contains translations of Odes 8,9,13,27,30 & 40.
+* Michael Lattke/Marianne Ehrhardt (translated ~2009)
+  * [*The Odes of Solomon*](https://archive.org/details/odesofsolomoncom0000latt), Fortress Press (publihsed 2009) --- facsimile
+    * This book is an English translation by Marianne Ehrhardt of Michael Lattke's German *Oden Salomos: Text, Übersetzung, Kommentar*, a 3 volume set (published 1999-2005)
 * Gie Vleugels/Martin Webber (translated ~2016)
   * *The Odes of Solomon: Syriac Text and English Translation with Text Critical and Explanatory Notes*, St. Ephrem Ecumenical Research Institute (published 2016)
 * Arron Michael Butts (translated ~2020)

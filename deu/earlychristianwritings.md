@@ -16,6 +16,10 @@ title: Deutsche Übersetzungen/German Translations
 * Theodor von Zahn (übersetzt ~1868)
   * [*Der Hirt des Hermas*](http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10606548-7) (veröffentlicht 1868) --- facsimile
 
+### Apologie des Aristides:
+
+* Michael Lattke (übersetzt ~2018)
+  *Aristides ›Apologie‹ übersetzt und erklärt*, Herder (veröffentlicht 2018)
 
 ### Oden Salomos:
 

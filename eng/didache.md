@@ -70,12 +70,15 @@ An easy-to-read, modern English translation that is freely available is the one 
 * Michael W. Holmes (translated 1989-2007)
   * *The Apostolic Fathers in English*, Baker Academic (various editions, published 1989-2006)
   * *The Apostolic Fathers: Greek Texts and English Translations of Their Writings*, Baker Academic (various editions, published 1992-2007)
+  * [*The Two Ways: The Early Christian Vision of Discipleship from the Didache and the Shepherd of Hermas*](https://www.plough.com/en/topics/faith/early-christians/two-ways), Plough Publishing House (published 2018) -- text/ePub & text/PDF
+* Kurt Niederwimmer/Linda M. Maloney (translated into English ~1998 by Linda Maloney from a German translation from ~1989-1993 by Kurt Niederwimmer)
+  * [*The Didache: A Commentary on the Didache*](https://archive.org/details/didachecommentar0000nied), Fortress Press (published 1998, based on the 2nd edition of the German *Die Didache, Kommentar zu den Apostolischen Vätern* which was published 1993)
 * Aaron Milavec (translated ~2003)
   * [*The Didache: Text, Translation, Analysis, and Commentary*](https://books.google.com/books?id=17v6sT1l-aYC), Liturgical Press/Paulist Press (published 2003) --- facsimile/preview
 * Bart D. Ehrman (translated ~2003)
   * *The Apostolic Fathers, Volume I*, Harvard University Press (published 2003)
 * William Varner (translated ~2007)
-  * *The Way of the Didache: The First Christian Handbook*, University Press of America (published 2007)
+  * [*The Way of the Didache: The First Christian Handbook*](https://archive.org/details/wayofdidachefirs0000varn), University Press of America (published 2007)
 * Anthony H. Jones (translated ~2009)
   * [*The Teaching of the Twelve*](teaching-12-pgs.19-34.pdf), Paraclete Press (published 2009) --- text/PDF
 * Anonymous (translated ~2012 but updated since)
@@ -87,4 +90,4 @@ An easy-to-read, modern English translation that is freely available is the one 
 * Rick Brannan (translated ~2017)
   * *The Apostolic Fathers: A New Translation*, Lexham Press (published 2017)
 * Shawn J. Wilhite (translated ~2019)
-  * *The Didache: A Commentary*, Cascade Books (published 2019)
+  * [*The Didache: A Commentary*](https://books.google.com/books?id=5rGtDwAAQBAJ), Cascade Books (published 2019) --- facsimile/preview

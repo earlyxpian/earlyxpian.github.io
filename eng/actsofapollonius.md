@@ -23,7 +23,7 @@ An easy-to-read, modern English translation that is freely available is the one 
   * [*The Acts of the Christian Martyrs*](https://www.scribd.com/document/249295097/Musurillo-Acts-of-the-Christian-Martyrs), Oxford/Clarendon Press (published 1972) --- facsimile
     * This is a translation of the Greek text.
 * Éric Rebillard (translated ~2017)
-  * *Greek and Latin Narratives about the Ancient Martyrs*, Oxford Univeristy Press (published 2017)
+  * [*Greek and Latin Narratives about the Ancient Martyrs*](https://archive.org/details/rebillard-greek-and-latin-narratives-about-the-ancient-martyrs), Oxford Univeristy Press (published 2017) --- facsimile
 * Anthony Alcock (translated ~2018)
   * [*The trial and martyrdom of Apollonius*](Alcock_The-trial-and-martyrdom-of-Apollonius.pdf) (published 2018) --- text/PDF
     * This is a translation of the Greek text, with reference to the Armenian.

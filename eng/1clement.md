@@ -72,3 +72,5 @@ An easy-to-read, modern English translation that is freely available is the one 
   * [*Letter of Clemens to the Korinthians*](http://www.biblicalaudio.com/text/clement.pdf) (published 2012 but revised since) --- text/PDF
 * Rick Brannan (translated ~2017)
   * “The Apostolic Fathers: A New Translation”, Lexham Press (published 2017)
+* Adolf von Harnack/Jacob N. Cerone (translated ~2021 by Jacob Cerone from a German translation by Adolf von Harnack which was translated ~1929)
+  * [*The Letter of the Roman Church to the Corinthian Church from the Era of Domitian: 1 Clement*](https://books.google.com/books?id=ClITEAAAQBAJ), Pickwick Publications/Wipf and Stock Publishers (published 2021, this book is a translation of a German book published 1929) --- facsimile/preview

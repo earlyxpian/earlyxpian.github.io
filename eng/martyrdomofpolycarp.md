@@ -69,4 +69,4 @@ An easy-to-read, modern English translation that is freely available is the one 
 * Rick Brannan (translated ~2017)
   * *The Apostolic Fathers: A New Translation*, Lexham Press (published 2017)
 * Éric Rebillard (translated ~2017)
-  * *Greek and Latin Narratives about the Ancient Martyrs*, Oxford Univeristy Press (published 2017)
+  * [*Greek and Latin Narratives about the Ancient Martyrs*](https://archive.org/details/rebillard-greek-and-latin-narratives-about-the-ancient-martyrs), Oxford Univeristy Press (published 2017) --- facsimile

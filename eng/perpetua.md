@@ -32,5 +32,5 @@ title: The Martyrdom of Perpetua and Felicitas
   * [*The Suffering of Perpetua and Felicitas*](http://www.biblicalaudio.com/perpetua.htm) (published 2012) --- text/PDF
     * [older version that better matches the audio version hosted on that site](perpetua_biblicalaudio_2016.pdf)
 * Éric Rebillard (translated ~2017)
-  * *Greek and Latin Narratives about the Ancient Martyrs*, Oxford Univeristy Press (published 2017)
+  * [*Greek and Latin Narratives about the Ancient Martyrs*](https://archive.org/details/rebillard-greek-and-latin-narratives-about-the-ancient-martyrs), Oxford Univeristy Press (published 2017) --- facsimile
 
