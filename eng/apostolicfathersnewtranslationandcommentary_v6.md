@@ -8,5 +8,6 @@ This volume, originally published in 1968, has been released into the public dom
 
 This book can be downloaded in the following formats:
 
-* [PDF](shepherd_of_hermas_snyder.pdf) --- facsimile
-* other versions coming soon
+* [ePUB](shepherd_of_hermas_snyder.epub) (This files contains the text of the translation only.)
+* [HTML](shepherd_of_hermas_snyder.html) (This files contains the text of the translation only.)
+* [PDF](shepherd_of_hermas_snyder.pdf) --- facsimile (This file contains the full contents of the original book.)

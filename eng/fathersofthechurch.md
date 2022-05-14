@@ -17,9 +17,9 @@ This large series, currently at 133 volumes, has been published by The Catholic 
 * 29: Eusebius Pamphili: Ecclesiastical History, Books 6-10
 * 36: Cyprian: Treatises
 * 40: Tertullian: Disciplinary, Moral, and Ascetical Works
-* 49: Lactantius: The Divine Institutes, Books I–VII
+* 49: [Lactantius: The Divine Institutes, Books I–VII](https://archive.org/details/fathersofchurch0049unse)
 * 51: Cyprian: Letters 1-81
-* 54: Lactantius: The Minor Works
+* 54: [Lactantius: The Minor Works](https://archive.org/details/minorworks0054lact)
 * 67: Novatian: The Trinity, The Spectacles, Jewish Foods, In Praise of Purity, Letters
 * 71: Origen: Homilies on Genesis and Exodus
 * 80: Origen: Commentary on the Gospel According to John, Books 1-10

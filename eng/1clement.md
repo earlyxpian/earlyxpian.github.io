@@ -2,7 +2,7 @@
 title: 1 Clement (English translations)
 ---
 
-# 1 Clement (also called *Clement to the Corinthians*)
+# 1 Clement (also called *Clement to the Corinthians*, or *The Letter of the Assembly of Rome to the Assembly of Corinth*)
 
 ## Brief description:
 
