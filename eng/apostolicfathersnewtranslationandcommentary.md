@@ -4,7 +4,7 @@ title: The Apostolic Fathers --- A New Translation and Commentary
 
 # The Apostolic Fathers: A New Translation and Commentary
 
-* Volume 1: “An Introduction” by Robert M. Grant (published 1964)
+* [Volume 1: “An Introduction”](https://archive.org/details/apostolicfathers0000unse_a4r8) by Robert M. Grant (published 1964)
 * Volume 2: “First and Second Clement” by Robert M. Grant and Holt Hutton Graham (published 1965)
 * [Volume 3: “Barnabas and the Didache”](apostolicfathersnewtranslationandcommentary_v3.html) by Robert A. Kraft (published 1965)
 * Volume 4: “Ingatius of Antioch” by Robert M. Grant (published 1965)
