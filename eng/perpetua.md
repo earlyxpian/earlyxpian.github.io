@@ -18,7 +18,7 @@ title: The Martyrdom of Perpetua and Felicitas
   * [*The Passion of SS. Perpetua and Felicity, MM.: A new edition and translation of the Latin text, together with the sermons of S. Augustine upon these saints*](https://archive.org/details/passionofssperpe00perp), Sheed and Ward (published 1931) --- facsimile
     * [language update](https://sourcebooks.fordham.edu/source/perpetua.asp)
 * Herbert Anthony Musurillo (translated ~1972)
-  * [*The Acts of the Christian Martyrs*](https://www.scribd.com/document/249295097/Musurillo-Acts-of-the-Christian-Martyrs), Oxford: Clarendon Press (published 1972) --- facsimile
+  * [*The Acts of the Christian Martyrs*](https://archive.org/details/the-acts-of-the-christian-martyrs-by-herbert-anthony-musurillo-z-lib.org), Oxford: Clarendon Press (published 1972) --- facsimile
 * R. Rader (translated ~1981)
   * *A Lost Tradition: Women Writers of the Early Church*, University Press of America (published 1981)
 * Peter Dronke (translated ~1984)

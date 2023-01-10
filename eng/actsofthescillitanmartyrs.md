@@ -10,7 +10,7 @@ title: Acts of the Scillitan Martyrs
 * E. C. E. Owen (translated ~1927)
   * [*Some Authentic Acts of the Early Martyrs*](someauthenticactsoftheearlymartyrs.html) (published 1927) --- facsimile
 * Herbert Anthony Musurillo (translated ~1972)
-  * [*The Acts of the Christian Martyrs*](https://www.scribd.com/document/249295097/Musurillo-Acts-of-the-Christian-Martyrs), Oxford: Clarendon Press (published 1972) --- facsimile
+  * [*The Acts of the Christian Martyrs*](https://archive.org/details/the-acts-of-the-christian-martyrs-by-herbert-anthony-musurillo-z-lib.org), Oxford: Clarendon Press (published 1972) --- facsimile
 * Alexander Smarius (translated ~2016)
   * [*Acts of the Scillitan Martyrs*](actsofthescillitanmartyrs_smariustranslation.pdf) (published 2016) --- text/PDF
     * [read online](https://www.livius.org/sources/content/acts-of-the-scillitan-martyrs/translation/)

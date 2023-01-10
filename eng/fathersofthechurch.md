@@ -4,7 +4,7 @@ title: Fathers of the Church Patristic Series
 
 # Fathers of the Church Patristic Series
 
-This large series, currently at 133 volumes, has been published by The Catholic University of America Press starting in 1947 and continuing until present. It contins English translations of the writings of writers from the late first/early second century up to the middle ages. The volumes containing writings of pre-Nicene writers are listed below.
+This large series, currently at 144 volumes, has been published by The Catholic University of America Press starting in 1947 and continuing until present. It contins English translations of the writings of writers from the late first/early second century up to the middle ages. The volumes containing writings of pre-Nicene writers are listed below.
 
 ## Volumes:
 
@@ -16,10 +16,10 @@ This large series, currently at 133 volumes, has been published by The Catholic 
 * 23: Clement of Alexandria: Christ the Educator
 * 29: Eusebius Pamphili: Ecclesiastical History, Books 6-10
 * 36: Cyprian: Treatises
-* 40: Tertullian: Disciplinary, Moral, and Ascetical Works
-* 49: [Lactantius: The Divine Institutes, Books I–VII](https://archive.org/details/fathersofchurch0049unse)
+* [40: Tertullian: Disciplinary, Moral, and Ascetical Works](https://archive.org/details/fathersofthechur013352mbp)
+* [49: Lactantius: The Divine Institutes, Books I–VII](https://archive.org/details/fathersofchurch0049unse)
 * 51: Cyprian: Letters 1-81
-* 54: [Lactantius: The Minor Works](https://archive.org/details/minorworks0054lact)
+* [54: Lactantius: The Minor Works](https://archive.org/details/minorworks0054lact)
 * 67: Novatian: The Trinity, The Spectacles, Jewish Foods, In Praise of Purity, Letters
 * 71: Origen: Homilies on Genesis and Exodus
 * 80: Origen: Commentary on the Gospel According to John, Books 1-10
@@ -34,6 +34,8 @@ This large series, currently at 133 volumes, has been published by The Catholic 
 * 105: Origen: Homilies on Joshua
 * 119: Origen: Homilies on Judges
 * 120: Pamphilus and Rufinus: Apology for Origen: with On the Falsification of the Books of Origen
+* 141: Origen: Homilies on the Psalms: Codex Monacensis Graecus 34
+* 142: Origen: Homilies on Isaiah
 
 For more information about this series, visit the [publisher's website](https://www.cuapress.org/). Scans of the entire series are avilable, for pay, via [“Project Muse”](https://muse.jhu.edu). If you have online access to collections of a large library, you may be able to access them for free there as some libraries have subscriptions to the “Project Muse.”
 

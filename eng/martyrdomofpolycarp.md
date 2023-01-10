@@ -56,7 +56,7 @@ An easy-to-read, modern English translation that is freely available is the one 
 * Maxwell Staniforth/A. Louth (translated 1968/revised 1987)
   * *Early Christian Writings: The Apostolic Fathers*, Penguin (published 1987)
 * Herbert Anthony Musurillo (translated ~1972)
-  * [*The Acts of the Christian Martyrs*](https://www.scribd.com/document/249295097/Musurillo-Acts-of-the-Christian-Martyrs), Oxford/Clarendon Press (published 1972) --- facsimile
+  * [*The Acts of the Christian Martyrs*](https://archive.org/details/the-acts-of-the-christian-martyrs-by-herbert-anthony-musurillo-z-lib.org), Oxford/Clarendon Press (published 1972) --- facsimile
 * Michael W. Holmes (translated 1989-2007)
   * *The Apostolic Fathers in English*, Baker Academic (various editions, published 1989-2006)
   * *The Apostolic Fathers: Greek Texts and English Translations of Their Writings*, Baker Academic (various editions, published 1992-2007)

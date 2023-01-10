@@ -20,7 +20,7 @@ An easy-to-read, modern English translation that is freely available is the one 
   * [*The Apology and Acts of Apollonius and Other Monuments of Early Christianity*](https://archive.org/details/apologyactsofapo00cony) (published 1894) --- facsimile
     * This is a translation of the Armenian text.
 * Herbert Anthony Musurillo (translated ~1972)
-  * [*The Acts of the Christian Martyrs*](https://www.scribd.com/document/249295097/Musurillo-Acts-of-the-Christian-Martyrs), Oxford/Clarendon Press (published 1972) --- facsimile
+  * [*The Acts of the Christian Martyrs*](https://archive.org/details/the-acts-of-the-christian-martyrs-by-herbert-anthony-musurillo-z-lib.org), Oxford/Clarendon Press (published 1972) --- facsimile
     * This is a translation of the Greek text.
 * Éric Rebillard (translated ~2017)
   * [*Greek and Latin Narratives about the Ancient Martyrs*](https://archive.org/details/rebillard-greek-and-latin-narratives-about-the-ancient-martyrs), Oxford Univeristy Press (published 2017) --- facsimile

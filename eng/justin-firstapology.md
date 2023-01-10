@@ -27,7 +27,7 @@ An easy-to-read, modern English translation that is freely available is the one 
   * [*Ante-Nicene Fathers* Volume 1](anf.html) (published 1885)
     * [read online](http://www.ccel.org/ccel/schaff/anf01.viii.ii.html)
 * Thomas B. Falls (translated ~1948)
-  * *Justin Martyr: The First Apology, The Second Apology, Dialogue with Trypho, Exhortation to the Greeks, Discourse to the Greeks, The Monarchy of the Rule of God*, Volume 6 of [*Fathers of the Church*](fathersofthechurch.html) (published 1948)
+  * [*Justin Martyr: The First Apology, The Second Apology, Dialogue with Trypho, Exhortation to the Greeks, Discourse to the Greeks, The Monarchy of the Rule of God*](https://archive.org/details/fathersofchurch0000unse), Volume 6 of [*Fathers of the Church*](fathersofthechurch.html) (published 1948)
 * Edward Rochie Hardy (translated ~1953)
   * [*Early Christian Fathers*](ecf.html) (published 1953)
     * [read online](http://www.ccel.org/ccel/richardson/fathers.x.ii.html)

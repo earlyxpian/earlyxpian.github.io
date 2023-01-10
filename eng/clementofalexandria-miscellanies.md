@@ -17,7 +17,7 @@ title: Clement of Alexandria --- Miscellanies/Stromateis
 * John Ernest Leonard Oulton/Henry Chadwick (translated ~1959)
   * [*Alexandrian Christianity: Selected Translations of Clement and Origen with Introductions and Notes*, Volume II of *The Library of Christian Classics*](https://archive.org/details/alexandrianchris012826mbp) (published 1959) --- facsimile
     * [read Book 3 online](clementofalexandria-stromata-book3-oultonandchadwick.html) -- text/HTML
-  * This volume contains translations of book 3 and 7 of this work only.
+    * This volume contains translations of book 3 and 7 of this work only.
 * David Bercot(Editor)/Jeleta Eckheart/Beth Dillon Miller/Pamela Warren (translated ~1990)
   * [*The One Who Knows God*/*Intimacy with God*](https://books.google.com/books?id=GBcb0d2puMQC), Scroll Publishing (published 1990 as *The One Who Knows God*, reissued 2008 as *Intimacy with God*)
     * This book contains a major revision of the translation by William Wilson to put it into modern, easier-to-read English. It contains only excerpts of Miscellanies.

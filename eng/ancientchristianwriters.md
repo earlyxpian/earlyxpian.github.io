@@ -21,7 +21,7 @@ This large series, currently at 70 volumes, has been published by Paulist Press 
 * 26: Origen: The Song of Songs, Commentary & Homilies
 * 27: St. Methodius: The Symposium: A Treatise on Chasity
 * 28: Tertullian: Treatises on Penance: On Penitence and On Purity
-* 39: The Octavius of Marcus Minucius Felix
+* [39: The Octavius of Marcus Minucius Felix](https://archive.org/details/octaviusofmarcus0039minu)
 * 43: The Letters of St. Cyprian of Carthage, Vol. 1
 * 44: The Letters of St. Cyprian of Carthage, Vol. 2
 * 46: The Letters of St. Cyprian of Carthage, Vol. 3

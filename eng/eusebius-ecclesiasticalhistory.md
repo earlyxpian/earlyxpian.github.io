@@ -20,6 +20,6 @@ Eusebius is not a pre-Nicene writer. However, his *Ecclesiastical History* is th
   * *Eusebius Pamphili: Ecclesiastical History, Books 1-5*, Volume 19 of [*Fathers of the Church*](fathersofthechurch.html) (published 1953)
   * *Eusebius Pamphili: Ecclesiastical History, Books 6-10*, Volume 29 of [*Fathers of the Church*](fathersofthechurch.html) (published 1955)
 * Geoffrey Arthur Williamson/Andrew Louth (translated ~1965)
-  * *Eusebius: The History of the Church*, Penguin Classics (published 1965, second edition 1989)
+  * [*Eusebius: The History of the Church*](https://archive.org/details/historyofchurchf0000euse), Penguin Classics (published 1965, second edition 1989) --- facsimile
 * Paul L. Maier (translated ~1999)
   * *Eusebius: The Church History*, Kregel Publications (published 1999, second edition 2007)

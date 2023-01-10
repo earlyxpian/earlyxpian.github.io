@@ -19,13 +19,17 @@ title: Traductions en français/French Translations
 
 ### Hermas: Le Pasteur
 
+* Auguste Lelong (traduit ~1912)
+  * [*Le Pasteur D'Hermas*](https://books.google.com/books?id=sD4AAAAAMAAJ), *Les Pères Apostoliques*, tome IV (publié 1912)
 * Robert Joly (traduit ~1958)
   * [*Hermas: Le Pasteur*](https://archive.org/details/SC53HermasLePasteur), *Sources Chrétiennes* No. 53 (publié 1958) --- facsimile
+* Philippe Henne (traduit ~2011)
+  * *Le Pasteur d'Hermas*, Les Èditions du Cerf (publié 2011)
 
 ### Ignace d'Antioche
 
 * Auguste Lelong (traduit ~1927)
-  * [*Ignace d'Antioche et Polycarpe de Smyrne*](https://archive.org/details/PeresApostoliquesIIIAmlior), *Les Pères Apostoliques*, tome III:  (publié 1927) --- facsimile
+  * [*Ignace d'Antioche et Polycarpe de Smyrne*](https://archive.org/details/PeresApostoliquesIIIAmlior), *Les Pères Apostoliques*, tome III  (publié 1927) --- facsimile
 * Pierre-Thomas Camelot (traduit ~1945)
   * [*Ignace d'Antioche & Polycarpe De Smyrne: Lettres. Martyre de Polycarpe*](https://archive.org/details/SC10StIgnaceDAntiocheLettresEtMartyreDePolycarpe), *Sources Chrétiennes* No. 10 *bis* (publié 1945/1950/1958) --- facsimile
 

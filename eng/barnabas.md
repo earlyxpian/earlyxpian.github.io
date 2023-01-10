@@ -56,3 +56,5 @@ Two easy-to-read, modern English translations that are freely available are the 
   * [*Letter of Bar-Naba (Barnabas)*](http://www.biblicalaudio.com/text/barnabas.pdf) (published 2013) --- text/PDF
 * Rick Brannan (translated ~2017)
   * *The Apostolic Fathers: A New Translation*, Lexham Press (published 2017)
+* Jonathon Lookadoo (translated ~2022)
+  * [*The Epistle of Barnabas: A Commentary*](https://books.google.com/books?id=0ah2EAAAQBAJ), Cascade Books (published 2022) --- facsimile/preview

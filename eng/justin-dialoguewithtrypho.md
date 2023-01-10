@@ -15,7 +15,7 @@ title: Justin's Dialogue with Trypho
 * A. Lukyn Williams (translated ~1930)
   * [*Justin Martyr: The Dialogue With Trypho*](https://archive.org/details/SPCKJustinMartyr) (published 1930) --- facsimile
 * Thomas B. Falls (translated ~1948)
-  * *Justin Martyr: The First Apology, The Second Apology, Dialogue with Trypho, Exhortation to the Greeks, Discourse to the Greeks, The Monarchy of the Rule of God*, Volume 6 of [*Fathers of the Church*](fathersofthechurch.html) (published 1948)
+  * [*Justin Martyr: The First Apology, The Second Apology, Dialogue with Trypho, Exhortation to the Greeks, Discourse to the Greeks, The Monarchy of the Rule of God*](https://archive.org/details/fathersofchurch0000unse), Volume 6 of [*Fathers of the Church*](fathersofthechurch.html) (published 1948)
 * Richard Patrick Crosland (R. P. C.) Hanson (translated ~1963)
   * [*Selections from Justin Martyr's Dialogue with Trypho, a Jew*](https://archive.org/details/selectionsfromju0000just), *World Christian Books*, no. 49, third series, Lutterworth Press/Association Press (published 1963/1964)
     * This translation contains chapters 1-4,6-11,19-20,30.3-end,31-32,35.7-end,46,54-55,56.1-13,57.1-3,61-62,66,67.1-6,69-71,78,87-91,94-101,103,105-108,117,118.2b-end,119,121,122,127,138&141-142.

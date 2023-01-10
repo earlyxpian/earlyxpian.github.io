@@ -21,7 +21,7 @@ title: Athenagoras of Athens
 * Joseph Hugh Crehan (translated ~1956)
   * *Athenagoras: Embassy for the Christians, The Resurrection of the Dead*, volume 23 of [*Ancient Christian Writers*](ancientchristianwriters.html) (published 1956)
 * William Richard Schoedel (translated ~1972)
-  * *Athenagoras: Legatio and De Resurrectione*, Oxford/Clarendon Press (published 1972)
+  * [*Athenagoras: Legatio and De Resurrectione*](https://archive.org/details/athenagoraslegat0000will), Oxford/Clarendon Press (published 1972) --- facsimile
 
 ## The Resurrection of the Dead
 
@@ -37,6 +37,6 @@ title: Athenagoras of Athens
 * Joseph Hugh Crehan (translated ~1956)
   * *Athenagoras: Embassy for the Christians, The Resurrection of the Dead*, volume 23 of [*Ancient Christian Writers*](ancientchristianwriters.html) (published 1956)
 * William Richard Schoedel (translated ~1972)
-  * *Athenagoras: Legatio and De Resurrectione*, Oxford/Clarendon Press (published 1972)
+  * [*Athenagoras: Legatio and De Resurrectione*](https://archive.org/details/athenagoraslegat0000will), Oxford/Clarendon Press (published 1972)
 
 
