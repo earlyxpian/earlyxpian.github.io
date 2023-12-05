@@ -82,7 +82,7 @@ An easy-to-read, modern English translation that is freely available is the one 
 * Anthony H. Jones (translated ~2009)
   * [*The Teaching of the Twelve*](teaching-12-pgs.19-34.pdf), Paraclete Press (published 2009) --- text/PDF
 * Thomas O'Loughlin (translated ~2010)
-  * *The Didache: A Window On The Earliest Christians*, SPCK Publishing/Baker Academic (published 2010)
+  * [*The Didache: A Window On The Earliest Christians*](https://books.google.com/books?id=IfpqBgAAQBAJ), SPCK Publishing/Baker Academic (published 2010) --- facsimile/preview
 * Anonymous (translated ~2012 but updated since)
   * [*The Teaching*](http://www.biblicalaudio.com/text/didache.pdf) (published 2012, but revised since) --- text/PDF
 * R. Joseph Owles (translated ~2014)

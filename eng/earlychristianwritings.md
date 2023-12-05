@@ -46,6 +46,7 @@ This list is still a work-in-progress and does not yet include most 3rd and 4th 
 * [Letter from Lyons and Vienne](letterfromlyonsandvienne.html)
 * [Irenaeus --- "Against Heresies"](irenaeus-againstheresies.html)
 * [Irenaeus --- "Demonstration of the Apostolic Preaching"](irenaeus-apostolicpreaching.html)
+* [Irenaeus --- Fragments](irenaeus-fragments.html)
 * [Theophilus of Antioch](theophilusofantioch.html)
 * [Acts of Apollonius](actsofapollonius.html)
 * [Clement of Alexandria --- "Exhortation to the Greeks" (also called "Protrepticus" or "Exhortation to the Heathen")](clementofalexandria-exhortationtothegreeks.html)
