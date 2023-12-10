@@ -4,7 +4,7 @@ title: Fathers of the Church Patristic Series
 
 # Fathers of the Church Patristic Series
 
-This large series, currently at 144 volumes, has been published by The Catholic University of America Press starting in 1947 and continuing until present. It contins English translations of the writings of writers from the late first/early second century up to the middle ages. The volumes containing writings of pre-Nicene writers are listed below.
+This large series, currently at 147 volumes, has been published by The Catholic University of America Press starting in 1947 and continuing until present. It contins English translations of the writings of writers from the late first/early second century up to the middle ages. The volumes containing writings of pre-Nicene writers are listed below.
 
 ## Volumes:
 
@@ -36,6 +36,7 @@ This large series, currently at 144 volumes, has been published by The Catholic 
 * 120: Pamphilus and Rufinus: Apology for Origen: with On the Falsification of the Books of Origen
 * 141: Origen: Homilies on the Psalms: Codex Monacensis Graecus 314
 * 142: Origen: Homilies on Isaiah
+* 146: Origen: Homilies on Psalms 36-38
 
 For more information about this series, visit the [publisher's website](https://www.cuapress.org/). Scans of the entire series are avilable, for pay, via [“Project Muse”](https://muse.jhu.edu). If you have online access to collections of a large library, you may be able to access them for free there as some libraries have subscriptions to the “Project Muse.”
 
@@ -45,3 +46,4 @@ Limited previews of some of the volumes are available on Google Books:
 * [Volume 19](https://books.google.com/books?id=-o0katcldMQC)
 * [Volume 23](https://books.google.com/books?id=tI_GTDlgcZsC)
 * [Volume 85](https://books.google.com/books?id=XWpL1zz5cmoC)
+* [Volume 146](https://books.google.com/books?id=hkrAEAAAQBAJ)
