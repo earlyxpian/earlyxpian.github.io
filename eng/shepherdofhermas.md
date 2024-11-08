@@ -56,4 +56,6 @@ An easy-to-read, modern English translation that is freely available is the one 
     * This translation is a language update of the translation by Fredrick Crombie into modern English.
 * Rick Brannan (translated ~2017)
   * *The Apostolic Fathers: A New Translation*, Lexham Press (published 2017)
+* Michael J. Svigel/Caroline P. Buie (translated ~2023)
+  * [*The Shepherd of Hermas: a new translation and commentary*](https://books.google.com/books?id=iBrQEAAAQBAJ), a volume in *Apostolic Fathers Commentary Series*, Cascade Books (published 2023)
 
