@@ -74,3 +74,5 @@ An easy-to-read, modern English translation that is freely available is the one 
   * “The Apostolic Fathers: A New Translation”, Lexham Press (published 2017)
 * Adolf von Harnack/Jacob N. Cerone (translated ~2021 by Jacob Cerone from a German translation by Adolf von Harnack which was translated ~1929)
   * [*The Letter of the Roman Church to the Corinthian Church from the Era of Domitian: 1 Clement*](https://books.google.com/books?id=ClITEAAAQBAJ), Pickwick Publications/Wipf and Stock Publishers (published 2021, this book is a translation of a German book published 1929) --- facsimile/preview
+* Rudolf Knopf/Jacob N. Cerone (translated ~2023 by Jacob Cerone from a German translation by Rudolf Knopf which was translated ~1920)
+  * [*Commentary on the Didache and on 1-2 Clement*](https://books.google.com/books?id=AL2qEAAAQBAJ), Pickwick Publications (published 2023, this book is a translation of a German book published 1920) --- facsimile/preview

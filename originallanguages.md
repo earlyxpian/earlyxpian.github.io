@@ -77,6 +77,7 @@ title: Early Christian Writings in their original languages or other ancient lan
 * [*Clemens Alexandrinus IV. Register 1*](http://www.archive.org/details/clemensalexandri04clemuoft), GCS 39/1 (published 1936, edited by Otto Stählin & published 1980, edited by Ursula Treu) --- facsimile
 * *Clemens Alexandrinus IV. Register 2*, GCS 39/2 (published 1936, edited by Otto Stählin)
 * *Clementis Alexandrini Paedagogus* (published 2002 by Brill, edited by Miroslav Marcovich and Jacobus C. M. van Winden)
+* [*Clement of Alexandria: Quis Dives Salvetur*](https://archive.org/details/clementofalexand00clem_0), Cambridge University Press (published 1897) --- facsimile
 
 ### The Martyrdom of Perpetua and Felicitas:
 * [*The Acts of the Martyrdom of Perpetua and Felicitas: the original Greek text now first edited from a ms. in the Library of the Convent of the Holy Sepulcher at Jerusalem.*](https://archive.org/details/TheActsOfTheMartyrdom) (published 1890, edited by  J. Rendel Harris/Seth K. Gifford) --- facsimile

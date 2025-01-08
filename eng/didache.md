@@ -93,3 +93,5 @@ An easy-to-read, modern English translation that is freely available is the one 
   * *The Apostolic Fathers: A New Translation*, Lexham Press (published 2017)
 * Shawn J. Wilhite (translated ~2019)
   * [*The Didache: A Commentary*](https://books.google.com/books?id=5rGtDwAAQBAJ), Cascade Books (published 2019) --- facsimile/preview
+* Rudolf Knopf/Jacob N. Cerone (translated ~2023 by Jacob Cerone from a German translation by Rudolf Knopf which was translated ~1920)
+  * [*Commentary on the Didache and on 1-2 Clement*](https://books.google.com/books?id=AL2qEAAAQBAJ), Pickwick Publications (published 2023, this book is a translation of a German book published 1920) --- facsimile/preview

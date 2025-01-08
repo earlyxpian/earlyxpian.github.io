@@ -66,3 +66,5 @@ An easy-to-read, modern English translation that is freely available is the one 
   * [*Polycarp's Epistle to the Philippians and the Martyrdom of Polycarp*](https://books.google.com/books?id=eZkRAAAAQBAJ), Oxford University Press (published 2013) --- facsimile/preview
 * Rick Brannan (translated ~2017)
   * *The Apostolic Fathers: A New Translation*, Lexham Press (published 2017)
+* William W. Webber (translated ~2024)
+  * [*Dying to Reach God: A New Translation and Commentary on the Writings of St. Ignatius of Antioch and St. Polycarp of Smyrna, Second-Century Christian Martyrs*](https://books.google.com/books?id=olUXEQAAQBAJ), Resource Publications (published 2024) --- facsimile/preview

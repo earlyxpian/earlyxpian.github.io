@@ -14,7 +14,7 @@ title: Tatian of Syria (English translations)
   * [*Ante-Nicene Fathers* Volume 2](anf.html) (published 1885)
     * [read online](http://www.ccel.org/ccel/schaff/anf02.iii.ii.html)
 * Molly Whittaker (translated ~1982)
-  * [*Tatian: Oratio ad Graecos And Fragments*](https://archive.org/details/oratioadgraecosf0000tat), Oxford/Clarendon Press (published 1982)
+  * [*Tatian: Oratio ad Graecos And Fragments*](https://archive.org/details/oratioadgraecosf0000tati), Oxford/Clarendon Press (published 1982)
 
 ## Perfection According to the Saviour
 
@@ -33,7 +33,7 @@ The editor of the following book believes it to be the lost work by Tatian on pe
   * [*Ante-Nicene Fathers* Volume 2](anf.html) (published 1885)
     * [read online](http://www.ccel.org/ccel/schaff/anf02.iii.iii.html)
 * Molly Whittaker (translated ~1982)
-  * *Tatian: Oratio ad Graecos And Fragments*, Oxford/Clarendon Press (published 1982)
+  * [*Tatian: Oratio ad Graecos And Fragments*](https://archive.org/details/oratioadgraecosf0000tati), Oxford/Clarendon Press (published 1982)
 
 
 

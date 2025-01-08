@@ -60,6 +60,8 @@ An easy-to-read, modern English translation that is freely available is the one 
   * *The Apostolic Fathers: A New Translation*, Lexham Press (published 2017)
 * William Varner (translated ~2020)
   * [*Second Clement: An Introductory Commentary*](https://books.google.com/books?id=TwMCEAAAQBAJ), Cascade Books (published 2020) --- facsimile/preview
+* Rudolf Knopf/Jacob N. Cerone (translated ~2023 by Jacob Cerone from a German translation by Rudolf Knopf which was translated ~1920)
+  * [*Commentary on the Didache and on 1-2 Clement*](https://books.google.com/books?id=AL2qEAAAQBAJ), Pickwick Publications (published 2023, this book is a translation of a German book published 1920) --- facsimile/preview
 * Anonymous (languge updated 2024/2025)
   * [2 Clement in Contemporary English](2clement_contemporary.html)
     * This translations is a language update of the translation listed above by Cyril C. Richardson.
