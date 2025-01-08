@@ -40,6 +40,7 @@ An easy-to-read, modern English translation that is freely available is the one 
   * [*The Apostolic Fathers: An American Translation*](goodspeedapostolicfathers.html), Harper & Brothers. (published 1950)
 * Graydon F. Snyder (translated ~1968)
   * [*The Shepherd of Hermas*](apostolicfathersnewtranslationandcommentary_v6.html), Volume 6 of [*The Apostolic Fathers: A New Translation and Commentary*](apostolicfathersnewtranslationandcommentary.html), Thomas Nelson & Sons (published 1968)
+  * [a minor language update of this translation](shepherdofhermassnyderupdated.html)
 * Michael W. Holmes (translated 1989-2007)
   * *The Apostolic Fathers in English*, Baker Academic (various editions, published 1989-2006)
   * *The Apostolic Fathers: Greek Texts and English Translations of Their Writings*, Baker Academic (various editions, published 1992-2007)

@@ -24,6 +24,7 @@ title: Audio Recordings of Early Christian Writings
 
 ### An Anonymous Early Christian Sermon (commonly called 2 Clement)
 
+ * <http://early.xpian.info/eng/2clement_contemporary.html>
  * [http://www.earlychristiancommentary.com/2-Clement%20-%20Luedeker.mp3](http://www.earlychristiancommentary.com/2-Clement%20-%20Luedeker.mp3)
  * <https://librivox.org/short-nonfiction-collection-vol-074-by-various/>
 
