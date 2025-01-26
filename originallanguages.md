@@ -15,7 +15,7 @@ title: Early Christian Writings in their original languages or other ancient lan
 
 ### Shepherd of Hermas:
 
-* [*Die apostolischen Väter I: Der Hirt des Hermas*](https://www.degruyter.com/viewbooktoc/product/185496), *GCS* 48 (published 1967, edited by Molly Whittacker) --- facsimile
+* [*Die apostolischen Väter I: Der Hirt des Hermas*](https://www.degruyter.com/document/doi/10.1515/9783110299199/html), *GCS* 48 (published 1967, edited by Molly Whittacker) --- facsimile
 
 ### Barnabas:
 * [*The Editio Princeps of the Epistle of Barnabas*](https://archive.org/details/editioprincepsof00barn) (published 1883, edited by J. H. Backhouse) --- facsimile

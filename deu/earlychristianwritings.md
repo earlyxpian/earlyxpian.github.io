@@ -6,7 +6,7 @@ title: Deutsche Übersetzungen/German Translations
 
 ## Sammlungen:
 
-* [*Bibliothek der Kirchenväter*](http://www.unifr.ch/bkv/) 
+* [*Bibliothek der Kirchenväter*](https://bkv.unifr.ch/de)
 * *Die Apostolischen Väter: Griechisch-deutsche Parallelausgabe auf der Grundlage der Ausgaben von Franz Xaver Funk/Karl Bihlmeyer und Molly Whittaker*, J. C. B. Mohr(Paul Siebeck) (veröffentlicht 1992, Andreas Lindemann/Henning Paulsen, ed.)
 
 ## Einzelne Schriften:

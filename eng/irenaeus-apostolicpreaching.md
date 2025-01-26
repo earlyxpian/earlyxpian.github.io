@@ -4,7 +4,7 @@ title: Irenaeus's Demonstration of the Apostolic Preaching
 
 # Irenaeus's Demonstration of the Apostolic Preaching
 
-* Armitage Robinson (translated ~1920)
+* J. Armitage Robinson (translated ~1920)
   * [*St Irenæus: The Demonstration of the Apostolic Preaching*](https://ccel.org/ccel/irenaeus/demonstr) (published 1920) --- text, text/HTML, text/PDF & page images
     * [alternative copy](https://archive.org/details/stirenusdemons00irenuoft) --- facsimile
 * Joseph P. Smith (translated ~1952)
