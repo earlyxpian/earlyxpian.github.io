@@ -14,13 +14,13 @@ title: Deutsche Übersetzungen/German Translations
 ### Erste Clemensbrief:
 
 * Joseph A. Fischer (übersetzt ~1956) 
-  *Die Apostolischen Väter. Eingeleitet, herausgegeben, übertragen und erläutert* (Schriften des Urchristentums, 1), Wissenschaftliche Buchgesellschaft (veröffentlicht 1956)
+  * *Die Apostolischen Väter. Eingeleitet, herausgegeben, übertragen und erläutert* (Schriften des Urchristentums, 1), Wissenschaftliche Buchgesellschaft (veröffentlicht 1956)
 
 ### Der Hirte des Hermas:
 
 * Theodor von Zahn (übersetzt ~1868)
   * [*Der Hirt des Hermas*](http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10606548-7) (veröffentlicht 1868) --- facsimile
-*  Martin Leutzsch (übersetzt ~1998)
+* Martin Leutzsch (übersetzt ~1998)
   * *Papiasfragmente, Hirt des Hermas* (Schriften des Urchristentums, 3), Wissenschaftliche Buchgesellschaft (veröffentlicht 1998) 
 
 ### Zweiter Clemensbrief:

@@ -33,4 +33,6 @@ title: The Martyrdom of Perpetua and Felicitas
     * [older version that better matches the audio version hosted on that site](perpetua_biblicalaudio_2016.pdf)
 * Éric Rebillard (translated ~2017)
   * [*Greek and Latin Narratives about the Ancient Martyrs*](https://archive.org/details/rebillard-greek-and-latin-narratives-about-the-ancient-martyrs), Oxford Univeristy Press (published 2017) --- facsimile
+* Andrew S. Jacobs & L. Stephanie Cobb (translated ~2021)
+  * [*The Passion of Perpetua and Felicitas in Late Antiquity*](https://www.google.com/books/edition/The_Passion_of_Perpetua_and_Felicitas_in/vei6EAAAQBAJ), Univerity of California Press (published 2021) --- facsimile (preview)
 
