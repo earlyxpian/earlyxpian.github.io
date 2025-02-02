@@ -22,4 +22,4 @@ Eusebius is not a pre-Nicene writer. However, his *Ecclesiastical History* is th
 * Geoffrey Arthur Williamson/Andrew Louth (translated ~1965)
   * [*Eusebius: The History of the Church*](https://archive.org/details/historyofchurchf0000euse), Penguin Classics (published 1965, second edition 1989) --- facsimile
 * Paul L. Maier (translated ~1999)
-  * *Eusebius: The Church History*, Kregel Publications (published 1999, second edition 2007)
+  * [*Eusebius: The Church History*](https://archive.org/details/eusebiuschurchhi0000unse), Kregel Publications (published 1999, second edition 2007) --- facsimile

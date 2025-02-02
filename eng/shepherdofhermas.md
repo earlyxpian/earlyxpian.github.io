@@ -8,7 +8,7 @@ title: Shepherd of Hermas (English translations)
 
 *The Shepherd of Hermas* contains a series of visions that a man named Hermas received. Hermas lived in Rome and wrote *The Shepherd* some time between the late first century and the middle of the second century. The third century writer Origen thought that Hermas was the person mentioned by Paul in Romans 16:14. The anonymous *Muratorian Fragment* claims that *The Shepherd of Hermas* was written during the time that Pius was overseer in Rome (~140-154 A.D.).
 
-*The Shepherd of Hermas* was so widely appreciated and read by the Christians of the second and third centuries that there are more surviving fragments of it from that era than there are of some of the books that are a part of the New Testament. *The Shepherd of Hermas* is bound along with the New Testament books in one of the oldest surviving complete Christian Bibles, the *Codex Sinaiticus*. These facts make it likely the most helpful early Christian writing outside of the New Testament for understanding early Christianity.
+*The Shepherd of Hermas* was so widely appreciated and read by the Christians of the second and third centuries that there are more surviving fragments of it from that era than there are of all of the books that are a part of the New Testament with the exception of Mathew and John.[^1] *The Shepherd of Hermas* is bound along with the New Testament books in one of the oldest surviving complete Christian Bibles, the *Codex Sinaiticus*. These facts make it likely the most helpful early Christian writing outside of the New Testament for understanding early Christianity.
 
 ## Suggested first translation(s):
 
@@ -26,7 +26,7 @@ An easy-to-read, modern English translation that is freely available is the one 
   * [*The Shepherd of Hermas*](https://archive.org/details/shepherdhermast00hermgoog) (published 1870) --- facsimile
 * George A. Jackson (translated ~1879)
   * [*The Apostolic Fathers and The Apologists of the Second Century*](https://archive.org/details/theapostolicfath00jackuoft) (published 1879, this is a partial translation only) --- facsimile
-* J.B. Lightfoot/J.R. Harmer (translated ~1891)
+* J.B. Lightfoot & J.R. Harmer (translated ~1891)
   * [*The Apostolic Fathers*](https://archive.org/details/a590752000clemuoft) (published 1912) --- facsimile
   * [*The Apostolic Fathers*](http://www.katapi.org.uk/ApostolicFathers/ApFathers-Contents.html) (published 1891) --- text/HTML
 * C. Taylor (translated ~1903)
@@ -57,6 +57,7 @@ An easy-to-read, modern English translation that is freely available is the one 
     * This translation is a language update of the translation by Fredrick Crombie into modern English.
 * Rick Brannan (translated ~2017)
   * *The Apostolic Fathers: A New Translation*, Lexham Press (published 2017)
-* Michael J. Svigel/Caroline P. Buie (translated ~2023)
-  * [*The Shepherd of Hermas: a new translation and commentary*](https://books.google.com/books?id=iBrQEAAAQBAJ), a volume in *Apostolic Fathers Commentary Series*, Cascade Books (published 2023)
+* Michael J. Svigel & Caroline P. Buie (translated ~2023)
+  * [*The Shepherd of Hermas: a new translation and commentary*](https://books.google.com/books?id=iBrQEAAAQBAJ), a volume in *Apostolic Fathers Commentary Series*, Cascade Books (published 2023) --- facsimile (preview)
 
+[^1]: This may sound a bit more remarkable than it is as *The Shepherd* is about twice the length of the longest book in the New Testament. Therefore if the early Christians made the same number of copies each of *3 John* and *The Shepherd*, we would expect to find many more fragments of *The Shepherd* due to its size. However, this is still a remarkable fact that shows how much *The Shepherd* must have been copied. Source: Larry W. Hurtado, *The Earliest Christian Artifacts: Manuscripts and Christian Origins*, Eerdmans (published 2006), pages 20–23.
