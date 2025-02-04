@@ -15,14 +15,15 @@ title: Traductions en français/French Translations
 ### Clément de Rome: Épître aux Corinthiens
 
 * Annie Jaubert (traduit ~1971)
-  * [*Clément de Rome: Épître aux Corinthiens*](https://archive.org/details/SC167ClmentDeRomeptreAuxCorinthiens), *Sources Chrétiennes* No. 167 (publié 1971) --- facsimile
+  * *Clément de Rome: Épître aux Corinthiens*, *Sources Chrétiennes* No. 167 (publié 1971)
 
 ### Hermas: Le Pasteur
 
 * Auguste Lelong (traduit ~1912)
   * [*Le Pasteur D'Hermas*](https://books.google.com/books?id=sD4AAAAAMAAJ), *Les Pères Apostoliques*, tome IV (publié 1912)
 * Robert Joly (traduit ~1958)
-  * [*Hermas: Le Pasteur*](https://archive.org/details/SC53HermasLePasteur), *Sources Chrétiennes* No. 53 (publié 1958) --- facsimile
+  * [*Hermas: Le Pasteur*](https://archive.org/details/lepasteur0000herm), *Sources Chrétiennes* No. 53 bis (publié 1958, deuxième édition 1968) --- facsimile
+    * [une autre copie](https://archive.org/details/lepasteur0053herm) --- facsimile
 * Philippe Henne (traduit ~2011)
   * *Le Pasteur d'Hermas*, Les Èditions du Cerf (publié 2011)
 
@@ -31,14 +32,14 @@ title: Traductions en français/French Translations
 * Auguste Lelong (traduit ~1927)
   * [*Ignace d'Antioche et Polycarpe de Smyrne*](https://archive.org/details/PeresApostoliquesIIIAmlior), *Les Pères Apostoliques*, tome III  (publié 1927) --- facsimile
 * Pierre-Thomas Camelot (traduit ~1945)
-  * [*Ignace d'Antioche & Polycarpe De Smyrne: Lettres. Martyre de Polycarpe*](https://archive.org/details/SC10StIgnaceDAntiocheLettresEtMartyreDePolycarpe), *Sources Chrétiennes* No. 10 *bis* (publié 1945/1950/1958) --- facsimile
+  * [*Ignace d'Antioche & Polycarpe De Smyrne: Lettres. Martyre de Polycarpe*](https://archive.org/details/ignacedantiochee0010igna_ed03), *Sources Chrétiennes* No. 10 *bis* (publié 1945/1950/1958) --- facsimile
 
 ### Polycarpe de Smyrne: Lettre aux Philippiens
 
 * Auguste Lelong (traduit ~1927)
   * [*Ignace d'Antioche et Polycarpe de Smyrne*](https://archive.org/details/PeresApostoliquesIIIAmlior), *Les Pères Apostoliques*, tome III:  (publié 1927) --- facsimile
 * Pierre-Thomas Camelot (traduit ~1945)
-  * [*Ignace D'Antioche & Polycarpe De Smyrne: Lettres. Martyre de Polycarpe*](https://archive.org/details/SC10StIgnaceDAntiocheLettresEtMartyreDePolycarpe), *Sources Chrétiennes* No. 10 *bis* (publié 1945/1950/1958) --- facsimile
+  * [*Ignace D'Antioche & Polycarpe De Smyrne: Lettres. Martyre de Polycarpe*](https://archive.org/details/ignacedantiochee0010igna_ed03), *Sources Chrétiennes* No. 10 *bis* (publié 1945/1950/1958) --- facsimile
   * [*Lettre aux Philippiens par Polycarpe de Smyrne*](http://www.samizdat.qc.ca/vc/theol/pdfs/AuxPhilippiens_Polycarpe.pdf) --- text/PDF
 
 ### Épître De Barnabé
@@ -52,6 +53,8 @@ title: Traductions en français/French Translations
 
 * Hippolyte Hemmer/Gabriel Oger/A. Laurent (traduit ~1907)
   * [*Doctrine des Apôtres et l'Epître de Barnabé*](https://archive.org/details/DidacheEtEpitreDeBarnabas), *Les Pères Apostoliques*, tome I-II (publié 1907) --- facsimile
+* Willy Rordorf & André Tuilier (traduit ~1978)
+  * [*La Doctrine des Douze Apôtres (Didachè)*](https://archive.org/details/ladoctrinedesdou0248unse), *Sources Chrétiennes* No. 248 (publié 1978) --- facsimile
 
 ### Apologie d'Aristide
 
@@ -68,12 +71,12 @@ title: Traductions en français/French Translations
 * Auguste Lelong (traduit ~1927)
   * [*Ignace d'Antioche et Polycarpe de Smyrne*](https://archive.org/details/PeresApostoliquesIIIAmlior), *Les Pères Apostoliques*, tome III:  (publié 1927) --- facsimile
 * Pierre-Thomas Camelot (traduit ~1945)
-  * [*Ignace D'Antioche & Polycarpe De Smyrne: Lettres. Martyre de Polycarpe*](https://archive.org/details/SC10StIgnaceDAntiocheLettresEtMartyreDePolycarpe), *Sources Chrétiennes* No. 10 *bis* (publié 1945/1950/1958) --- facsimile
+  * [*Ignace D'Antioche & Polycarpe De Smyrne: Lettres. Martyre de Polycarpe*](https://archive.org/details/ignacedantiochee0010igna_ed03), *Sources Chrétiennes* No. 10 *bis* (publié 1945/1950/1958) --- facsimile
 
 ### Lettre À Diognète
 
 * Henri Irénée Marrou (traduit ~1951)
-  * [*A Diognète*](https://archive.org/details/SC33LettreDiognte), *Sources Chrétiennes* No. 33 *bis* (publié 1971) --- facsimile
+  * [*A Diognète*](https://archive.org/details/diognte0033unse), *Sources Chrétiennes* No. 33 *bis* (publié 1971) --- facsimile
 
 ### Justin: Premiere Apologie
 
@@ -93,7 +96,20 @@ title: Traductions en français/French Translations
 ### Théophile d'Antioche: À Autolycus
 
 * Jean Sender (traduit 1948)
-  * *Théophile d'Antioche: Trois livres à Autolycus*, *Sources Chrétiennes* no. 20, Du Cerf (publié 1948)
+  * *Théophile d'Antioche: Trois livres à Autolycus*, *Sources Chrétiennes* no. 20 (publié 1948)
+
+### Clément D'Alexandrie: Les Stromates
+
+* Claude Mondésert (traduit ~1954)
+  * [*Les Stromates: Stromate II*](https://archive.org/details/clementdalexandr0002unse), *Sources Chrétiennes* no. 38 (publié 1954) --- facsimile
+    * [une autre copie](https://archive.org/details/lesstromates0038clem) --- facsimile
+* Alain Le Boulluec
+  * [*Les Stromates: Stormate V, Tome II*](https://archive.org/details/isbn_2204016861_5), *Sources Chrétiennes* no. 279 (publié 1981) --- facsimile
+    * [une autre copie](https://archive.org/details/lesstromates0279clem) --- facsimile
+  * [*Les Stromates: Stormate VII*](https://archive.org/details/lesstromates0428clem), *Sources Chrétiennes* no. 428 (publié 1997) --- facsimile
+* Patrick Descourtieux (traduit ~1999)
+  * [*Les Stromates: Stromate VI*](https://archive.org/details/lesstromates0446clem), *Sources Chrétiennes* no. 446 (publié 1999) --- facsimile
+
 
 ### Tertullien: Apologétique
 
