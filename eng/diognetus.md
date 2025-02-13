@@ -54,3 +54,5 @@ An easy-to-read, modern English translation that is freely available is the one 
   * [*The Epistle to Diognetus (with the Fragment of Quadratus): Introduction, Text, and Commentary*](https://books.google.com/books?id=vTRLAAAAQBAJ), Oxford University Press (published 2013) --- facsimile/preview
 * Rick Brannan (translated ~2017)
   * *The Apostolic Fathers: A New Translation*, Lexham Press (published 2017)
+* William Varner (translated ~2023)
+  * [*The Apostolic Fathers: An Introduction And Translation*](https://www.google.com/books/edition/The_Apostolic_Fathers/aXimEAAAQBAJ), Bloomsbury Publishing (published 2023) --- facsimile (preview)

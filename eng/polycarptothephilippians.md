@@ -68,5 +68,10 @@ An easy-to-read, modern English translation that is freely available is the one 
   * *The Apostolic Fathers: A New Translation*, Lexham Press (published 2017)
 * Matti Myllykoski (translated ~2022-2023)
   * [*Epistula Polycarpi*](https://libraryguides.helsinki.fi/hulce_epistula_polycarpi), Helsinki University Library Critical Editions (published 2023, revised 2024) --- text/HTML & text/PDF
+* William Varner (translated ~2023)
+  * [*The Apostolic Fathers: An Introduction And Translation*](https://www.google.com/books/edition/The_Apostolic_Fathers/aXimEAAAQBAJ), Bloomsbury Publishing (published 2023) --- facsimile (preview)
 * William W. Webber (translated ~2024)
   * [*Dying to Reach God: A New Translation and Commentary on the Writings of St. Ignatius of Antioch and St. Polycarp of Smyrna, Second-Century Christian Martyrs*](https://books.google.com/books?id=olUXEQAAQBAJ), Resource Publications (published 2024) --- facsimile/preview
+* Anonymous (language updated 2025)
+  * [*Polycarp's Letter to the Philippians in contemporary English*](polycarptothephilippians_contemporary.html)
+    * This translations is a language update of the translation listed above by Massey Hamilton Shepherd, Jr. 

@@ -78,7 +78,8 @@ An easy-to-read, modern English translation that is freely available is the one 
 * Bart D. Ehrman (translated ~2003)
   * *The Apostolic Fathers, Volume I*, Harvard University Press (published 2003)
 * William Varner (translated ~2007)
-  * [*The Way of the Didache: The First Christian Handbook*](https://archive.org/details/wayofdidachefirs0000varn), University Press of America (published 2007)
+  * [*The Way of the Didache: The First Christian Handbook*](https://archive.org/details/wayofdidachefirs0000varn), University Press of America (published 2007) --- facsimile
+  * [*The Apostolic Fathers: An Introduction And Translation*](https://www.google.com/books/edition/The_Apostolic_Fathers/aXimEAAAQBAJ), Bloomsbury Publishing (published 2023) --- facsimile (preview)
 * Anthony H. Jones (translated ~2009)
   * [*The Teaching of the Twelve*](teaching-12-pgs.19-34.pdf), Paraclete Press (published 2009) --- text/PDF
 * Thomas O'Loughlin (translated ~2010)

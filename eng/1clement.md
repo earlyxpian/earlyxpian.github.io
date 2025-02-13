@@ -76,3 +76,5 @@ An easy-to-read, modern English translation that is freely available is the one 
   * [*The Letter of the Roman Church to the Corinthian Church from the Era of Domitian: 1 Clement*](https://books.google.com/books?id=ClITEAAAQBAJ), Pickwick Publications/Wipf and Stock Publishers (published 2021, this book is a translation of a German book published 1929) --- facsimile/preview
 * Rudolf Knopf/Jacob N. Cerone (translated ~2023 by Jacob Cerone from a German translation by Rudolf Knopf which was translated ~1920)
   * [*Commentary on the Didache and on 1-2 Clement*](https://books.google.com/books?id=AL2qEAAAQBAJ), Pickwick Publications (published 2023, this book is a translation of a German book published 1920) --- facsimile/preview
+* William Varner (translated ~2023)
+  * [*The Apostolic Fathers: An Introduction And Translation*](https://www.google.com/books/edition/The_Apostolic_Fathers/aXimEAAAQBAJ), Bloomsbury Publishing (published 2023) --- facsimile (preview)

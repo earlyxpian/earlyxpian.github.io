@@ -50,8 +50,10 @@ title: Deutsche Übersetzungen/German Translations
 
 ### Apologie des Aristides:
 
+* Reinhold Seeberg (übersetzt ~1893)
+  * [*Forschungen zur geschichte des neutestamentlichen Kanons und der altkirchlichen literatur*, teil 5](https://archive.org/details/forschungenzurge05zahn) (veröffentlicht 1893) --- facsimile
 * Michael Lattke (übersetzt ~2018)
-  *Aristides ›Apologie‹ übersetzt und erklärt*, Herder (veröffentlicht 2018)
+  * *Aristides ›Apologie‹ übersetzt und erklärt*, Herder (veröffentlicht 2018)
 
 ### Oden Salomos:
 

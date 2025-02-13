@@ -58,3 +58,5 @@ Two easy-to-read, modern English translations that are freely available are the 
   * *The Apostolic Fathers: A New Translation*, Lexham Press (published 2017)
 * Jonathon Lookadoo (translated ~2022)
   * [*The Epistle of Barnabas: A Commentary*](https://books.google.com/books?id=0ah2EAAAQBAJ), Cascade Books (published 2022) --- facsimile/preview
+* William Varner (translated ~2023)
+  * [*The Apostolic Fathers: An Introduction And Translation*](https://www.google.com/books/edition/The_Apostolic_Fathers/aXimEAAAQBAJ), Bloomsbury Publishing (published 2023) --- facsimile (preview)

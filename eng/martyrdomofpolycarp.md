@@ -70,5 +70,7 @@ An easy-to-read, modern English translation that is freely available is the one 
   * *The Apostolic Fathers: A New Translation*, Lexham Press (published 2017)
 * Éric Rebillard (translated ~2017)
   * [*Greek and Latin Narratives about the Ancient Martyrs*](https://archive.org/details/rebillard-greek-and-latin-narratives-about-the-ancient-martyrs), Oxford Univeristy Press (published 2017) --- facsimile
+* William Varner (translated ~2023)
+  * [*The Apostolic Fathers: An Introduction And Translation*](https://www.google.com/books/edition/The_Apostolic_Fathers/aXimEAAAQBAJ), Bloomsbury Publishing (published 2023) --- facsimile (preview)
 * William W. Webber (translated ~2024)
   * [*Dying to Reach God: A New Translation and Commentary on the Writings of St. Ignatius of Antioch and St. Polycarp of Smyrna, Second-Century Christian Martyrs*](https://books.google.com/books?id=olUXEQAAQBAJ), Resource Publications (published 2024) --- facsimile/preview
