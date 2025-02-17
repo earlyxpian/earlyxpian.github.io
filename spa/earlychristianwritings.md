@@ -39,7 +39,8 @@ title: Traducciones al español/Spanish Translations
 * Daniel Ruiz Bueno (traducido ~1950)
   * [*Padres apostólicos*](https://archive.org/details/2acartas.clementeromanoaloscorintiosdedanielruizbuenoenpadresapostolicos), *Biblioteca de autores cristianos* n. 65 (publicado 1950)
 
-### Las Odas de Salomón
+### Las Odas de Salomón:
+
 * Misioneros del Sagrado Corazón en el Perú
   * [*Las Odas de Salomón*](https://www.mscperu.org/biblia/apocrifos/odasSalomon/odasSalom00.htm)
 
@@ -54,5 +55,8 @@ title: Traducciones al español/Spanish Translations
   * *Actas de los mártires*, *Biblioteca de autores cristianos*, La Editorial Católica (publicado 1951)
     * [leer extractos en línea](https://www.primeroscristianos.com/acta-de-martirio-de-santas-felicidad-y-perpetua-ano-203-d-c/)
 
+### Eusebio: Historia de la iglesia:
 
+* Paul L. Maier/Santiago Escuain (traducido ~1999)
+  * [*Eusebio: Historia de la iglesia*](https://archive.org/details/eusebiohistoriad0000paul), Editorial Portavoz/Kregel Publications (publicado 1999)
  

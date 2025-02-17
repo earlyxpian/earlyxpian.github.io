@@ -17,6 +17,10 @@ title: Early Christian Writings in their original languages or other ancient lan
 
 * [*Die apostolischen Väter I: Der Hirt des Hermas*](https://www.degruyter.com/document/doi/10.1515/9783110299199/html), *GCS* 48 (published 1967, edited by Molly Whittacker) --- facsimile
 
+### Polycarp to the Philippians
+
+* [*Epistula Polycarpi*](https://libraryguides.helsinki.fi/hulce_epistula_polycarpi/), Helsinki University Library Critical Editions (published 2023, edited by Matti Myllykoski)
+
 ### Barnabas:
 * [*The Editio Princeps of the Epistle of Barnabas*](https://archive.org/details/editioprincepsof00barn) (published 1883, edited by J. H. Backhouse) --- facsimile
 * [*The Epistle of Barnabas*](https://books.google.com/books?id=8ktOAAAAYAAJ) (published 1920, edited by Thomas Wilfrid Crafer) --- facsimile

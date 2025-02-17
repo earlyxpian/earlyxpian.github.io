@@ -23,3 +23,5 @@ Eusebius is not a pre-Nicene writer. However, his *Ecclesiastical History* is th
   * [*Eusebius: The History of the Church*](https://archive.org/details/historyofchurchf0000euse), Penguin Classics (published 1965, second edition 1989) --- facsimile
 * Paul L. Maier (translated ~1999)
   * [*Eusebius: The Church History*](https://archive.org/details/eusebiuschurchhi0000unse), Kregel Publications (published 1999, second edition 2007) --- facsimile
+* Jeremy M. Schott (translated ~2019)
+  * [*The History of the Church: A New Translation*](https://www.google.com/books/edition/The_History_of_the_Church/WfCFDwAAQBAJ), University of California Press (published 2019) --- facsimile (preview)

@@ -60,6 +60,7 @@ title: Audio Recordings of Early Christian Writings
 
 ### *Polycarp to the Philippians*
 
+ * <https://early.xpian.info/eng/polycarptothephilippians_contemporary.html>
  * <http://www.biblicalaudio.com/polycarp.htm>
  * <http://www.earlychristiancommentary.com/Epistle%20of%20Polycarp%20-%20Bracket.mp3>
  * <https://archive.org/details/PolycarpPhilp>
