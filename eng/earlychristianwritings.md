@@ -56,6 +56,7 @@ This list is still a work-in-progress and does not yet include most 3rd and 4th 
 * [Clement of Alexandria --- Fragments](clementofalexandria-fragments.html)
 * [Tertullian](tertullian.html)
 * [Martyrdom of Perpetua and Felicitas](perpetua.html)
-* [Hippolytus --- On Christ and Antichrist](hippolytus_on_christ_and_antichrist.html)
+* [Hippolytus --- On Christ and Antichrist](hippolytus-onchristandantichrist.html)
 * [Hermias](hermias.html)
+* [Origen of Alexandria --- "Homilies on Ezekiel"](origen-homiliesonezekiel.html)
 * [Eusebius's Ecclesiastical History](eusebius-ecclesiasticalhistory.html)

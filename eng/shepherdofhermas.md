@@ -2,7 +2,7 @@
 title: Shepherd of Hermas (English translations)
 ---
 
-# Shepherd of Hermas (also called *Pastor of Hermas*)
+# Shepherd of Hermas (also called *The Shepherd* and *Pastor of Hermas*)
 
 ## Brief description:
 

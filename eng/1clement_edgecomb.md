@@ -4,7 +4,7 @@ title: First Clement, transalted by Kevin P. Edgecomb
 
 # First Clement, translated by Kevin P. Edgecomb
 
-Reproduced with permission from [the translator's website](http://www.bombaxo.com/).
+Reproduced with permission from [the translator's website](https://www.bombaxo.com/first-clement/).
 
 (1.1) The Church of God sojourning at Rome, to the Church of God sojourning at Corinth, those called and made holy through the will of God, through our Lord Jesus Christ. Grace and peace to you be multiplied from Almighty God through Jesus Christ.
 

@@ -86,3 +86,7 @@ title: Early Christian Writings in their original languages or other ancient lan
 ### The Martyrdom of Perpetua and Felicitas:
 * [*The Acts of the Martyrdom of Perpetua and Felicitas: the original Greek text now first edited from a ms. in the Library of the Convent of the Holy Sepulcher at Jerusalem.*](https://archive.org/details/TheActsOfTheMartyrdom) (published 1890, edited by  J. Rendel Harris/Seth K. Gifford) --- facsimile
 * [*The Passion of S. Perpetua*](https://archive.org/details/MN5140ucmf_2) (published 1891, edited by J. Armitage Robinson) --- facsimile
+
+### Refutation of All Heresies:
+
+* *Refutatio omnium haeresium*, Walter de Gruyter (published 1986, edited by Miroslav Marcovich)

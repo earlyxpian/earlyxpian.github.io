@@ -1,5 +1,5 @@
 ---
-title: Revelation of Peter
+title: Revelation of Peter (English translations)
 ---
 
 # Revelation of Peter (also called "Apocalypse of Peter")

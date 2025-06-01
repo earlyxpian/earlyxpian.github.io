@@ -1,5 +1,5 @@
 ---
-title: Hippolytus's On Christ and Antichrist
+title: Hippolytus's On Christ and Antichrist (English translations)
 ---
 
 # Hippolytus's On Christ and Antichrist

@@ -8,7 +8,7 @@ title: Clement of Alexandria --- "Who is the Rich Man That is Saved?"
   * [*A Discourse Concerning the Salvation of Rich Men*](https://books.google.com/books?id=h-YCAAAAQAAJ) (published 1711) --- facsimile
 * William Wilson (translated ~1867/1869)
   * [*Ante-Nicene Fathers*](anf.html) Volume 2 (published 1885) 
-    * [read online](https://ccel.org/ccel/schaff/anf02/anf02.vi.ii.html)
+    * [read online](https://ccel.org/ccel/schaff/anf02/anf02.vi.v.html)
 * Percy Mordaunt Barnard (translated ~1901)
   * [*A Homily of Clement of Alexandria Entitled, Who is the Rich Man That is Being Saved?*](https://archive.org/details/homilyofclemento00clemuoft) (published 1901) --- facsimile
 * Rufus M. Jones (translated ~1909)
