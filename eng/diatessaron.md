@@ -19,6 +19,6 @@ The Diatessaron is an early harmony of Matthew, Mark, Luke and John that was pro
 * Daniel Plooij (translated ~1923)
   * [*A Primitive Text of the Diatessaron*](https://archive.org/details/MN41441ucmf_1) (published 1923, partial translation only) --- facsimile
 * Yuri Kuchinsky (translated ~2002)
-  * [*The Magdalene Gospel: a Journey Behind the New Testament*](http://www.globalserve.net/~yuku/magd.htm) (published 2002, this work is a modern English translation of *The Pepysian Gospel Harmony* above) --- text/html
+  * [*The Magdalene Gospel: a Journey Behind the New Testament*](https://archive.groovy.net/yuku/pepys/mag.html) (published 2002, this work is a modern English translation of *The Pepysian Gospel Harmony* above) --- text/html
 * David R. Smith (translated ~2006/revised 2013)
   * [*The Forgotten Gospel: The Latin Diatessaron*](https://archive.org/details/TheForgottenGospel) (published 2006/2013) 

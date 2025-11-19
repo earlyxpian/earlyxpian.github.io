@@ -73,5 +73,5 @@ An easy-to-read, modern English translation that is freely available is the one 
 * William W. Webber (translated ~2024)
   * [*Dying to Reach God: A New Translation and Commentary on the Writings of St. Ignatius of Antioch and St. Polycarp of Smyrna, Second-Century Christian Martyrs*](https://books.google.com/books?id=olUXEQAAQBAJ), Resource Publications (published 2024) --- facsimile/preview
 * Anonymous (language updated 2025)
-  * [*Polycarp's Letter to the Philippians in contemporary English*](polycarptothephilippians_contemporary.html)
+  * [*Polycarp's Letter to the Philippians in Contemporary English*](polycarptothephilippians_contemporary.html)
     * This translations is a language update of the translation listed above by Massey Hamilton Shepherd, Jr. 

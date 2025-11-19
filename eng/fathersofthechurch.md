@@ -8,37 +8,43 @@ This large series, currently at 147 volumes, has been published by The Catholic 
 
 ## Volumes:
 
-* [1: The Apostolic Fathers](https://archive.org/details/in.ernet.dli.2015.58476) --- facsimile
-* [6: Justin Martyr: The First Apology, The Second Apology, Dialogue with Trypho, Exhortation to the Greeks, Discourse to the Greeks, The Monarchy of the Rule of God](https://archive.org/details/fathersofchurch0000unse) --- facsimile
-  * [2nd copy](https://archive.org/details/firstapologyseco0000just) --- facsimile
-* 10: Tertullian & Minucius Felix: Apologetical Works; Octavius
-* 19: Eusebius Pamphili: Ecclesiastical History, Books 1-5 
-* 23: Clement of Alexandria: Christ the Educator
-* 29: Eusebius Pamphili: Ecclesiastical History, Books 6-10
-* 36: Cyprian: Treatises
-* [40: Tertullian: Disciplinary, Moral, and Ascetical Works](https://archive.org/details/fathersofthechur013352mbp)
-* [49: Lactantius: The Divine Institutes, Books I–VII](https://archive.org/details/fathersofchurch0049unse)
-* 51: Cyprian: Letters 1-81
-* [54: Lactantius: The Minor Works](https://archive.org/details/minorworks0054lact)
-* 67: Novatian: The Trinity, The Spectacles, Jewish Foods, In Praise of Purity, Letters
-* 71: Origen: Homilies on Genesis and Exodus
-* 80: Origen: Commentary on the Gospel According to John, Books 1-10
-* 85: Clement of Alexandria: Stormateis, Books 1-3
-* 83: Origen: Homilies on Leviticus, 1–16
-* 89: Origen: Commentary on the Gospel According to John, Books 13-32
-* 94: Origen: Homilies on Luke
-* 97: Origen: Homilies on Jeremiah and I Kings 28
-* 98: Gregory Thaumaturgus: Life and Works
-* 103: Origen: Commentary on the Epistle to the Romans, Books 1-5
-* 104: Origen: Commentary on the Epistle to the Romans, Books 6–10
-* 105: Origen: Homilies on Joshua
-* 119: Origen: Homilies on Judges
-* 120: Pamphilus and Rufinus: Apology for Origen: with On the Falsification of the Books of Origen
-* 141: Origen: Homilies on the Psalms: Codex Monacensis Graecus 314
-* 142: Origen: Homilies on Isaiah
-* 146: Origen: Homilies on Psalms 36-38
+* [1: The Apostolic Fathers](https://archive.org/details/the-fathers-of-the-church-a-new-translation-147-volumes/The%20Fathers%20of%20the%20Church%2C%20A%20New%20Translation%2C%20Volume%20001%20Walsh%20S.J.%2C%20Gerald%20G.%20%28Translator%29%2C%20Francis%20X.%20Grimm%20-%20The%20Apostolic%20Fathers%20%282008%29/) --- facsimile
+  * [alternative copy](https://archive.org/details/in.ernet.dli.2015.58476) --- facsimile
+* [6: Justin Martyr: The First Apology, The Second Apology, Dialogue with Trypho, Exhortation to the Greeks, Discourse to the Greeks, The Monarchy of the Rule of God](https://archive.org/details/the-fathers-of-the-church-a-new-translation-147-volumes/The%20Fathers%20of%20the%20Church%2C%20A%20New%20Translation%2C%20Volume%20006%20Justin%20Martyr%20-%20The%20First%2C%20Second%20Apology%2C%20Dialogue%20with%20Trypho%2C%20Exhortation%20to%20the%20Greeks/mode/2up) --- facsimile
+  * [alternative copy](https://archive.org/details/fathersofchurch0000unse) --- facsimile
+  * [alternative copy](https://archive.org/details/firstapologyseco0000just) --- facsimile
+* [10: Tertullian & Minucius Felix: Apologetical Works; Octavius](https://archive.org/details/the-fathers-of-the-church-a-new-translation-147-volumes/The%20Fathers%20of%20the%20Church%2C%20A%20New%20Translation%2C%20Volume%20010%20Tertullian%20-%20Apologetical%20Works_%20Octavius%20%282008%29/) --- facsimile
+* [19: Eusebius Pamphili: Ecclesiastical History, Books 1-5](https://archive.org/details/the-fathers-of-the-church-a-new-translation-147-volumes/The%20Fathers%20of%20the%20Church%2C%20A%20New%20Translation%2C%20Volume%20019%20Eusebius%20-%20Ecclesiastical%20History%2C%20Books%201-5%20%282005%29/) --- facsimile
+* [23: Clement of Alexandria: Christ the Educator](https://archive.org/details/the-fathers-of-the-church-a-new-translation-147-volumes/The%20Fathers%20of%20the%20Church%2C%20A%20New%20Translation%2C%20Volume%20023%20Clement%20Of%20Alexandria%20-%20Christ%20the%20Educator%20%282008%29/) --- facsimile
+* [29: Eusebius Pamphili: Ecclesiastical History, Books 6-10](https://archive.org/details/the-fathers-of-the-church-a-new-translation-147-volumes/The%20Fathers%20of%20the%20Church%2C%20A%20New%20Translation%2C%20Volume%20029%20Eusebius%20-%20Ecclesiastical%20History%2C%20Books%206-10%20%28Fathers%20of%20the%20Church%20Patristic%20Series%29%20%282005%29/) --- facsimile
+* [36: Cyprian: Treatises](https://archive.org/details/the-fathers-of-the-church-a-new-translation-147-volumes/The%20Fathers%20of%20the%20Church%2C%20A%20New%20Translation%2C%20Volume%20036%20Cyprian%20-%20Treatises%20%281958%29/) --- facsimile
+* [40: Tertullian: Disciplinary, Moral, and Ascetical Works](https://archive.org/details/the-fathers-of-the-church-a-new-translation-147-volumes/The%20Fathers%20of%20the%20Church%2C%20A%20New%20Translation%2C%20Volume%20040%20Tertullian%20-%20Disciplinary%2C%20Moral%2C%20and%20Ascetical%20Works%20%282008%29/) --- facsimile
+  * [alternative copy](https://archive.org/details/fathersofthechur013352mbp) --- facsimile
+* [49: Lactantius: The Divine Institutes, Books I–VII](https://archive.org/details/the-fathers-of-the-church-a-new-translation-147-volumes/The%20Fathers%20of%20the%20Church%2C%20A%20New%20Translation%2C%20Volume%20049%20Lactantius%20%28Author%29%2C%20McDonald%20O.P.%2C%20Sr.%20Mary%20Francis%20The%20Divine%20Institutes%2C%20Books%20I-VII%20%282008%29/) --- facsimile
+  * [alternative copy](https://archive.org/details/fathersofchurch0049unse) --- facsimile
+* [51: Cyprian: Letters 1-81](https://archive.org/details/the-fathers-of-the-church-a-new-translation-147-volumes/The%20Fathers%20of%20the%20Church%2C%20A%20New%20Translation%2C%20Volume%20051%20Cyprian%20-%20Letters%2C%20%281-81%29%20%282013%29/) --- facsimile
+* [54: Lactantius: The Minor Works](https://archive.org/details/the-fathers-of-the-church-a-new-translation-147-volumes/The%20Fathers%20of%20the%20Church%2C%20A%20New%20Translation%2C%20Volume%20054%20Lactantius_%20McDonald%2C%20Mary%20Francis%20-%20The%20minor%20works%20%281965%29/) --- facsimile
+  * [alternative copy](https://archive.org/details/minorworks0054lact) --- facsimile
+* [67: Novatian: The Trinity, The Spectacles, Jewish Foods, In Praise of Purity, Letters](https://archive.org/details/the-fathers-of-the-church-a-new-translation-147-volumes/The%20Fathers%20of%20the%20Church%2C%20A%20New%20Translation%2C%20Volume%20067%20Novatian%2C%20Russell%20J.%20DeSimone%20-%20The%20Trinity%2C%20The%20Spectacles%2C%20Jewish%20Foods%2C%20In%20Praise%20of%20Purity%2C%20Letters%20%282008%29/) --- facsimile
+* [71: Origen: Homilies on Genesis and Exodus](https://archive.org/details/the-fathers-of-the-church-a-new-translation-147-volumes/The%20Fathers%20of%20the%20Church%2C%20A%20New%20Translation%2C%20Volume%20071%20Origen%20%28Author%29%2C%20Ronald%20E.%20Heine%20%28Translator%29%20-%20Origen_%20Homilies%20on%20Genesis%20and%20Exodus%20%282002%29/) --- facsimile
+* [80: Origen: Commentary on the Gospel According to John, Books 1-10](https://archive.org/details/the-fathers-of-the-church-a-new-translation-147-volumes/The%20Fathers%20of%20the%20Church%2C%20A%20New%20Translation%2C%20Volume%20080%20Origen%20-%20Commentary%20on%20the%20Gospel%20According%20to%20John%2C%20Books%201-10%20%20%281989%29/) --- facsimile
+* [83: Origen: Homilies on Leviticus, 1–16](https://archive.org/details/the-fathers-of-the-church-a-new-translation-147-volumes/The%20Fathers%20of%20the%20Church%2C%20A%20New%20Translation%2C%20Volume%20083%20Origen%20%28Author%29%2C%20Gary%20Wayne%20Barkley%20%28Translator%29%20-%20Homilies%20on%20Leviticus%2C%201-16%20%282005%29/) --- facsimile
+* [85: Clement of Alexandria: Stormateis, Books 1-3](https://archive.org/details/the-fathers-of-the-church-a-new-translation-147-volumes/The%20Fathers%20of%20the%20Church%2C%20A%20New%20Translation%2C%20Volume%20085%20Saint%20Clement%20of%20Alexandria_%20Ferguson%2C%20John%20-%20Stromateis.%20Books%20one%20to%20three%2085%20%282005%29/) --- facsimile
+* [89: Origen: Commentary on the Gospel According to John, Books 13-32](https://archive.org/details/the-fathers-of-the-church-a-new-translation-147-volumes/The%20Fathers%20of%20the%20Church%2C%20A%20New%20Translation%2C%20Volume%20089%20Commentary%20on%20the%20Gospel%20According%20to%20John%20Books%2013-32%20%28Origen%29/) --- facsimile
+* [94: Origen: Homilies on Luke](https://archive.org/details/the-fathers-of-the-church-a-new-translation-147-volumes/The%20Fathers%20of%20the%20Church%2C%20A%20New%20Translation%2C%20Volume%20094%20Homilies%20on%20Luke%20-%20Fragments%20on%20Luke%20-%20Origen-%20Joseph%20T.%20Lienhard%20%282008%29/) --- facsimile
+* [97: Origen: Homilies on Jeremiah and I Kings 28](https://archive.org/details/the-fathers-of-the-church-a-new-translation-147-volumes/The%20Fathers%20of%20the%20Church%2C%20A%20New%20Translation%2C%20Volume%20097%20Origen%20%20%28Author%29%2C%20John%20Clark%20Smith%20%28Translator%29%20-%20Origen_%20Homilies%20on%20Jeremiah%20and%20I%20Kings%2028/) --- facsimile
+* [98: Gregory Thaumaturgus: Life and Works](https://archive.org/details/the-fathers-of-the-church-a-new-translation-147-volumes/The%20Fathers%20of%20the%20Church%2C%20A%20New%20Translation%2C%20Volume%20098%20Gregory%20Thamumaturgus%2C%20Slusser%20%28Translator%29%20-%20St.%20Gregory%20Thaumaturgus%20Life%20and%20Works-%281998%29/) --- facsimile
+* [103: Origen: Commentary on the Epistle to the Romans, Books 1-5](https://archive.org/details/the-fathers-of-the-church-a-new-translation-147-volumes/The%20Fathers%20of%20the%20Church%2C%20A%20New%20Translation%2C%20Volume%20103%20Origen%20-%20Commentary%20on%20the%20Epistle%20to%20the%20Romans%20%282001_2002/) --- facsimile
+* [104: Origen: Commentary on the Epistle to the Romans, Books 6–10](https://archive.org/details/the-fathers-of-the-church-a-new-translation-147-volumes/The%20Fathers%20of%20the%20Church%2C%20A%20New%20Translation%2C%20Volume%20104%20Origen_%20Commentary%20on%20the%20Epistle%20to%20the%20Romans%2C%20Books%206-10%20%282002%29/) --- facsimile
+* [105: Origen: Homilies on Joshua](https://archive.org/details/the-fathers-of-the-church-a-new-translation-147-volumes/The%20Fathers%20of%20the%20Church%2C%20A%20New%20Translation%2C%20Volume%20105%20Origen%20-%20Homilies%20on%20Joshua%20%28Fathers%20of%20the%20Church%20Patristic%20Series%29-%282002%29/) --- facsimile
+* [119: Origen: Homilies on Judges](https://archive.org/details/the-fathers-of-the-church-a-new-translation-147-volumes/The%20Fathers%20of%20the%20Church%2C%20A%20New%20Translation%2C%20Volume%20119%20Origen%20%28Author%29%2C%20Dively%20Lauro%2C%20Elizabeth%20Ann%20%28Translator%29%20-%20Origen_%20Homilies%20on%20Judges%20%282010%29/) --- facsimile
+  * [alternative copy](https://archive.org/details/the-fathers-of-the-church-a-new-translation-147-volumes/The%20Fathers%20of%20the%20Church%2C%20A%20New%20Translation%2C%20Volume%20119%20Origen%20-%20Homilies%20on%20Judges%20%28Fathers%20of%20the%20Church%20Patristic%20Series%29%20%282010%29/) --- facsimile
+* [120: Pamphilus and Rufinus: Apology for Origen: with On the Falsification of the Books of Origen](https://archive.org/details/the-fathers-of-the-church-a-new-translation-147-volumes/The%20Fathers%20of%20the%20Church%2C%20A%20New%20Translation%2C%20Volume%20120%20Pamphilus%2C%20Thomas%20Scheck%20-%20Apology%20for%20Origen_%20with%20On%20the%20Falsification%20of%20the%20Books%20of%20Origen%20by%20Rufinus-%20%282010%29/) --- facsimile
+* [141: Origen: Homilies on the Psalms: Codex Monacensis Graecus 314](https://archive.org/details/the-fathers-of-the-church-a-new-translation-147-volumes/The%20Fathers%20of%20the%20Church%2C%20A%20New%20Translation%2C%20Volume%20141%20Origen_%20Joseph%20W.%20Trigg%20-%20Homilies%20on%20the%20Psalms%20_%20Codex%20Monacensis%20Graecus%20314%20%282020%2C%29/) --- facsimile
+* [142: Origen: Homilies on Isaiah](https://archive.org/details/the-fathers-of-the-church-a-new-translation-147-volumes/The%20Fathers%20of%20the%20Church%2C%20A%20New%20Translation%2C%20Volume%20142%20Origen%20-%20Homilies%20on%20Isaiah%20%282021%29/) --- facsimile
+* [146: Origen: Homilies on Psalms 36-38](https://archive.org/details/the-fathers-of-the-church-a-new-translation-147-volumes/The%20Fathers%20of%20the%20Church%2C%20A%20New%20Translation%2C%20Volume%20146%20Origen%20-%20Homilies%20on%20Psalms%2036-38%20%282023%29/) --- facsimile
 
-For more information about this series, visit the [publisher's website](https://www.cuapress.org/). Scans of the entire series are avilable, for pay, via [“Project Muse”](https://muse.jhu.edu). If you have online access to collections of a large library, you may be able to access them for free there as some libraries have subscriptions to the “Project Muse.”
+For more information about this series, visit the [publisher's website](https://www.cuapress.org/). Scans of the entire series are avilable, for pay, via [“Project Muse”](https://muse.jhu.edu). If you have online access to collections of a large library, you may be able to access them for free there as some libraries have subscriptions to “Project Muse.”
 
 Limited previews of some of the volumes are available on Google Books:
 * [Volume 6](https://books.google.com/books?id=BYsK3PgR97wC)

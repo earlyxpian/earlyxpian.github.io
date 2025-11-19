@@ -10,5 +10,6 @@ This volume of a number of early Christian writings consists of translations and
 
 * [archive.org](https://archive.org/details/thedidache) --- facsimile
 * [archive.org alternative copy](https://archive.org/details/20191212theepistleofbarnabastheepistlesandthemartyrdom) --- facsimile
+* [archive.org alternative copy](https://archive.org/details/ancient-christian-writers-collection/Didache.%20Barnabas.%20Polycarpus.%20Papias.%20Epistula%20ad%20Diognetum%20EN%20%28James%20A.%20Kleist%2C%201948%29%20ACW%20006/) --- facsimile
 * [local mirror](http://canadafiles.xpian.info/ancient_christian_writers_vol_6.pdf) --- facsimile
 

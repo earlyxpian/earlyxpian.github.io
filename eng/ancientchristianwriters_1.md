@@ -22,4 +22,5 @@ This volume of Clement's Letter to the Corinthians and Ignatius's Letters consis
 ### Download:
 
 * [archive.org](https://archive.org/details/in.ernet.dli.2015.58587) --- facsimile
+  * [second copy](https://archive.org/details/ancient-christian-writers-collection/Clemens%20Romanus.%20Ignatius%20-%20Epistulae%20EN%20%28James%20A.%20Kleist%2C%201946%29%20ACW%20001/)
 * [local mirror](http://canadafiles.xpian.info/ancient_christian_writers_vol_1.pdf) --- facsimile
