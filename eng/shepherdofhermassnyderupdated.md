@@ -10,7 +10,7 @@ The language update was done with two goals: 1. to remove words or phrases which
 
 When updating Graydon Snyder's translation, nine other English translations were consulted to ensure that the changes made are reasonable translations of the underlying Greek and Latin text. A complete list of translations consulted is listed in an appendix. In a few places where Graydon Snyder's original translation differed from the majority of other translations in a way that gave a different meaning, it was updated to be consistent with the majority. 
 
-The following words, which were transliterated^[Transliteration is where the sounds of a word in one language are represented in the sounds of another language, rather than translating the meaning of the word. For example, the Greek word *APOSTELOS*, which means an envoy, delegate or messenger, is often transliterated to the English word apostle.] from Greek in the original translation have been changed to give the meaning of the Greek words they represent:
+The following words, which were transliterated[^1] from Greek in the original translation have been changed to give the meaning of the Greek words they represent:
 
 1. apostles has been changed to envoys
 2. deacons has been changed to assistants
@@ -28,3 +28,5 @@ This book can be downloaded in the following formats:
 
 * [ePUB](shepherd_of_hermas_snyder_updated.epub) 
 * [HTML](shepherd_of_hermas_snyder_updated.html) 
+
+[^1]: Transliteration is where the sounds of a word in one language are represented in the sounds of another language, rather than translating the meaning of the word. For example, the Greek word *APOSTELOS*, which means an envoy, delegate or messenger, is often transliterated to the English word apostle.
