@@ -46,6 +46,8 @@ An easy-to-read, modern English translation that is freely available is the one 
   * *The Apostolic Fathers: Greek Texts and English Translations of Their Writings*, Baker Academic (various editions, published 1992-2007)
   * [*The Two Ways: The Early Christian Vision of Discipleship from the Didache and the Shepherd of Hermas*](https://www.plough.com/en/topics/faith/early-christians/two-ways), Plough Publishing House (published 2018) -- text/ePub & text/PDF
     * This book only has exceprts of Micahel Holmes's translation of *The Sherpherd of Hermas*.
+* William Jardine (translated ~1992)
+  * *Shepherd of Hermas: The Gentle Apocalypse*, Proteus Publications (published 1992)
 * Carolyn Osiek (translated ~1999)
   * [*Shepherd of Hermas: a commentary*](http://archive.org/details/shepherdofhermas0000osie), Fortress Press (published 1999) --- facsimile
 * Bart D. Ehrman (translated ~2003)
@@ -62,4 +64,4 @@ An easy-to-read, modern English translation that is freely available is the one 
 * Michael J. Svigel & Caroline P. Buie (translated ~2023)
   * [*The Shepherd of Hermas: a new translation and commentary*](https://books.google.com/books?id=iBrQEAAAQBAJ), a volume in *Apostolic Fathers Commentary Series*, Cascade Books (published 2023) --- facsimile (preview)
 
-[^1]: This may sound a bit more remarkable than it is as *The Shepherd* is about twice the length of the longest book in the New Testament. Therefore if the early Christians made the same number of copies each of *3 John* and *The Shepherd*, we would expect to find many more fragments of *The Shepherd* due to its size. However, this is still a remarkable fact that shows how much *The Shepherd* must have been copied. Source: Larry W. Hurtado, *The Earliest Christian Artifacts: Manuscripts and Christian Origins*, Eerdmans (published 2006), pages 20–23.
+[^1]: This may sound a bit more remarkable than it is as *The Shepherd* is about twice the length of the longest book in the New Testament. Therefore if the early Christians made the same number of copies each of *3 John* and *The Shepherd*, we would expect to find many more fragments of *The Shepherd* due to its size. However, this is still a remarkable fact that shows how much *The Shepherd* must have been copied. Source: Larry W. Hurtado, *The Earliest Christian Artifacts: Manuscripts and Christian Origins*, Eerdmans (published 2006), pages 20–23 *via* Robert D. Heaton, *The Shepherd of Hermas As Scriptura Non Grata: From Popularity in Early Christianity to Exclusion from the New Testament Canon*, Lexington Books/Fortress Academic (published 2023), page xxii.
