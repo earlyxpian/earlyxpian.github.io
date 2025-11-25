@@ -37,4 +37,5 @@ An easy-to-read, modern English translation that is freely available is the one 
 * Leslie William Barnard (translated ~1997)
   * *St. Justin Martyr: The First and Second Apologies*, Volume 56 of [*Ancient Christian Writers*](ancientchristianwriters.html) (published 1997)
 * Denis Minns and Paul Parvis (translated ~2009)
-  * [*Justin, Philosopher and Martyr: Apologies*](https://books.google.com/books?id=TFsVDAAAQBAJ), Oxford University Press (published 2009) --- facsimile/preview
+  * [*Justin, Philosopher and Martyr: Apologies*](https://archive.org/details/justin-philosopher-and-martyr-apologies-by-denis-minns-paul-parvis-eds.trans.-z-lib.org), Oxford University Press (published 2009) --- facsimile
+    * [alternative copy] (https://books.google.com/books?id=TFsVDAAAQBAJ) --- facsimile (preview)

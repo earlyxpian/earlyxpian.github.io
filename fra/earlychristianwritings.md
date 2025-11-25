@@ -82,11 +82,17 @@ title: Traductions en français/French Translations
 
 * Paul Monceaux (traduit ~1928)
   * [*Justin Apologies I & II et Actes de Saint Justin et de Ses Compagnons*](http://www.samizdat.qc.ca/vc/pdfs/Apologetique_justin.pdf) (publié 2006) --- text/PDF
+* 
 
 ### Justin: Deuxième Apologie
 
 * Paul Monceaux (traduit ~1928)
   * [*Justin Apologies I & II et Actes de Saint Justin et de Ses Compagnons*](http://www.samizdat.qc.ca/vc/pdfs/Apologetique_justin.pdf) (publié 2006) --- text/PDF
+
+###  Justin: Dialogue Avec Tryphon
+
+* Philippe Bobichon (traduit ~2003)
+  * *Dialogue avec Tryphon : édition critique*, [vol. 1](https://folia.unifr.ch/global/documents/309109) & [vol. 2](https://folia.unifr.ch/global/documents/309122), Academic Press Fribourg (publié 2003) --- text/PDF
 
 ### Minucius Félix: Octavius
 
