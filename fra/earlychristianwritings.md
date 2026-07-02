@@ -91,6 +91,12 @@ title: Traductions en français/French Translations
 
 ###  Justin: Dialogue Avec Tryphon
 
+* Georges Archambault (traduit ~1909)
+  * *Justin: Dialogue avec Tryphon*, [tome 1](https://archive.org/details/dialogueavectryp01just) & [tome 2](https://archive.org/details/dialogueavectryp02just) (publié 1909)
+    * autres copies: [tome 1](https://archive.org/details/bwb_Y0-CCX-824_1), [tome 1](https://archive.org/details/pbc.gda.pl.Dialogue_avec_Tryphon_T1_Justyn), [tome 1](https://archive.org/details/pbc.gda.pl.Dialogue_avec_Tryphon_T1_Justyn_92452), [tome 2](https://archive.org/details/pbc.gda.pl.Dialogue_avec_Tryphon_T2_Justyn), [tome 2](https://archive.org/details/pbc.gda.pl.Dialogue_avec_Tryphon_T2_Justyn_92453)
+* Adalbert Hamman (traduit ~1958)
+  * *La Philosophie Passe au Christ --- L'oeuvre de Justin: Apologie: I et II, Dialogue avec Tryphon*, Editions de Paris (publié 1958)
+  * *Oeuvres complètes de Justin*, J.-P. Migne (publié 1994)
 * Philippe Bobichon (traduit ~2003)
   * *Dialogue avec Tryphon : édition critique*, [vol. 1](https://folia.unifr.ch/global/documents/309109) & [vol. 2](https://folia.unifr.ch/global/documents/309122), Academic Press Fribourg (publié 2003) --- text/PDF
 
